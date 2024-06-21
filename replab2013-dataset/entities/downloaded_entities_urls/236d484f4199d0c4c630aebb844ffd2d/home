@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<link type="text/css" rel="stylesheet" href="http://fast.fonts.com/cssapi/a73df7a7-b386-4fa6-ad23-5ce18fdb1216.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.thescriptmusic.com/favicon.ico" />
+	<title>The Script | The Official Site featuring News, Videos, Music, Albums, Singles, Gigs and Photos</title>
+	<meta name="author" content="Built by Kleber Design Ltd, http://kleber.net; commissioned by James Bassett, Sony Music UK" />
+	<meta property="fb:page_id" content="10638675398" />
+	<meta name="description" content="The Script - The Official Site featuring News, Videos, Music, Albums, Singles, Gigs and Photos" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="es" />	
+	<link rel="alternate" type="application/rss+xml" title="The Script - RSS Feed" href="http://www.thescriptmusic.com/es/rss/news.xml" />
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+	<script src="http://www.thescriptmusic.com/js/functions.js"></script>
+	<script src="http://www.thescriptmusic.com/js/browsersniff.js"></script>
+	<script src="http://www.thescriptmusic.com/js/jquery.cycle.lite.min.js"></script>
+	<script>var WEBROOT = '/';</script>
+	<link rel="stylesheet" type="text/css" href="http://www.thescriptmusic.com/css/thescript.css?v=201209" />
+<!--[if lt IE 9]>
+     <script src="/js/html5.js"></script>
+<![endif]-->
+
+</head>
+
+<body class="home-section">
+
+<div class="page">
+
+<script type="text/javascript">
+<!--//
+$(document).ready(function() {
+	$('.hero ul').cycle({
+		pause: 1,
+		height: 540,
+		speed: 1000,
+		timeout: 5000
+	});
+});
+//-->
+</script>
+
+	<header>
+		<h1><a href="http://www.thescriptmusic.com/es/">The Script</a></h1>
+		<menu>
+<a href="http://www.thescriptmusic.com/es/home/" class="active" target="_self">Inicio</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/news_and_diary/"  target="_self">Noticias & Diario</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/biography/"  target="_self">Biografía</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/music/"  target="_self">Música</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/live/"  target="_self">Conciertos</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/video/"  target="_self">Video</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/images/"  target="_self">Imágenes</a>
+ <span class="pipe">|</span> <a href="http://www.thescriptmusic.com/es/mailing_list/"  target="_self">Newsletter</a>
+			<div class="stretch"></div>
+		</menu>
+
+
+		<div class="hero">
+			<ul>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/01_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/02_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/03_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/04_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/05_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/06_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/07_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/08_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/09_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/10_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/11_mini.jpg" alt="" width="940" height="540" /></li>
+				<li><img src="http://www.thescriptmusic.com/gfx/header-slides/12_mini.jpg" alt="" width="940" height="540" /></li>
+			</ul>
+		</div><!--.hero-->
+
+		<div class="social">
+			
+				<div id="territory-selector-holder" class="right">
+		<div id="territory-selector" class="right">
+			<label>Selecciona país -</label><div class="territory-list" id="active-territory">
+				<a href="home"><img src="http://www.thescriptmusic.com/media/flags/ES.png" alt="Spain" class="regularFlag" width="16" height="11" /></a>
+			</div>
+			<ul class="territory-list" id="all-territories">
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/gb/home"><img src="http://www.thescriptmusic.com/media/flags/GB.png" width="16" height="11" alt="United Kingdom" /> United Kingdom</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/au/home"><img src="http://www.thescriptmusic.com/media/flags/AU.png" width="16" height="11" alt="Australia" /> Australia</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/ca/home"><img src="http://www.thescriptmusic.com/media/flags/CA.png" width="16" height="11" alt="Canada" /> Canada</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/de/home"><img src="http://www.thescriptmusic.com/media/flags/DE.png" width="16" height="11" alt="Germany" /> Germany</a></li>
+				<li><a class="regularFlag activeFlag" href="home"><img src="http://www.thescriptmusic.com/media/flags/ES.png" width="16" height="11" alt="Spain" /> Spain</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/ie/home"><img src="http://www.thescriptmusic.com/media/flags/IE.png" width="16" height="11" alt="Ireland" /> Ireland</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/it/home"><img src="http://www.thescriptmusic.com/media/flags/IT.png" width="16" height="11" alt="Italy" /> Italy</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/nz/home"><img src="http://www.thescriptmusic.com/media/flags/NZ.png" width="16" height="11" alt="New Zealand" /> New Zealand</a></li>
+				<li><a class="regularFlag" href="http://www.thescriptmusic.com/us/home"><img src="http://www.thescriptmusic.com/media/flags/US.png" width="16" height="11" alt="United States of America" /> USA</a></li>
+			</ul>
+		</div>
+		<div class="clear"><!-- --></div>
+	</div>
+		
+			<ul class="social-links">
+				<li><a href="http://www.facebook.com/thescript" class="facebook">Facebook</a></li>
+				<li><a href="http://smarturl.it/thescriptvideo" class="youtube">YouTube</a></li>
+				<li><a href="http://www.twitter.com/THESCRIPT" class="twitter">Twitter</a></li>
+				<li><a rel="publisher" href="https://plus.google.com/104316926245827355850" class="googleplus">Google+</a></li>
+				<li><a href="http://smartURL.it/thescript3" class="itunes">iTunes</a></li>
+				<li><a href="http://www.myspace.com/thescript" class="myspace">MySpace</a></li>
+				<li><a href="http://www.thescriptmusic.com/es/rss/feed.xml" class="rss">RSS</a></li>
+			</ul>
+
+			<div class="clear"><!-- --></div>
+
+		</div><!--.social-->
+
+	</header>
+
+
+	<div class="page-content home">
+
+<div class="col12span">
+	
+	<div class="panel" id="home-news">
+			
+		<h2><a href="http://www.thescriptmusic.com/es/news">Noticias</a></h2>
+		
+		<div class="panel-contents">
+
+			<article class=" alpha">
+	
+				<h3><a href="http://www.thescriptmusic.com/es/news/2013-03-14/mira_en_directo_el_concierto_del_domingo_1703_en_manchester">Mira en directo el concierto del domingo 17/03 en Manchester!</a><span class="date">03/14/13</span><!--.date--></h3>			
+				
+				<div class="share">
+	<!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style " addthis:url="http://www.thescriptmusic.com/es/news/2013-03-14/mira_en_directo_el_concierto_del_domingo_1703_en_manchester">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet"></a>
+		<!--a class="addthis_button_google_plusone" g:plusone:size="medium"></a-->
+		<!--a class="addthis_counter addthis_pill_style"></a-->
+	</div><!--.addthis_toolbox-->
+	<!-- AddThis Button END -->
+</div><!--.share-->
+
+				<div class="clear"><!-- --></div>
+
+				<div class="article-text"><p>Este año queríamos hacer algo especial para festejar el día de Saint Patrick, y se nos ocurrió algo en lo que podrán participar todos los fans del mundo!<br />
+</p></div><!--.article-text-->
+				<div class="article-footer">
+					<a class="" href="http://www.thescriptmusic.com/es/news/2013-03-14/mira_en_directo_el_concierto_del_domingo_1703_en_manchester#disqus_thread" data-disqus-identifier="es-news-12824">Comentarios</a> &nbsp;
+					<a class="" href="http://www.thescriptmusic.com/es/news/2013-03-14/mira_en_directo_el_concierto_del_domingo_1703_en_manchester">Leer más</a>
+				</div><!--.article-footer-->
+			</article>
+			<article class=" omega">
+	
+				<h3><a href="http://www.thescriptmusic.com/es/news/2013-02-28/estos_son_los_ganadores_de_los_posters_firmados_por_los_miembros_de_the_script">Estos son los ganadores de los posters firmados por los miembros de The Script!</a><span class="date">02/28/13</span><!--.date--></h3>			
+				
+				<div class="share">
+	<!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style " addthis:url="http://www.thescriptmusic.com/es/news/2013-02-28/estos_son_los_ganadores_de_los_posters_firmados_por_los_miembros_de_the_script">
+		<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+		<a class="addthis_button_tweet"></a>
+		<!--a class="addthis_button_google_plusone" g:plusone:size="medium"></a-->
+		<!--a class="addthis_counter addthis_pill_style"></a-->
+	</div><!--.addthis_toolbox-->
+	<!-- AddThis Button END -->
+</div><!--.share-->
+
+				<div class="clear"><!-- --></div>
+
+				<div class="article-text"><p>Los ganadores son los siguientes:<br />
+<br />
+Malu López de Sevilla<br />
+Violeta Muñoz de Sevilla<br />
+María García <br />
+<br />
+Enhorabuena a las tres! <br />
+Gracias a todos por participar!<br />
+<br />
+Seguiremos acercándote toda la información de The Script.<br />
+<br />
+Saludos!&hellip;</p></div><!--.article-text-->
+				<div class="article-footer">
+					<a class="" href="http://www.thescriptmusic.com/es/news/2013-02-28/estos_son_los_ganadores_de_los_posters_firmados_por_los_miembros_de_the_script#disqus_thread" data-disqus-identifier="es-news-12807">Comentarios</a> &nbsp;
+					<a class="" href="http://www.thescriptmusic.com/es/news/2013-02-28/estos_son_los_ganadores_de_los_posters_firmados_por_los_miembros_de_the_script">Leer más</a>
+				</div><!--.article-footer-->
+			</article>
+
+		</div><!--.panel-contents-->
+		<div class="panel-footer">
+			<a href="http://www.thescriptmusic.com/es/news" class="button">Más noticias</a>
+			<div class="clear"><!-- --></div>
+		</div><!--.panel-footer-->
+	</div><!--.panel-->
+		<div class="panel" id="events-list">
+
+		<h2><a href="http://www.thescriptmusic.com/es/live">Fechas de conciertos</a></h2>
+
+		<div class="panel-contents">
+
+			<article class=" alpha alt">
+			
+				<div class="event-date">06/16/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/gb/2013-06-16">Isle of Wight Festival, UK</a></h3></div>
+	 			<div class="article-links"><ul class="article-links"><li><a class="button" href="http://www.isleofwightfestival.com/">Tickets</a></li></ul></div><!--.article-link-->
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class="">
+			
+				<div class="event-date">06/29/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/de/2013-06-29">Rock-A-Field festival, Germany</a></h3></div>
+	 			<div class="article-links"><ul class="article-links"><li><a class="button" href="http://www.thescriptmusic.com/es/www.rockafield.lu">Tickets</a></li></ul></div><!--.article-link-->
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class=" alt">
+			
+				<div class="event-date">07/17/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-17">Cleveland, OH - Blossom, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class="">
+			
+				<div class="event-date">07/18/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-18">Detroit, MI - DTE Energy Music Theatre, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class=" alt">
+			
+				<div class="event-date">07/19/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-19">Noblesville, IN - Klipsch Music Center, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class="">
+			
+				<div class="event-date">07/23/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-23">Wantagh, NY - Nikon at Jones Beach Theater, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class=" alt">
+			
+				<div class="event-date">07/24/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-24">Camden, NJ - Susquehanna Bank Center, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class="">
+			
+				<div class="event-date">07/27/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-27">Mansfield, MA - Comcast Center, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class=" alt">
+			
+				<div class="event-date">07/28/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-28">Holmdel, NJ - PNC Bank Arts Center, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+
+			<article class=" omega">
+			
+				<div class="event-date">07/30/13</div>
+				<div class="event-venue"><h3><a href="http://www.thescriptmusic.com/es/live/upcoming/us/2013-07-30">Charlotte, NC - Verizon Wireless Amphitheater, USA</a></h3></div>
+				<div class="clear"><!-- --></div>
+			</article>
+		</div><!--.panel-contents-->
+		<div class="panel-footer">
+			<a href="http://www.thescriptmusic.com/es/live" class="button">Mas fechas de conciertos</a>
+		</div><!--.panel-footer-->
+	</div><!--.panel-->
+	
+<div class="panel" id="slideshow">
+
+	<h2>The Script - Fotos nuevas 2010!</h2>
+
+	<div class="panel-contents">
+
+		<article class="alpha">
+			<ul>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/521.jpg" width="590" height="413" alt="" /></a></li>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/520.jpg" width="590" height="413" alt="" /></a></li>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/518.jpg" width="590" height="413" alt="" /></a></li>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/517.jpg" width="590" height="413" alt="" /></a></li>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/516.jpg" width="590" height="413" alt="" /></a></li>
+				<li><a href="http://www.thescriptmusic.com/es/images/script_fotos_nuevas_2010"><img src="http://www.thescriptmusic.com/media/gallery_images/590/515.jpg" width="590" height="413" alt="" /></a></li>
+			</ul>
+		
+		</article>
+
+<script>
+<!--//
+$('#slideshow article ul').cycle({
+	pause: 1,
+	height: 413,
+	speed: 1000
+})
+//-->
+</script>
+	</div><!--.panel-contents-->
+	<div class="panel-footer">
+		<a class="button" href="http://www.thescriptmusic.com/es/images">Más imágenes</a>
+	</div><!--.panel-footer-->
+
+</div><!--.panel-->
+	</div><!--.col12span-->
+<div class="col">
+		<div class="panel" id="twitpic">
+
+		<div class="panel-header">
+			<h2>Twitter Photos</h2>
+		</div>
+		<div class="panel-contents">
+			<article id="twitpics-holder">
+				<div id="twitpics"></div>
+				<div class="clear"><!-- --></div>
+			</article>
+			<div class="panel-footer">
+								<a href="http://twitpic.com/photos/thescript" class="button">More pics</a>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+<!--//
+
+$(document).ready(function($e) {
+	refreshTwitPics();
+	$(".twitpic-refresh").click(function(e) {
+		e.preventDefault();
+		refreshTwitPics();
+	});
+});
+
+function refreshTwitPics() {
+
+	$("#twitpics-holder").height($("#twitpics").height()+24);
+	$("#twitpics").animate( {'opacity':0}, 250, function() {
+
+		$.getJSON(
+			'http://api.twitpic.com/2/users/show.jsonp?callback=?',
+			{username: 'thescript'},
+			function(twitpic) {
+				$('#twitpics').html('');
+				var i=0;
+				$.each(twitpic.images, function(i,item){
+					if (i<12)
+						$('#twitpics').append('<a title="'+item.message+'" href="http://twitpic.com/'+item.short_id+'"><img src="http://twitpic.com/show/thumb/'+item.short_id+'" width="80" height=80" alt="'+item.message+'" /></a>');
+					i++;
+			});
+			$('#twitpics').append('<div class="clear"><!-- --></div>');
+			var newheight = $("#twitpics").outerHeight();
+			$("#twitpics-holder").animate(
+				{height: newheight+16},
+				{duration: 250}
+			);
+
+			$("#twitpics").fadeIn('slow');
+			$("#twitpics").animate( {'opacity':1}, 250);
+
+		});
+
+	});
+
+}
+
+//-->
+</script>	
+<div class="panel" id="twitter">
+	<h2>Twitter</h2>
+
+	<ul class="headlines">
+		<li class=" alpha">
+			<a class="twitter-avatar" href="http://twitter.com/thescript/"><img src="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg" alt="*" width="48" height="48" /></a>
+			<div class="tweet-content">
+				<div class="article-text">NZ Auckland what a finish to a tour! This night was yours! Amazing crowd! Love ye! M <a href="http://t.co/O4GqEjr33x">http://t.co/O4GqEjr33x</a></div><!--.article-text-->
+				<div class="tweet-date date"><a class="" href="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg">6 hours ago</a></div><!--.tweet-date-->
+			</div><!--.tweet-content-->
+			<div class="clear"><!-- --></div>
+		</li>
+		<li class="">
+			<a class="twitter-avatar" href="http://twitter.com/thescript/"><img src="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg" alt="*" width="48" height="48" /></a>
+			<div class="tweet-content">
+				<div class="article-text">Smile its friday...Show us your friday smiles <a href="http://search.twitter.com/search?q=%23urturn" title="#urturn" class=" ">#urturn</a>... <a href="http://t.co/f3h6WJB2RG">http://t.co/f3h6WJB2RG</a> <a href="http://search.twitter.com/search?q=%23Urturn" title="#Urturn" class=" ">#Urturn</a></div><!--.article-text-->
+				<div class="tweet-date date"><a class="" href="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg">6 hours ago</a></div><!--.tweet-date-->
+			</div><!--.tweet-content-->
+			<div class="clear"><!-- --></div>
+		</li>
+		<li class=" omega">
+			<a class="twitter-avatar" href="http://twitter.com/thescript/"><img src="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg" alt="*" width="48" height="48" /></a>
+			<div class="tweet-content">
+				<div class="article-text">Just landed and had to wait more for the gate to open <a href="http://search.twitter.com/search?q=%23getmetothegig" title="#getmetothegig" class=" ">#getmetothegig</a> aghhhhhhhhhhh D</div><!--.article-text-->
+				<div class="tweet-date date"><a class="" href="http://a0.twimg.com/profile_images/3060423143/ab2167bb9d5a3dc0a90f1fbd3e230f21_normal.jpeg">9 hours ago</a></div><!--.tweet-date-->
+			</div><!--.tweet-content-->
+			<div class="clear"><!-- --></div>
+		</li>
+	</ul>
+	<div class="panel-footer">
+		<a class="button" href="http://twitter.com/thescript/">Follow</a>
+	</div><!--.panel-footer-->
+</div><!--.panel-->
+
+</div><!--col-->
+		<div class="clear"><!-- --></div>
+	</div><!--.page-content-->
+
+	<footer>
+		<div class="footer-contents">
+			<div class="footer-menu">
+<a href="http://www.thescriptmusic.com/es/home/" class="active" target="_self">Inicio</a> | <a href="http://www.thescriptmusic.com/es/news_and_diary/"  target="_self">Noticias & Diario</a> | <a href="http://www.thescriptmusic.com/es/biography/"  target="_self">Biografía</a> | <a href="http://www.thescriptmusic.com/es/music/"  target="_self">Música</a> | <a href="http://www.thescriptmusic.com/es/live/"  target="_self">Conciertos</a> | <a href="http://www.thescriptmusic.com/es/video/"  target="_self">Video</a> | <a href="http://www.thescriptmusic.com/es/images/"  target="_self">Imágenes</a> | <a href="http://www.thescriptmusic.com/es/mailing_list/"  target="_self">Newsletter</a>			</div><!--.footer-menu-->
+			<div class="copyright">
+				&copy; 2013 <a href="http://www.rcalabelgroup.co.uk">RCA Label Group (UK) Ltd.</a> <a href="http://www.thescriptmusic.com/es/privacy_policy/">Privacy Policy</a> -
+				<a href="http://www.kevinwestenberg.com/">Official #3 Photography by Kevin Westenberg</a> - <a href="http://www.ampvisual.com">Graphics by Amp Visual</a> -
+				<a href="http://kleber.net">Made by Kleber</a>
+			</div><!--.copyright-->
+
+		</div><!--.footer-contents-->
+		<div class="clear"><!-- --></div>
+	</footer>
+
+</div><!--.page-->
+
+<script src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script> 
+
+<script type="text/javascript">
+
+var disqus_shortname = 'thescript';
+(function () {
+  var s = document.createElement('script'); s.async = true;
+  s.src = 'http://disqus.com/forums/thescript/count.js';
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {
+    var e = document.createElement("script");
+    e.type = "text/javascript"; e.async = true;
+    e.src = "http" + (document.location.protocol === "https:" ? "s://ssl" : "://") + "tag.sonymusic.com/t/a/" + document.location.hostname;
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(e, s);
+  })();
+//--><!]]>
+</script>
+
+	<img src='http://pixel.buzzdeck.sonymusic.co.uk/thescript-website.png' />
+
+</body>
+</html>

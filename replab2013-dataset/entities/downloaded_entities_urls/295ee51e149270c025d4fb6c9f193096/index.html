@@ -1,0 +1,478 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+        <!-- Backplane -->
+        <script type="text/javascript" src="http://d134l0cdryxgwa.cloudfront.net/backplane.js"></script>
+        <script type="text/javascript">
+            // <![CDATA[
+            Backplane(bp_ready);
+            Backplane.init({
+                "serverBaseURL": "https://backplane1.janrainbackplane.com/v1.2",
+                "busName": "umg",
+                "channelExpires": "" //session cookie
+            });
+            function bp_ready() {
+                Backplane.subscribe(function (backplaneMessage) {
+                    if (backplaneMessage.type == 'identity/login') {
+                        Backplane.expectMessages('identity/ack');
+                    }
+                });
+            }
+
+            // ]]>
+        </script>
+
+        <!-- Google Maps Keys -->
+        
+            <meta name="gmapkey" content="ABQIAAAAm032ghZGLdGN2mgLAATNixSa3YvxKHxnXhnT4VGT4GRo4sE2eBRMl1tW-gyqoc__UnWgkN9iKRaCUQ" /> <!-- live site -->
+        
+        <meta name="gmapkey:interscope" content="ABQIAAAAsf3_MkKClDR0i2Th1ZWJzxQHWhha55fpeDeSOvqc09fT6pDcZhQKtd9ZkmNZA-lmluYRt73yhJ3gcw" /> <!-- dev sites -->
+        
+        <!-- RSS AutoDiscovery -->
+        <link rel="alternate" type="application/rss+xml" href="http://www.ladygaga.com/feeds/artist/content/" />
+
+        <!-- Global CSS -->
+        <link rel="stylesheet" href="http://cache.umusic.com/web_assets/_global/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="http://cache.umusic.com/web_assets/_global/css/blueprint/print.css" type="text/css" media="print" />
+        <!--[if lt IE 8]> 
+            <link rel="stylesheet" href="http://cache.umusic.com/web_assets/_global/css/blueprint/ie.css" type="text/css" media="screen, projection"> 
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="http://cache.umusic.com/web_assets/_global/css/ALL.css" />
+        <!-- END Global CSS -->
+
+        <!-- Microgroove Head Items -->
+        <!--
+            HeadControlItem Scripts 
+            JQuery.js - latest jquery supported by Microgroove
+            Shared.js - Microgroove utility scripts
+            Shadowbox.js - pop-up plugin for Jquery
+            MetaWeblog - permits submit Blog posts via mobile device             
+        -->
+        <meta name="generator" content="Microgroove" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ladygaga.com/webservices/metablog/rsd.ashx" />
+<script type="text/javascript">document.write(unescape("%3Cscript src='" + document.location.protocol + "//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));</script><script src='http://www.ladygaga.com/aspnet_client/microgroove/shadowbox/shadowbox.js' type='text/javascript'></script>
+<script src="http://www.ladygaga.com/aspnet_client/microgroove/shared.min.js" type="text/javascript"></script>
+<script>Microgroove.windowManager.init([{"id":"ReportContentWindow","title":"Report This Content","url":null,"width":600,"height":350,"reloadOnClose":false},{"id":"TagContentWindow","title":"Tag This Content","url":null,"width":500,"height":550,"reloadOnClose":true}]);</script>
+        <!-- END Microgroove Head Items -->
+        
+        <script type="text/javascript" language="javascript">
+    var _ = _ || {};
+    _.addHead = function (tag, type, id, delegate) {
+        setTimeout(function () {
+            (function (d, t) {
+                var s = d.createElement(t), x = d.getElementsByTagName(t)[0]; s.type = type; s.async = true;
+                if (id) s.id = id;
+                delegate(s);
+                x.parentNode.insertBefore(s, x);
+            })(document, tag);
+        }, 0);
+    };
+
+    var _DBL_CAPTUREUI_STYLE;
+    (function () {
+        var _fnShadowClose = Shadowbox.close, _fnMGWindowOpen = Microgroove.windowManager.open;
+        Microgroove.windowManager.open = function () {
+            try{
+                if (arguments.length > 1 && arguments[1] === "LogInWindow") {
+                    _DBL_CAPTUREUI_STYLE = document.getElementById("ucid_authentication").childNodes[3].firstChild.getAttribute("style");
+                    _.addHead("style", "text/css", "dblCaptureUIHotfix", function (s) { s.innerHTML = "#ucid_authentication .capture_iframe iframe{height:45px!important; }"; });
+                }
+            }catch(ex){}
+            return _fnMGWindowOpen.apply(this, Array.prototype.slice.call(arguments));
+        }
+        Shadowbox.close = function () {
+            try{
+                if (Shadowbox.getCurrent().id === "LogInWindow") {
+                    var hotfix = document.getElementById("dblCaptureUIHotfix");
+                    document.getElementById("ucid_authentication").childNodes[3].firstChild.setAttribute("style", _DBL_CAPTUREUI_STYLE);
+                    hotfix.parentNode.removeChild(hotfix);
+                }
+            }catch(ex){}
+            _fnShadowClose.apply(this, Array.prototype.slice.call(arguments));
+        };
+        //$({}).enableCapture('signinLink').click();
+    })();
+</script>
+
+        <!-- 
+            All.js - Microgroove helper functions
+            Example: Microgroove.facebookhelper, Microgroove.Forms, Microgroove.MemberPlayLists, Microgroove.pageTracking
+        -->
+        <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/library/SWFobject/swfobject.js"></script>
+        <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/ALL_min.js"></script>
+        
+        <!-- Janrain Fix to Secure Content Warnings in IE -->
+        <script type="text/javascript" src="http://d7v0k4dt27zlp.cloudfront.net/assets/capture_client.js"></script>
+
+            <title>Lady Gaga | Official Site</title>		    <link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_local/css/theme.css?v=20110527" />    <link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_local/css/echo.css" />    	<link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_local/css/fb.css" />	<link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_global/css/sso_membership.css" />	<link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_local/css/sso_membership.css" />	<script src="http://www.ladygaga.com/_local/js/custom.js" type="text/javascript"></script>	<link href="https://plus.google.com/106063255260898090789" rel="author" />      <!-- OpenGraph tags -->  <meta property="og:title" content="Lady Gaga" /><meta property="og:description" content=" Lady Gaga came to prominence following the release of her debut studio album The Fame (2008), which included the hits &quot;Just Dance,&quot; &quot;Poker Face,&quot; &quot;Bad Romance&quot; and sold over 15 million copies worldwide. The album earned her six Grammy nominations and two wins as well as a slew of other awards recognition, including a record setting thirteen MTV Video Music Award nominations. Gaga is the first artist in history to claim four #1 hits from a debut album (&quot;Just Dance,&quot; &quot;Poker Face,&quot; &quot;LoveGame&quot; and &quot;Paparazzi&quot;).   She is also the only artist in the digital era to top the 5 million sales mark with her first two hits. Gaga broke the record when her single &quot;Poker Face&quot; reached 5 million in sales after her debut single &quot;Just Dance&quot; accomplished the same feat the year before. She has over 1.3 billion combined views of all her videos online. She is also a staple in the social networking world  SRCH WAS HERE . She's one of the biggest living people on Facebook with over 33 million 'likes' and is #1 on Twitter with over 9.5 million followers. 
+ Her third studio album, Born This Way, is scheduled for release on May 23, 2011. The first single from the album, title track &quot;Born This Way&quot;, set a music industry record by becoming the fastest single in history to reach sales of 1,000,000 copies (five days after its February 11th release). Only the 19th single to ever debut at #1 on the Billboard Hot 100 (issue date February 26,2011), the recording was Lady Gaga's third #1 on the chart. On iTunes, the song debuted at the top spot in 14 countries, including the U.S., and hit #1 in all 23 iTunes stores worldwide its first week out. &quot;Born This Way&quot; was Gaga's 7th single to hit #1 at Top 40. The second single from the album, &quot;Judas&quot; has eclipsed 500,000 in sales and Lady Gaga's latest single, &quot;The Edge of Glory,&quot; went straight to #1 on iTunes in its first day of release and stayed there for 3 days. 
+ Gaga is well-recognized for her outr&amp;eacute; sense of style as a recording artist, in fashion, in performance and in her music videos. Her contributions to the music industry have garnered her numerous achievements including five Grammy Awards amongst twelve nominations, two Guinness World Records and the estimated sale of 15 million albums and 51 million singles worldwide. Billboard named her both the &quot;2010 Artist of the Year&quot; and the top selling artist of 2010 ranking her as the 73rd Artist of the 2000s decade. Gaga has been included in Time's annual &quot;The 2010 Time 100&quot; list of the most influential people in the world as well as Forbes' list of the &quot;The World's Most Powerful Celebrities&quot; in the world. Forbes also placed her at number seven on their annual list of the world's &quot;100 Most Powerful Women.&quot; " /><meta property="og:image" content="http://cache.interscope.com/images/local/500/8dafeeed-16d3-4c37-acda-1ef09ec644b6.jpg" /><meta property="og:type" content="musician" /><meta property="og:url" content="http://www.ladygaga.com/" /><meta property="fb:admins" content="100001449199545" /><meta Name="Description" Content=" Lady Gaga came to prominence following the release of her debut studio album The Fame (2008), which included the hits &quot;Just Dance,&quot; &quot;Poker Face,&quot; &quot;Bad Romance&quot; and sold over 15 million copies worldwide. The album earned her six Grammy nominations and two wins as well as a slew of other awards recognition, including a record setting thirteen MTV Video Music Award nominations. Gaga is the first artist in history to claim four #1 hits from a debut album (&quot;Just Dance,&quot; &quot;Poker Face,&quot; &quot;LoveGame&quot; and &quot;Paparazzi&quot;).   She is also the only artist in the digital era to top the 5 million sales mark with her first two hits. Gaga broke the record when her single &quot;Poker Face&quot; reached 5 million in sales after her debut single &quot;Just Dance&quot; accomplished the same feat the year before. She has over 1.3 billion combined views of all her videos online. She is also a staple in the social networking world  SRCH WAS HERE . She's one of the biggest living people on Facebook with over 33 million 'likes' and is #1 on Twitter with over 9.5 million followers. 
+ Her third studio album, Born This Way, is scheduled for release on May 23, 2011. The first single from the album, title track &quot;Born This Way&quot;, set a music industry record by becoming the fastest single in history to reach sales of 1,000,000 copies (five days after its February 11th release). Only the 19th single to ever debut at #1 on the Billboard Hot 100 (issue date February 26,2011), the recording was Lady Gaga's third #1 on the chart. On iTunes, the song debuted at the top spot in 14 countries, including the U.S., and hit #1 in all 23 iTunes stores worldwide its first week out. &quot;Born This Way&quot; was Gaga's 7th single to hit #1 at Top 40. The second single from the album, &quot;Judas&quot; has eclipsed 500,000 in sales and Lady Gaga's latest single, &quot;The Edge of Glory,&quot; went straight to #1 on iTunes in its first day of release and stayed there for 3 days. 
+ Gaga is well-recognized for her outr&amp;eacute; sense of style as a recording artist, in fashion, in performance and in her music videos. Her contributions to the music industry have garnered her numerous achievements including five Grammy Awards amongst twelve nominations, two Guinness World Records and the estimated sale of 15 million albums and 51 million singles worldwide. Billboard named her both the &quot;2010 Artist of the Year&quot; and the top selling artist of 2010 ranking her as the 73rd Artist of the 2000s decade. Gaga has been included in Time's annual &quot;The 2010 Time 100&quot; list of the most influential people in the world as well as Forbes' list of the &quot;The World's Most Powerful Celebrities&quot; in the world. Forbes also placed her at number seven on their annual list of the world's &quot;100 Most Powerful Women.&quot; " />  <link rel="stylesheet" type="text/css" href="http://www.ladygaga.com/_local/css/home.css" />  <link rel="stylesheet" href="http://www.ladygaga.com/_local/css/checkboxes.css" type="text/css" />  <style>  	.banners {border: 10px solid #191919; float:left; width:448px; height:175px; margin-bottom:10px;} 	#bravado {display: block;}	.pg-home .primary{margin-top:200px;}  	div.selector{display:none!important;}	div.echo-stream-header{height:21px; margin:-32px 0 -32px 0; width:auto; min-width:300px; clear:both; float:right;   z-index:9; background:#000;background:rgba(10,10,12,.8); padding:6px 10px 5px 10px;}  </style>	
+
+        
+            <!-- Google Analytics -->
+            <script type="text/javascript">
+              var _gaq = _gaq || [];
+              _gaq.push(['_setAccount', 'UA-1162848-67']);
+			  _gaq.push(['_setDomainName', 'www.ladygaga.com']);
+              _gaq.push(['_trackPageview']);
+              _gaq.push(['_trackPageLoadTime']);
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
+            </script>
+            <!-- END Google Analytics -->
+        
+    </head>
+    <body id="ctl00_ctl00_body" class="pg-home summary">
+        
+        <!-- UCID -->
+        <div id="ucid_bar" style="display:none">
+			 <div id="promotions">   <div id="mobile-promotion" style="display:none;" class="promotion">       <div class="message"></div>       <div>           <form action="index.html">               <div class="birthdate"></div>               <input type="text" id="cellphone" name="cellphone" class="input" value="Your cellphone number" /><input type="button" id="submitCellphone" value="Yes Please!" class="submit" onclick="_gaq.push(['_trackEvent', 'CRM', 'Signup', 'Signup alert in top bar']);" />&nbsp;<a href="index.html" class="cancel">No Thanks</a>           </form>       </div>       <div class="validation"></div>   </div>   <div id="email-promotion" style="display:none;" class="promotion">       <div class="message"></div>       <div>           <form action="index.html">               <div class="birthdate"></div>               <input type="text" id="email" name="email" class="input" /><input type="button" id="submitEmail" value="Yes Please!" class="submit" />&nbsp;<a href="index.html" class="cancel">No Thanks</a>           </form>       </div>       <div class="validation"></div>   </div>   <div id="login-promotion" style="display:none" class="promotion">        <div class="message"></div>        <div>            <form action="index.html">                &nbsp;<a href="index.html" class="cancel">No Thanks</a>            </form>        </div>    </div></div>
+			
+			<div id="callToAction" class="lowerTab sso_loggedout" style="display:none">
+				<img id="social_icons" src="http://www.ladygaga.com/_global/images/ucid/sso_social_icons.png" alt="" width="54" height="16" />
+				<strong>Sign in</strong> with your Social Network
+			</div>
+			<div id="memberInfo" class="lowerTab sso_loggedin" style="display:none">
+				<span id="memberAvatar"></span>
+				<span id="greeting">Welcome,</span> <span id="memberName"></span>
+				<span id="rewardsIcon" class="rewards"></span>
+				<span id="rewardsPoints" class="rewards"></span>
+				<span id="rewardsPointsIcon" class="rewards"></span>
+			</div>
+
+			<div id="ucid_authentication">
+				<div id="loader" class="sso_loggedout">
+					<img src="http://www.ladygaga.com/_global/images/ucid/ajax-loader.gif" alt="Loading..." />
+				</div>
+				<div class="capture_iframe sso_loggedout"></div>
+
+				<div id="menu" class="sso_loggedin" style="display:none">
+					<ul>
+						<li><a class="editprofile" href="index.html#">Profile</a></li>
+						<li><a href="javascript:void(0);" class="optin">Subscriptions</a></li>
+						<li><a class="logout" href="index.html#">Sign-Out</a></li>
+					</ul>
+				</div>
+			</div>
+        </div>
+
+        
+        
+        
+
+                <div class="container">        <div id="hd">                            <h1><a href="http://www.ladygaga.com/Default.aspx" id="logo">Lady Gaga</a></h1>                                                                    <div id="top_nav">                    <ul id="ctl00_ctl00_SiteBody_HeaderNav_topnav" class="navigation">
+	<li class="nav-home first selected"><a href="http://www.ladygaga.com/Default.aspx"><span>Haus</span></a></li>
+	<li class="nav-news"><a href="http://www.ladygaga.com/news/default.aspx"><span>Info</span></a></li>
+	<li class="nav-events"><a href="http://www.ladygaga.com/events/detail.aspx"><span>Events</span></a></li>
+	<li class="nav-store"><a href="http://www.ladygaga.com/store/"><span>Shop</span></a></li>
+	<li class="nav-lyrics"><a href="http://www.ladygaga.com/lyrics/default.aspx"><span>Lyrics</span></a></li>
+	<li class="nav-chat last"><a href="http://tinychat.com/ladygaga" target="_blank"><span>Chat</span></a></li>
+
+</ul>                </div>                                            <script type="text/javascript">        $(function() { $("#ucid_bar").show(); });    </script>        </div>        <div id="bd">                    <div id="ctl00_ctl00_SiteBody_primary" class="primary">                 <div class="echo-river-custom s_channel" id="s_river">        <h2 class="s_channel_title"><a href="index.html#"><span>latest <span>news</span></span></a></h2>        <div class="selector s_paging clearfix" style="display:none;">                        <a class="twitter" href="index.html#!updates">Updates</a>            <span class="query">((childrenof:http://www.ladygaga.com/id_Featured -state:ModeratorDeleted,SystemFlagged,CommunityFlagged,ModeratorFlagged -user.state:ModeratorBanned)) safeHTML:false children:1 -state:ModeratorDeleted,SystemFlagged,ModeratorFlagged -user.state:ModeratorBanned childrenSortOrder:reverseChronological childrenItemsPerPage:2 itemsPerPage:8</span>           </div>    </div>    <script type="text/javascript">        $(document).ready(function () {			$('head').append('<link rel="stylesheet" href="http://www.ladygaga.com/_local/css/checkboxes.css" type="text/css" />');            var $river = $(".echo-river-custom");            $river.addClass(".echo-river");            $river.river({                appkey: "prod.umg",                contentTransformations: {                    text: ["urls", "newlines"],                    html: ["urls", "newlines"],                    xhtml: ["urls"]                },                plugins: [				{ name: "CheckFilter", checklist: {				    twitter: { text: "Tweets", source: "Twitter" },				    store: { text: "Store", source: "bravado" },                    news: { text: "News", source: "LadyGaga.com"}} },                { name: "SwitchArktanImage" }				]            }, true);					        });    		    </script>		              </div>                        <div id="ctl00_ctl00_SiteBody_secondary" class="secondary">								<div id="s_follow">				<div id="fb-widget">				    <fb:like-box href="http://www.facebook.com/ladygaga" width="220" colorscheme="light" show_faces="false" stream="false" header="false" ></fb:like-box>				</div>				<div id="google-plus">					<a href="https://plus.google.com/106063255260898090789?prsrc=3" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-64.png" alt="" style="border:0;width:54px;height:54px;"/></a>					<span>Add Lady Gaga to <br>your circles</span>				</div>				                <div id="twitter-widget">                    <a href="http://twitter.com/ladygaga" class="twitter-follow-button">Follow @ladygaga</a>                </div>                <div id="mailinglist-widget">                    <a href="index.html#" class="btn-mailinglist" id="btn-mailinglist">Join the Mailing List</a>                </div>				</div>                                                	           <div id="banners" class="">            <a href="http://www.ladygaga.com/store/" title="Lady Gaga - Store" target="_self" class="side_banner"><img src="http://www.ladygaga.com/_local/images/banner_store.jpg" border="0" /></a>            <a href="http://bit.ly/HausLaboratories" title="Lady Gaga - Haus Laboratories" target="_blank" class="side_banner"><img src="http://www.ladygaga.com/_local/images/448x175-hauslabs.png" border="0" /></a>            <a href="http://www.ladygagaxterryrichardsonthebook.com/" title="Lady Gaga - The Book" target="_blank" class="side_banner"><img src="http://www.ladygaga.com/_local/images/448x175-thebook.jpg" border="0" /></a>            <a href="http://www.bornthiswayfoundation.org/" title="Lady Gaga - Born this Way Foundation" target="_blank" class="side_banner"><img src="http://www.ladygaga.com/_local/images/448x175_btwf.jpg" border="0" /></a>            <!--<a href="/order/bornthisway.aspx" title="Lady Gaga - USB" target="_blank" class="side_banner"><img src="/_local/images/448x175_topspinUSB.jpg" border="0" /></a>-->            <div><a href="http://www.ourtime.org/vote" target="_blank"><img src="http://cache.interscope.com/images/local/news/88d9a2ad-8ddf-486b-841d-9fdcd7d9723b.gif" border="0" /></a></div>    </div>                     				<div id="label_icons">					<div id="ft-logos" style="clear: both;"> <a href="index.html#"><img src="http://www.ladygaga.com/_local/images/logo_streamline.png" width="113" height="25" alt="Streamline Records" style="border: none; float:left; margin-right:5px;" /></a> <a href="http://www.interscope.com?utm_source=iga_footer"><img src="http://www.ladygaga.com/_global/images/logos/small/logo_interscope_white.png" width="19" height="25" alt="Interscope Records" style="border: none;margin: 0 5px; float:left;" /></a> <a href="http://www.konlive.com" target="_blank"><img src="http://www.ladygaga.com/_global/images/logos/small/logo_konlive_white.png" width="57" height="25" alt="KonLive" style="border:none;float: left;margin: 0 5px;" /></a> <a href="http://www.vivaglam.com/" target="_blank"><img src="http://www.ladygaga.com/_local/images/logo_mac.png" width="125" height="18" alt="MAC Cosmetics" style="border:none;float: left;margin: 7px 0 0 6px;" /></a><!--<a href="http://www.facebook.com/Polaroid?v=app_194658607214461" target="_blank"><img src="/_local/images/logo_polaroid.png" width="89" height="17" alt="Polaroid" style="border:none;float: left;margin: 7px 0 0 10px;" /></a>-->  <p style="margin-top: .7em; float: right; font-size:9px; color:#fff;"><a href="http://privacypolicy.umusic.com" title="Universal Music Group Privacy Policy">Privacy Policy</a></p>  <div style="clear:both;"></div></div>				</div>            </div>                    </div>                <div id="ft">                                </div>            </div> 
+        
+        
+        <!-- Echo comments and river scripts -->
+          
+            <!-- Echo Core Pack excludes Jquery -->
+               <script type="text/javascript" src="http://cdn.echoenabled.com/clientapps/v2/packs/full-no-jquery-pack.js"></script>
+                
+                
+            <!-- Arktan Plugins -->
+            <!-- Meta-data CSS: changes the css for metadata -->
+            <script type="text/javascript" src="http://cdn.arktan.com/ark-metadata-css.js"></script>
+
+            <!-- linktagger: Logs outbound links in Google Analytics -->
+                <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/IGA.linktagger.js"></script>
+            <!-- river.js: Permits invoking a river with simple .river(targetDiv) call -->
+                <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/river.js"></script>
+            <!-- forum.js: RealTidBits forum -->
+                <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/forum.js"></script>
+            <!-- muxer.js: Combines calls to echo APIs -->
+                <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/muxer.js"></script>
+            <!-- iga-echo: default river && getUMGAuthPlugin -->
+                <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/iga-echo-script.js"></script>
+
+            <!-- JQuery plugins -->
+                <!-- qtip: Tooltips - http://craigsworks.com/projects/qtip/ http://craigsworks.com/projects/qtip2/ -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/jquery.qtip.min.js"></script>
+            
+            <!-- Echo Plugins: -->
+                <!-- avatar-link: Links user avatar to public profile -->
+                    <!--<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/avatar-link.js"></script>                   -->
+                <!-- blank-links: adds target="_blank" to prevent external for spam. -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/blank-links.js"></script>
+                <!-- clear-after-body: adds cssClass echo-clear for aesthetics to item body -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/clear-after-body.js"></script> 
+                <!-- console-log: UNDOCUMENTED -->
+                    <!-- <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/console-log.js"></script> -->
+                <!-- enhanced-metadata: Adds items to metadata -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/enhanced-metadata.js"></script>
+                <!-- filter-children: UNDOCUMENTED -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/filter-children.js"></script>
+                <!-- lmk-stream: UNDOCUMENTED -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/lmk-stream.js"></script>
+                <!-- permalink: links date at bottom of item to items permalink -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/permalink.js"></script>
+                <!-- permalink-retag: links the "re" line to permalink at top -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/permalink-retag.js"></script>
+                <!-- regex: reg expression helper -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/regex.js"></script>
+                <!-- social-sharing: adds checkbox for ShareWithFriends -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/social-sharing.js"></script>
+                <!-- sort-order: adds NewestFirst & OldesFirst -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/sort-order.js"></script>
+                <!-- stripHTML: removes html tags -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/strip-html.js"></script>
+                <!-- ucid-login: reprograms login to work with capture -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/ucid-login.js"></script>
+                <!-- youtube-wmode: prevents youtube embed from overlap -->
+                    <script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/youtube-wmode.js"></script>
+				<!-- switch-arktan-image: uses medium sized images 400px when available as marked by Arktan -->
+					<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/switch-arktan-image.js"></script>
+                <!-- combined plugins script -->
+                    <!--<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/combined.js"></script>-->
+
+                <!-- forum: RealTidBits Forum (includes Jquery reference) -->
+                
+
+               
+
+            <!-- END Echo Plugins -->
+
+                <script type="text/javascript">
+                    // <![CDATA[
+                    $(function () {
+                        IGA_ECHO('prod.umg');
+                    });
+                    // ]]>
+                </script>
+
+                <!-- RealTidbits Google Analytics Integration -->
+                <script type="text/javascript">
+                    if (typeof window.RealTidbits !== 'object') window.RealTidbits = {};
+                    if (typeof window.RealTidbits.settings !== 'object') window.RealTidbits.settings = {};
+                    RealTidbits.settings.appkey = "prod.umg";
+                    RealTidbits.settings.backplane = { "busName": "umg" };
+                    RealTidbits.settings.googleAnalytics = 'UA-1162848-67';
+               </script>
+
+            
+        
+        <!-- Tweet button script -->
+        <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+        
+        <!-- Google +1 -->
+        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+        <!-- FBML -->
+        <div id="fb-root"></div>
+        <script type="text/javascript">
+            // <![CDATA[
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId: '34617625687',
+                    status: true,
+                    cookie: true,
+                    xfbml: true,
+                    oauth: true
+                });
+                if (typeof(fb_init_done) !== "undefined")
+                    fb_init_done();
+                
+                // Like button analytics
+                FB.Event.subscribe('edge.create', function(url) {
+                    _gaq.push(['_trackSocial', 'Facebook', 'Like', url]);
+                    if (typeof UMGBadgeville !== 'undefined') {
+                        UMGBadgeville.trigger.share('facebook');
+                    }
+                });
+            };
+            (function() {
+                var e = document.createElement('script');
+                e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                e.async = true;
+                document.getElementById('fb-root').appendChild(e);
+            }());
+            // ]]>
+        </script>
+        
+        <!-- Link tagging script -->
+        
+
+        <!-- Google Translate Script -->
+        
+            <script type="text/javascript">
+                // <![CDATA[
+                function googleTranslateElementInit() {
+                  new google.translate.TranslateElement({
+                    pageLanguage: 'en',
+                    gaTrack: true,
+                    gaId: 'UA-1162848-67'
+                  });
+                }
+                // ]]>
+            </script>
+            <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
+        <!-- Tweet Button Analytics -->
+        <script type="text/javascript">
+            // <![CDATA[
+            $(function() {
+                if (typeof twttr != 'undefined') {
+                    twttr.events.bind('tweet', function(event) {
+                        var iframe = event.target;
+                        var url = $.url.parse(iframe.src);
+                        _gaq.push(['_trackSocial', 'Twitter', 'Tweet', url.params.url]);
+                        if (typeof UMGBadgeville !== 'undefined') {
+                            UMGBadgeville.trigger.share('twitter');
+                        }
+                    });
+                    twttr.events.bind('follow', function(event) {
+                        _gaq.push(['_trackSocial', 'Twitter', 'Follow', event.data.screen_name]);
+                        if (typeof UMGBadgeville !== 'undefined') {
+                            UMGBadgeville.trigger.follow();
+                        }
+                    });
+                }
+            });
+            // ]]>
+        </script>
+
+        <!-- RealTidBits Comments -->
+        <!-- Custom CSS for 3ones commenting--><script src="http://cdn.realtidbits.com/libs/v1/comments/edit.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/UpdateSort/UpdateSort.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/LMKSubscription/LMKSubscription.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/rssfeed/rssfeed.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/janrain-sharing.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/inlinemedia.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/sanitize.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/comments/comments_core.js" type="text/javascript"></script><script src="http://cdn.realtidbits.com/libs/v1/comments/locale/en.js" type="text/javascript"></script><!-- Custom Localization --><script src="http://cache.umusic.com/web_assets/_global/js/echo/echo_comment_localization.js" type="text/javascript"></script><!-- RealTidbits Notifications --><!-- * Place at the bottom of the page after all other Echo/RTB scripts.* By default the notification icon <div> appears floating at the top right corner. You can change this via CSS or set a specific target <div> to show notifications--><script src="http://cdn.realtidbits.com/libs/v1/notifications/notifications.js" type="text/javascript"></script><script>  var rtb_notifications = new RealTidbits.Notifications({  //"target": document.getElementById("#ucid_bar .lowerTab"),  //"target": "#memberInfo",  "appkey": "prod.umg"  });</script>
+
+        <!-- RealTidBits Comments -->
+        <!-- RealTidbits Comments --><!--Include the standard RealTidbits scripts--><style>  #comments .echo-auth-logout {display:none;}</style><script type="text/javascript">  var authPlugin = {  name: "FormAuth",  submitPermissions: "forceLogin",  nestedPlugins: [{name: "UCIDLogin"}] };  var currentDomain = document.domain;  function make_url_absolute(url) {  if (!!url && url.substr(0, 7) == "http://")  return url;  else  return "http://" + window.location.hostname +((!!url)?url:"");  }  function commentQuery(unique) {  return "childrenof:" + make_url_absolute(unique) + " -type:article type:comment (provider:jskit OR provider:echo) sortOrder:reverseChronological -state:ModeratorDeleted,ModeratorFlagged,SystemFlagged,CommunityFlagged -user.state:ModeratorBanned children:0";  }  $(document).ready(function() {  var commentCount = 0;  var $comments3ones = $(".comments3ones")  $comments3ones.each(function(){  var $this = $(this);  var targetUrl = $this.attr("data-url");  var streamQuery = commentQuery(targetUrl || "");  var rtb_comments = new RealTidbits.Comments({  "target": this,  "css": "/_global/css/3ones_comments.css",  "appkey": "prod.umg",  "socialSharing": {  "appId" : "khocbmhbelaifamoohjp", // janrain appid  "xdReceiver": "/_global/rpx_xdcomm.html" // relative path to domain's  rpx_xdcomm.html file  },  "backplane": {  "serverBaseURL": "https://backplane1.janrainbackplane.com/v1.2",  "busName": "umg",  "rpx": null  },  "targetURL": targetUrl,  "streamQuery":streamQuery,  "hideLogin": false, // remove default comment JanRain plugin  "guestComments": false,  "itemsPerPage": 25,  "sanitize": {  "tags": ["img", "object", "embed", "script", "iframe"], // remove html elements that match tags  "externalLinks": true, // allow externals links (if they match a valid domain below)  "validDomains": ["dev.umg.com", "umg.com", currentDomain],  "types": ["email", "phone"]  },  "plugins": {  "submit": [authPlugin],  "stream": []  },  "whirlpools": false,  "richTextEditor": false,  "emailSubscribe": true,  "rssFeed": true,  "CommunityFlag": true,  // replace with UMG S3 bucket or null for no uploads  //"fileUploadServer": "http://storage.realtidbits.com.s3.amazonaws.com/comments_photos/"  "fileUploadServer": null  // configure richtext buttons  /* original config  "cleditorConfig": {  "controls": "bold italic underline strikethrough | font size " +  "style | color highlight removeformat | bullets numbering | " +  "alignleft center alignright | " +  "image icon link unlink | source"  }*/  });  if($comments3ones.length > 1){	var $expand = $("<div class='expandComments'><a href='index.html#'><span class='showText'>Show</span><span class='hideText'>Hide</span> Comments (<span class='echo-count'>0</span>)</a><div>");	if(commentCount > 0){		$this.hide();		$expand.find(".hideText").hide();	}else{		$this.show();		$expand.find(".showText").hide();	}	$expand.find("a").click(function(ev){		ev.preventDefault();		$expand.find(".showText").toggle();		$expand.find(".hideText").toggle();		$this.slideToggle(400);	});	$this.after($expand);	new Echo.Counter({        "target": $expand.find(".echo-count"),        "appkey": "prod.umg",        "query": "scope:"+targetUrl    });  }  commentCount++;  });  });</script>
+        
+        <!-- BandRx Widget Test Where to position in code -->
+        <script src="http://fanrx.universalmusic.com/widget.js?v3" type="text/javascript"></script>
+
+		<!-- Lotame tag -->
+		<script src="http://tags.crwdcntrl.net/c/938/cc_af.js"></script>
+
+		<!-- Segment Pixel - Universal Music Group - DO NOT MODIFY -->
+		<script src="http://ib.adnxs.com/seg?add=608920&t=1" type="text/javascript"></script>
+		<!-- End of Segment Pixel -->
+
+		<!-- For Envolve Chat login -->
+	    <script type="text/javascript" language="javascript">
+		    $(window).hashchange(function () {
+			    var hash = window.location.href.split("#")[1] || "";
+			    if (hash === "ucidActivate") {
+				    $(document.body).trigger('ucidActivate');
+				    $(".env-std-link").click(function (e) {
+					    $(document.body).trigger('ucidActivate');
+					    e.stopImmediatePropagation();
+				    });
+			    }
+		    });
+		</script>
+
+                <script src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/check-filter.js"></script>    <!-- 2011.11.14 Mobile Redirect based on user agent.-->    <script src="http://www.ladygaga.com/_global/js/mobile/mobileredirect.js" type="text/javascript"></script><!-- Google Code for LadyGaga_Web Conversion Page --><script type='text/javascript'>	/* <![CDATA[ */	var google_conversion_id = 1016223674;	var google_conversion_language = 'en';	var google_conversion_format = '3';	var google_conversion_color = '666666';	var google_conversion_label = 'WieXCLbc7AIQuq_J5AM';	var google_conversion_value = 0;	/* ]]> */</script><script type='text/javascript' src='http://www.googleadservices.com/pagead/conversion.js'></script>	<noscript>	<div style='display:inline;'>	<img height='1' width='1' style='border-style:none;' alt='' src='http://www.googleadservices.com/pagead/conversion/1016223674/?label=WieXCLbc7AIQuq_J5AM&guid=ON&script=0'/>	</div>	</noscript>     <!-- Sonic Living -->                <script type="text/javascript">                /* <![CDATA[ */                // live                var _slConfig = {                    // SonicLiving Configuration                    'api_key': '41ff1efb',	                'details_avatar_max': 12,                    'list_avatar_max':6,	                'event_detail_container': '.primary .s_item',                    'host_ids': [                            '134'                            ],		                'UMG':[{                            'signup_host': 'signup.universalmusic.com',                            'capture_host': 'https://profile.universalmusic.com',                            'capture_client_id': '9etp92vwb5b6rkyhc3zana8fk54k7nqv',                            'backplane_host': 'api.js-kit.com',                            'backplane_key': 'prod.umg'                            }]                };                if (/events/.exec(window.location.href))                {                    var e = document.createElement('script');                    e.src = 'http://c390749.r49.cf2.rackcdn.com/ursvp/widget/js/ursvp.js';                    e.async = true;                    var s = document.getElementsByTagName('script')[0];                     s.parentNode.insertBefore(e, s);                }                /* ]]> */            </script>           
+
+<script src="https://sso.universalmusic.com/sso.js" type="text/javascript"></script>
+<script type="text/javascript">
+    
+    var p = (("https:" == document.location.protocol) ? "https://" : "http://");
+    var h = p + document.location.host;
+    var k = "9etp92vwb5b6rkyhc3zana8fk54k7nqv";
+
+    var capture_redirectURL = window.location.href;
+    if (capture_redirectURL.indexOf('#') != -1) {
+        capture_redirectURL = capture_redirectURL.substring(0, capture_redirectURL.indexOf('#'));
+    }
+
+    //Use this on Microgroove sites to enable sign in and optins
+    document.write(unescape("%3Cscript src='http://reg.sso.universalmusic.com/scripts/capture.js?host=") + Microgroove.helpers.urlEncode(h) + "&clientId=" + Microgroove.helpers.urlEncode(k) + "&bundle=CrOlwx%2bTAhN6Ip%2bS8MfO7Ie0MMj45MGKonhiugcGfE5EZo7lvSJluZ7ikFzyd3IqM9omoWorzggEpY71dRjW9PnoTTMmZsBijX%2f%2fxpu%2bGdOH%2b8v6y84EwdY2F%2frzLHBzsPqCwyU15%2b24VylPYeWYj%2b%2fohSMT9BeTif7RpjRhN%2fTUDKOjSin%2bMc80hjSFtEQoPGp4eDG75BI2xduY52%2fXbTq%2buT0Z4RHpBcqsJWnfPo%2bS1Xu1u2NovCR5VffczODO&thinRegistration=true'" + unescape(" type='text/javascript'%3E%3C/script%3E"));
+    
+    (function() {
+        var ucidBar = $("#ucid_bar");
+        var ucidBarHiddenTop = ucidBar.css("top");
+        var animationStartTimer = null;
+
+        ucidBar.hover(
+            function(e) {
+                var $this = $(this);
+                animationStartTimer = setTimeout(
+                    function() { $this.animate({"top": 0}, {queue: false}); },
+                    150
+                );
+            },
+            function(e) {
+                if (animationStartTimer) {
+                    clearTimeout(animationStartTimer);
+                }
+                $(this).animate({"top": ucidBarHiddenTop}, {queue: false});
+            }
+        );
+
+        // This event is triggered when a user clicks a "login" button somewhere in the page
+        $(document.body).bind('ucidActivate', function(e) {
+            var bgcolor = $('#callToAction').css('background-color');
+            ucidBar[0].scrollIntoView();
+            ucidBar.animate({"top": 0}, {queue: false});
+            $('#callToAction').css('background-color', '#FFF202').animate({backgroundColor: bgcolor}, {duration: 3000, queue: false});
+        });
+    })();
+
+    $(document.body).bind('login', function(e, o) {
+        var avatarImg;
+
+        // show logged in element, hide logged out element
+        $("#ucid_bar .sso_loggedout").hide();
+        $("#ucid_bar .sso_loggedin").show();
+
+        //member name
+        $("#ucid_bar #memberName").text(o.memberName);
+
+        //avatar
+        if (o.avatar) {
+            avatarImg = $('<img />').attr('src', o.avatar);
+            $("#ucid_bar #memberAvatar").append(avatarImg);
+        }
+
+        //sign out of capture and MG
+        $("#ucid_bar a.logout").enableCapture('signoutLink', { 'returnUrl': capture_redirectURL });
+
+        //link to email lists modal
+        $("#ucid_bar a.optin").enableCapture('optinsLink');
+
+        //link to basic profile edit page
+        $("#ucid_bar a.editprofile").enableCapture('editProfileLink', { 'page': '/user/account/capture.aspx' });
+
+        //basic profile edit page
+        $("div#captureProfile").enableCapture('editProfileForm', { 'width': 950, 'height': 1500 });
+
+        //inline account edit form field hidding
+        $(".pg-user-account .primary").enableCapture('editAccountForm');
+    });
+
+    $(document.body).bind('logout', function() {
+        $("#ucid_bar .sso_loggedin").hide();
+        $("#ucid_bar .sso_loggedout").show();
+        $("#ucid_bar .capture_iframe").enableCapture('signinFrame', {width: '425px', height: '45px'});
+    });
+
+    $(document).ready(function () {
+        var memberName = Microgroove.helpers.getMultiValueCookie('_CToken', 'member_name');
+        var avatar     = Microgroove.helpers.getMultiValueCookie('_CToken', 'avatar');
+        if (memberName) {
+            $(document.body).trigger('login', {memberName: memberName, avatar: avatar});
+        }
+        else {
+            $({}).enableCapture('checkSSO');
+        }
+    });
+</script>
+    </body>
+</html>

@@ -1,0 +1,267 @@
+<!DOCTYPE html><html lang="en" manifest="worklight.manifest">
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <title>Capital One Mobile Banking</title>
+        
+        
+        <meta content="XkJmuvhdGpqvUQ0A-apw5bCDyodZMVAarPJUQfyv0oU" name="google-site-verification">
+        
+        <meta content="1CE374C56FF9F2B7CA85045B1A8AE477" name="msvalidate.01">
+        
+        
+        <meta content="Capital One offers credit cards, checking and savings accounts, auto loans, rewards and online banking services for individuals and businesses." name="description">
+        
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/images/favicon.png" rel="shortcut icon">
+        
+        <meta content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+        <meta content="telephone=no" name="format-detection">
+        <meta content="none" http-equiv="x-rim-auto-match">
+        <meta content="no" name="msapplication-tap-highlight">
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/favicon.ico" rel="icon" type="image/png">
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/images/icon72x72.png" rel="apple-touch-icon-precomposed">
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/images/icon114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+	
+        <meta content="no" name="apple-mobile-web-app-capable">
+		<!-- 
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link href="images/ios_startup.png" rel="apple-touch-startup-image"> 
+		<link href="images/ios_startup_large@2x.png" rel="apple-touch-startup-image" media="(device-height: 568px)">
+		<link href="images/ios_startup@2x.png" rel="apple-touch-startup-image" sizes="640x920" media="(device-height: 480px)">
+		 -->
+
+		<!-- <meta name="apple-itunes-app" content="app-id=407558537"> -->
+
+
+        
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/css/reset.css" rel="stylesheet">
+        
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/css/EnterpriseMobileBanking.css" rel="stylesheet">
+        
+
+
+
+        
+        <link href="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/wlclient/css/wlclient.css" rel="stylesheet">
+        <script type="text/javascript">
+		// Define WL namespace.
+		var WL = WL ? WL : {};
+
+		/**
+		 * WLClient configuration variables.
+		 * Values are injected by the deployer that packs the gadget.
+		 */
+		WL.StaticAppProps = {
+   "APP_DISPLAY_NAME": "Capital One",
+   "APP_SERVICES_URL": "https:\/\/moblprod.capitalone.com\/worklight\/apps\/services\/",
+   "APP_VERSION": "04.01.64",
+   "ENVIRONMENT": "mobilewebapp",
+   "HEIGHT": 460,
+   "LOGIN_DISPLAY_TYPE": "embedded",
+   "WIDTH": 320,
+   "WORKLIGHT_ROOT_URL": "https:\/\/moblprod.capitalone.com\/worklight\/apps\/services\/api\/EnterpriseMobileBanking\/mobilewebapp\/"
+};</script>
+        
+	<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/wl-js-mobileweb-5003-min.js"></script>
+	<script type="text/javascript">
+
+
+
+
+        window.$ = WLJQ;
+		window.jq = WLJQ;
+		window.jQuery = WLJQ;
+        </script>
+    
+    </head>
+    <body id="content">
+    	
+
+    	<!-- Dynamically loaded after authentication -->
+    	
+        <div id="sidemenu" style="display: none;">
+    		
+            <ul></ul>
+    	
+        </div>
+    	
+    	<!-- Dynamically loaded from the Branch -->
+    	
+        <div id="wrapper" style="display: none;">
+    	        
+            <div id="close-mask"></div>
+    	
+        </div>
+    	
+        
+        <!--  Menu -->
+        
+        <script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/menus/menus_web.js"></script>
+        
+        <!--  Message Translation -->
+        <script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/messages/messages.js"></script>
+        
+    	<!--  Framework Controller File -->
+        <script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/js/EnterpriseMobileBanking.js"></script>
+        <script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/framework/auth.js"></script>    	
+    	<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/js/controller_web.js"></script>
+        
+		<!--  External JS Libraries -->
+    	<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/iscroll/iscroll_4_2_2.js"></script>
+    	<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/hogan/hogan.js"></script>
+    	<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/cookiemanager/cookies.js"></script>
+		<script type="text/javascript">
+			// Site Catalyst
+			deviceAttr.m_vi = readCookie("m_vi");
+			// END Site Catalyst
+		</script>
+		<script src="https://moblprod.capitalone.com/worklight/apps/services/www/EnterpriseMobileBanking/mobilewebapp/default/lib/pagetracking/track.js"></script>
+
+        <style>
+	
+/* =Custom Modal Dialogs
+----------------------------------------------------------------------------------------------------*/
+/* vishal's inline code */
+#WLbusyOverlay {
+	background: transparent;
+}
+#WLbusy {
+	background-color: rgba(0,0,0,0.85);
+	}
+#WLbusyTitle {
+	color: #fff;
+	text-shadow: none;
+	}
+/* Jason is changing stuff for mobile 4.0 web modals 12.18.12 */
+#WLdialogContainer{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	bottom: 100%;
+	background-color: rgba(0,0,0,0.4);
+	z-index: 9999;
+	padding: 8px 9px 9px;
+	margin: 0 0 0 -10px;
+}
+#WLdialog {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #AAAAAA;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 4px 14px #333333;
+    font-size: 1.1em;
+    margin: 10px 0 0 -15%;
+    overflow: hidden;
+    padding: 8px 9px 9px;
+    width: 90%;
+}
+#WLdialogBody {
+	min-height: 200px;
+}
+h1#WLdialogTitle {
+	/* Added to make modal h1s look like h3s Jason 12.20.12 */
+	font: normal 1.55em 'TradeGothic', 'Arial Narrow', Helvetica, Arial, sans-serif;
+	color: #333;
+	margin:0 0 10px 0;
+	float: none;
+	display: block;
+	text-align: left;
+	padding: 0;
+}
+#WLdialog p {
+	margin: 0 0 10px;
+}
+#WLdialog .dialogButton,
+#WLdialog .dialogButton:visited,
+#WLdialog .dialogButton:focus,
+#WLdialog .dialogButton:hover,
+#WLdialog .dialogButton:active {
+	font-size: 1.45em !important;
+	padding: 0;
+}
+/* Use .standard when there are two side-by-side buttons */
+#WLdialog .dialogButton[tabindex='0']
+/*
+#WLdialog .dialogButton[tabindex='0'],
+#WLdialog .dialogButton[tabindex='0']:visited,
+#WLdialog .dialogButton[tabindex='0']:focus,
+#WLdialog .dialogButton[tabindex='0']:hover,
+#WLdialog .dialogButton[tabindex='0']:active
+*/ {
+	float: right;
+	width: 48.5%;
+}
+#WLdialog .dialogButton,
+#WLdialog .dialogButton:visited,
+#WLdialog .dialogButton:focus,
+#WLdialog .dialogButton:hover,
+#WLdialog .dialogButton:active {
+	margin: 0 !important;
+}
+#WLdialog .dialogButton[tabindex='1'] {
+	float: left;
+	width: 48.5%;
+}
+/* Use .stacked when there are two stacked buttons in the modal */
+.stacked .body-button,
+.stacked .cancel.body-button {
+	margin: 15px 0 0 !important;
+}
+
+#WLbusy {
+    background-color: #000000;
+}
+#WLbusy {
+    
+    border: 1px solid #CCCCCC;
+    border-radius: 10px 10px 10px 10px;
+    margin: auto;
+    overflow: hidden;
+    padding: 5px;
+    position: absolute;
+    width: 222px;
+    z-index: 9999;
+}
+#WLbusy {
+    width: 120px !important;
+}
+#WLbusy h1 {
+    background: url("images/loading.png") no-repeat scroll 50% 50% transparent;
+    margin: 6px 0 7px;
+    -moz-animation: load 1.2s linear 0 infinite;
+	-webkit-animation: load 1.2s linear 0 infinite;
+	animation: load 1.2s linear 0 infinite;
+}
+@-moz-keyframes load {
+	0% {-moz-transform: rotate(0deg);}
+	100% {-moz-transform: rotate(360deg);}
+}
+@-webkit-keyframes load {
+	0% {-webkit-transform: rotate(0deg);}
+	100% {-webkit-transform: rotate(360deg);}
+}
+@keyframes load {
+	0% {transform: rotate(0deg);}
+	100% {transform: rotate(360deg);}
+}
+#WLbusyTitle {
+    text-shadow: none;
+}
+#WLbusyTitle {
+    color: #000000;
+    font-family: helvetica,arial,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    overflow: hidden;
+    padding: 24px 0;
+    text-indent: 56px;
+}
+	
+    	</style>
+        
+    
+    </body>
+</html>

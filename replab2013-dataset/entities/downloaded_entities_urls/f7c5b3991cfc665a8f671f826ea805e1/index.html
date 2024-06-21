@@ -1,0 +1,641 @@
+
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+	<title>Justin Bieber</title>
+	<meta property="og:title" content="Justin Bieber Music" />
+	<meta property="og:type" content="musician" />
+	<meta property="og:url" content="http://justinbiebermusic.com/" />
+	<meta property="og:image" content="http://justinbiebermusic.com/assets/fbThumbnail.jpg" />
+	<meta property="og:site_name" content="Justin Bieber Music" />
+	<meta itemprop="name" content="Justin Bieber">
+	<meta itemprop="description" content="">
+	<meta itemprop="image" content="">
+	<link rel="shortcut icon" href="http://www.justinbiebermusic.com/favicon.ico?v=9">
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="http://www.justinbiebermusic.com/web.css?v=9">
+    <link rel="stylesheet" type="text/css" href="http://www.justinbiebermusic.com/_local/css/reset.min.css">
+	<link rel="stylesheet" type="text/css" href="http://www.justinbiebermusic.com/_global/css/sso_membership.css" />
+    
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+    <script type="text/javascript" src="http://d134l0cdryxgwa.cloudfront.net/backplane.js"></script>
+    <script type="text/javascript">
+        function bp_ready() {
+            Backplane.subscribe(function (backplaneMessage) {
+                if (backplaneMessage.type == 'identity/login') {
+                    Backplane.expectMessages('identity/ack');
+                }
+            });
+        }
+        Backplane(bp_ready);
+        Backplane.init({
+            "serverBaseURL": "https://backplane1.janrainbackplane.com/v1.2",
+            "busName": "umg",
+            "channelExpires": "" //session cookie
+        });
+    </script>
+    <script type="text/javascript" src="http://www.justinbiebermusic.com/js/modernizr.js"></script>
+</head>
+
+<body class="bieber">
+	<!-- UMG SSO SOLUTION -->
+	<div id="ucid_bar" style="display:none">
+	  <div id="promotions">
+	    <div id="mobile-promotion" style="display:none;" class="promotion">
+	      <div class="message"></div>
+	      <div>
+	        <form action="index.html">
+	          <div class="birthdate"></div>
+	          <input type="text" id="cellphone" name="cellphone" class="input" value="Your cellphone number" /><input type="button" id="submitCellphone" value="Yes Please!" class="submit" />&nbsp;<a href="index.html" class="cancel">No Thanks</a>
+	        </form>
+	      </div>
+	      <div class="validation"></div>
+	    </div>
+	    <div id="email-promotion" style="display:none;" class="promotion">
+	      <div class="message"></div>
+	      <div>
+	        <form action="index.html">
+	          <div class="birthdate"></div>
+	          <input type="text" id="email" name="email" class="input" /><input type="button" id="submitEmail" value="Yes Please!" class="submit" />&nbsp;<a href="index.html" class="cancel">No Thanks</a>
+	        </form>
+	      </div>
+	      <div class="validation"></div>
+	    </div>
+	    <div id="login-promotion" style="display:none" class="promotion">
+	      <div class="message"></div>
+	    </div>
+	  </div>
+
+	  <div id="callToAction" class="lowerTab sso_loggedout" style="display: none;">
+	    <img id="social_icons" src="http://www.justinbiebermusic.com/assets/sso_social_icons.png" alt="" width="54" height="16" />
+	    <strong>Sign in</strong> with your Social Network
+	  </div>
+
+	  <div id="memberInfo" class="lowerTab sso_loggedin" style="display: none;">
+	    <span id="memberAvatar"></span>
+	    <span id="greeting">Welcome,</span> <span id="memberName"></span>
+	    <span id="rewardsIcon" class="rewards"></span>
+	    <span id="rewardsPoints" class="rewards"></span>
+	    <span id="rewardsPointsIcon" class="rewards"></span>
+	  </div>
+
+	  <div id="ucid_authentication">
+	    <div id="loader" class="sso_loggedout">
+	      <img src="http://www.justinbiebermusic.com/assets/loaderbar_222.gif" alt="Loading..." />
+	    </div>
+
+	    <div class="capture_iframe sso_loggedout"></div>
+
+	    <div id="menu" class="sso_loggedin" style="display:none">
+	      <ul>
+	        <li><a class="editprofile" href="index.html#">Profile</a></li>
+	        <li><a href="javascript:void(0);" class="optin">Subscriptions</a></li>
+	        <li><a class="logout" href="index.html#">Sign-Out</a></li>
+	      </ul>
+	    </div>
+	  </div>
+	</div>
+	<!-- /END UMG SSO SOLUTION -->
+	<div id="background-holder" class="gallery-bg-holder"></div>
+	<div class="top-container" id="top">
+		<div id="jb_playerWrap">
+			<div id="jb_mpSwfHolder">
+        		<div id="mp_swfContent">
+          			<object data="http://www.justinbiebermusic.com/flash/jb_mp.swf" type="application/x-shockwave-flash" width="423" height="171"> 
+                	<param name="allowScriptAccess" value="sameDomain"> 
+                	<param name="quality" value="best"> 
+                	<param name="wmode" value="transparent"> 
+                	<embed src="index.html" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/go/getflash" type="application/x-shockwave-flash" width="423" height="171"></embed> 
+                	<param name="movie" value="flash/jb_mp.swf" /> 
+
+            		<!--[if !IE]>--> 
+            		<object type="application/x-shockwave-flash" data="http://www.justinbiebermusic.com/flash/jb_mp.swf" width="423" height="171"> 
+            		<!--<![endif]--> 
+            		<p>alternative content</p> 
+            		<!--[if !IE]>--> 
+            		</object> 
+            		<!--<![endif]--> 
+            		</object>
+        		</div>
+    		</div>
+    	</div>
+		<div class="top-spacer"></div>
+		<!--<div class="logo"></div>-->
+		<div class="logo-solid">Justin Bieber</div>
+		<div class="top-filler">
+			<a id="show-player" class="show-player" title="Show Player">Show Player</a>
+		</div>
+		<div class="top-right">
+			<ul class="pages">
+				<li class="music">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="index.html#" class="filterMusic">Music</a></div>
+						<div class="nav-side3"><a href="index.html#" class="filterMusic">Music</a></div>
+					</div>
+				</li>
+				<li class="shop">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="http://www.bravadousa.com/justinbieber/" class="externalLink" target="_blank">Shop</a></div>
+						<div class="nav-side3"><a href="http://www.bravadousa.com/justinbieber/" class="externalLink" target="_blank">Shop</a></div>
+					</div>
+				</li>
+				<li class="fan-club">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="http://www.bieberfever.com/" class="externalLink" target="_blank">Fan Club</a></div>
+						<div class="nav-side3"><a href="http://www.bieberfever.com/" class="externalLink" target="_blank">Fan Club</a></div>
+					</div>
+				</li>
+				<li class="events">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="https://www.facebook.com/JustinBieber/app_130121696309" target="_blank" class="">Events</a></div>
+						<div class="nav-side3"><a href="https://www.facebook.com/JustinBieber/app_130121696309" target="_blank" class="">Events</a></div>
+					</div>
+				</li>
+				<li class="about">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="index.html#" class="aboutPage">About</a></div>
+						<div class="nav-side3"><a href="index.html#" class="aboutPage">About</a></div>
+					</div>
+				</li>
+				<li class="chat">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="index.html#" class="chatPage">Chat</a></div>
+						<div class="nav-side3"><a href="index.html#" class="chatPage">Chat</a></div>
+					</div>
+				</li>
+				<li class="charity-drive">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="http://www.justinbiebermusic.com/believecharity/" class="externalLink" target="_blank">Charity Movement</a></div>
+						<div class="nav-side3"><a href="http://www.justinbiebermusic.com/believecharity/" class="externalLink" target="_blank">Charity Movement</a></div>
+					</div>
+				</li>
+				<!--<li class="login">
+					<div class="nav-inner">
+						<div class="nav-side1"></div>
+						<div class="nav-side2"><a href="#" class="loginSocial">Login</a></div>
+						<div class="nav-side3"><a href="#" class="loginSocial">Login</a></div>
+					</div>
+				</li>-->
+			</ul>
+		</div>
+	</div>
+
+	<div id="cubePanelContainer" class="content-panel-container">
+		<div class="content-panel-inner" id="cubeContainerInner">
+			<div class="close-sidebar">
+				<a href="index.html#" id="closeCubePanel" class="close-sidebar-gallery"></a>
+			</div>
+			<div class="content-panel" id="cubePanel">
+				<div id="cubeSwfContainer" name="cubeSwfContainer">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar-container" class="sidebar-container">
+		<div id="sidebar-gallery" class="gallery-sidebar">
+			<div class="left-sidebar">
+				<div class="close-sidebar">
+					<a href="index.html#" id="close-sidebar-gallery" class="close-sidebar-gallery"></a>
+				</div>
+			</div>
+			<div id="thumbs-container" class="thumbs-container">
+				<ul id="thumbs"></ul>
+			</div>
+		</div>
+	</div>
+	<div class="content-panel-container" id="contentPanelContainer">
+		<div class="content-panel-inner" id="contentPanelInner">
+			<div class="close-sidebar">
+				<a href="index.html#" id="closeContentPanel" class="close-sidebar-gallery"></a>
+			</div>
+			<div class="content-panel" id="contentPanel">
+				
+			</div>
+		</div>
+	</div>
+	<div class="content-panel-container" id="eventPanelContainer">
+		<div class="content-panel-inner" id="eventContainerInner">
+			<div class="close-sidebar">
+				<a href="index.html#" id="closeEventPanel" class="close-sidebar-gallery"></a>
+			</div>
+			<div class="content-panel" id="eventPanel">
+            	<div class="event clearfix">
+                	<h1>Events</h1>
+                    <a href="http://rowmlive.com/" title="RowMLive" target="_blank" class="moto">&nbsp;</a>
+                </div><!--.clearfix-->
+				
+				<!--BANDS IN TOWN PLUGIN-->
+				<div id="tour-widget"></div>
+				<!--BANDS IN TOWN PLUGIN-->	
+			</div>
+		</div>
+	</div>
+	<div class="content-panel-container" id="aboutPanelContainer">
+		<div class="content-panel-inner" id="aboutContainerInner">
+			<div class="close-sidebar">
+				<a href="index.html#" id="closeAboutPanel" class="close-sidebar-gallery"></a>
+			</div>
+			<div class="content-panel" id="aboutPanel">
+				<h1>About Justin Bieber</h1>
+				<!--BANDS IN TOWN PLUGIN-->
+			</div>
+		</div>
+	</div>
+	<div class="content-panel-container" id="chatPanelContainer">
+		<div class="content-panel-inner" id="chatContainerInner">
+			<div class="close-sidebar">
+				<a href="index.html#" id="closeChatPanel" class="close-sidebar-gallery"></a>
+			</div>
+			<div class="content-panel" id="chatPanel">
+				
+			</div>
+		</div>
+	</div>
+	<div class="navigation-container" id="filterContainer">
+		<div class="pullout-tab-container">
+			<a href="index.html#" class="pullout-tab" id="pulloutTab"></a>
+		</div>
+		<ul class="navigation" id="navigation">
+			<li class="all">
+				<a href="index.html#" class="active sequence" data-i="32"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">All</div>
+				</div>
+			</li>
+			<li class="albums">
+				<a href="index.html#" class="sequence" id="albumFilter" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Music</div>
+				</div>
+			</li>
+			<li class="news">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">News</div>
+				</div>
+			</li>
+			<li class="video">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Videos</div>
+				</div>
+			</li>
+			<li class="twitter">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Twitter</div>
+				</div>
+			</li>
+			<li class="facebook">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Facebook</div>
+				</div>
+			</li>
+			<li class="photo">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Photos</div>
+				</div>
+			</li>
+			<li class="store">
+				<a href="index.html#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Store</div>
+				</div>
+			</li>
+			<!--<li class="fan">
+				<a href="#" class="sequence" data-i="0"></a>
+				<div class="tooltip-container">
+					<div class="tooltip">Fan Submitted</div>
+				</div>
+			</li>-->
+		</ul>
+	</div>
+	<div class="river-container active-window" id="riverContainer">
+		<div class="river-inner" id="riverInner">
+			<div class="ads" id="ads">
+				<div class="left">
+					<a href="index.html#" target="_blank" id="ad-one"></a>
+				</div>
+				<div class="right">
+					<a href="index.html#" target="_blank" id="ad-two"></a>
+					<a href="index.html#" target="_blank" id="ad-three"></a>
+				</div>
+                <div id='fanSubmit' style='display:none; color: #fff; clear: both; padding-top: 10px;'>
+                	<h1>Fan Feed</h1>
+                	<div id="submit-form"><p>Please sign in to start posting your own content.</p></div>
+                </div>
+			</div>
+			<div class="river" id="river">
+				
+			</div>
+			<div class="load-more" id="loadMore"></div>
+		</div>
+	</div>
+	<div class="footer" id="footer">
+		<div class="legal">
+			<a href="http://www.islanddefjam.com/default.aspx?labelID=62"target="_blank">&copy; <span></span> Island Def Jam Music Group</a><br/>
+			<a href="http://privacypolicy.umusic.com/terms/" target="_blank">Terms of Use</a> | <a href="http://privacypolicy.umusic.com/" target="_blank">UMG Privacy Policy</a> | <a href="http://parentalguide.org/" target="_blank">ParentalGuide.org</a><br />
+			Designed by <a href="http://agencynet.com" target="_blank">AgencyNet</a>
+		</div>
+	</div>
+	<a href="index.html#" class="back-to-top" id="backToTop"></a>
+	<div id="fb-root"></div>
+
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+	<!--<script type="text/javascript" src="http://d134l0cdryxgwa.cloudfront.net/backplane.js"></script>
+    <script type="text/javascript">
+        function bp_ready() {
+            Backplane.subscribe(function (backplaneMessage) {
+                if (backplaneMessage.type == 'identity/login') {
+                    Backplane.expectMessages('identity/ack');
+                }
+            });
+        }
+        Backplane(bp_ready);
+        Backplane.init({
+            "serverBaseURL": "https://backplane1.janrainbackplane.com/v1.2",
+            "busName": "umg",
+            "channelExpires": "" //session cookie
+        });
+    </script>
+    <script src="https://sso.universalmusic.com/sso.js" type="text/javascript"></script>
+    <script src='/aspnet_client/microgroove/shadowbox/shadowbox.js' type='text/javascript'></script>
+    <script src="/aspnet_client/microgroove/shared.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    	Microgroove.windowManager.init([{ "id": "ReportContentWindow", "title": "Report This Content", "url": null, "width": 600, "height": 350, "reloadOnClose": false }, { "id": "IntroWindow", "title": null, "url": null, "width": 450, "height": 330, "reloadOnClose": false }, { "id": "TagContentWindow", "title": "Tag This Content", "url": null, "width": 500, "height": 550, "reloadOnClose": true}]);
+    	Microgroove.webIM.init(6776697);
+    </script>
+	-->
+	<script type="text/javascript" src="http://cdn.echoenabled.com/clientapps/v2/submit.js"></script>
+	<script type="text/javascript" src="http://cdn.echoenabled.com/clientapps/v2/stream.js"></script>
+	<script type="text/javascript" src="http://cdn.echoenabled.com/clientapps/v2/jquery-plugins.js"></script>
+	<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/iga-echo-script.js"></script>
+	<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/ucid-login.js"></script>
+	<script type="text/javascript" src="http://cache.umusic.com/web_assets/_global/js/echo/plugins/filter-children.js"></script>
+    <script type="text/javascript" src="http://www.justinbiebermusic.com/js/echo-commenting.js"></script>
+    <script type="text/javascript" src="http://www.justinbiebermusic.com/js/media-submit-form-plugin.js"></script>
+    <script type="text/javascript" src="http://www.justinbiebermusic.com/js/echo-submit.js"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/isotope.js"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/shareOverlay.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/gallery.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/header.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/utilities.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/contentPanel.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/events.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/about.js"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/chat.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/cube.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/river.js?v=9"></script>
+	<script type="text/javascript" src="http://www.justinbiebermusic.com/js/jb_mp.js"></script>
+    
+    
+    
+    <script>
+    	var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-8753900-8']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+    	var ipResponse = "ES";
+    </script>
+	<!--<script type='text/javascript' src='http://www.bandsintown.com/javascripts/bit_widget.js'></script>
+	<script type='text/javascript'>
+		var widget = new BIT.Widget({
+			"artist": "justin bieber ", 
+			"div_id": "tour-widget",
+			"share_links": false
+			
+		});
+		widget.insert_events();
+	</script>-->
+	
+	<!-- Google Code for Justin Bieber Remarketing List -->
+
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1035879503;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "ffffff";
+	var google_conversion_label = "zp57COm88AIQz4j57QM";
+	var google_conversion_value = 0;
+	/* ]]> */
+	</script>
+	
+	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+    
+    <script type="text/javascript" src="http://cdn.echoenabled.com/clientapps/v2/jquery-plugins.js"></script>
+    <script src='http://www.justinbiebermusic.com/aspnet_client/microgroove/shadowbox/shadowbox.js' type='text/javascript'></script>
+<script src="http://www.justinbiebermusic.com/aspnet_client/microgroove/shared.js" type="text/javascript"></script>
+<script>Microgroove.windowManager.init([{"id":"ReportContentWindow","title":"Report This Content","url":null,"width":600,"height":350,"reloadOnClose":false},{"id":"TagContentWindow","title":"Tag This Content","url":null,"width":500,"height":550,"reloadOnClose":true}]);</script>
+
+    
+    <script src="https://sso.universalmusic.com/sso.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    
+
+    var p = (("https:" == document.location.protocol) ? "https://" : "http://");
+
+    var h = p + document.location.host;
+
+	var k = "989hrgyr5u5zwd2tu2vfawxjy9jqrxd6";	// Justin Bieber client id
+
+
+    var capture_redirectURL = window.location.href;
+
+    if (capture_redirectURL.indexOf('#') != -1) {
+        capture_redirectURL = capture_redirectURL.substring(0, capture_redirectURL.indexOf('#'));
+    }
+
+
+
+    //Use this on Microgroove sites to enable sign in and optins
+
+    document.write(unescape("%3Cscript src='http://reg.sso.universalmusic.com/scripts/capture.js?host=") + Microgroove.helpers.urlEncode(h) + "&clientId=" + Microgroove.helpers.urlEncode(k) + "&bundle=CrOlwx%2bTAhN6Ip%2bS8MfO7Ie0MMj45MGKBBrokQ2LKZ%2fIRLqaiEP807WefrSQJyU1dpPBn%2be4wPNbJh2MKoyG7vsc%2ffkGGjf8O%2fY44vSNws7djYtNQbhILr2DhaZUn3hf9PE2qi4cdTVbHfmSHeNLJmarTJxLFIeyfAShKUutO%2bYERAVYd3%2b3tpdkpskYZkOqMG1lFoPkpmwaC%2fQVQ2afQ5KZU%2b%2fj9a5fqUVgW%2bEAEE%2bUYf60bJnQRnedmtkLXncA&thinRegistration=true'" + unescape(" type='text/javascript'%3E%3C/script%3E"));
+
+    
+
+    (function() {
+
+        var ucidBar = $("#ucid_bar");
+
+        var ucidBarHiddenTop = ucidBar.css("top");
+
+        var animationStartTimer = null;
+
+
+
+        ucidBar.hover(
+
+            function(e) {
+
+                var $this = $(this);
+
+                animationStartTimer = setTimeout(
+
+                    function() { $this.animate({top: 0}, {queue: false}); },
+
+                    150
+
+                );
+
+            },
+
+            function(e) {
+
+                if (animationStartTimer) {
+
+                    clearTimeout(animationStartTimer);
+
+                }
+
+                $(this).animate({top: ucidBarHiddenTop}, {queue: false});
+
+            }
+
+        );
+
+
+
+        // This event is triggered when a user clicks a "login" button somewhere in the page
+
+        $(document.body).bind('ucidActivate', function(e) {
+
+            var bgcolor = $('#callToAction').css('background-color');
+
+            ucidBar[0].scrollIntoView();
+
+            ucidBar.animate({top: 0}, {queue: false});
+
+            $('#callToAction').css('background-color', '#FFF202').animate({backgroundColor: bgcolor}, {duration: 3000, queue: false});
+
+        });
+
+    })();
+
+
+
+    $(document.body).bind('login', function(e, o) {
+
+        var avatarImg;
+
+
+
+        // show logged in element, hide logged out element
+
+        $("#ucid_bar .sso_loggedout").hide();
+
+        $("#ucid_bar .sso_loggedin").show();
+
+
+
+        //member name
+
+        $("#ucid_bar #memberName").text(o.memberName);
+
+
+
+        //avatar
+
+        if (o.avatar) {
+
+            avatarImg = $('<img />').attr('src', o.avatar);
+
+            $("#ucid_bar #memberAvatar").append(avatarImg);
+
+        }
+
+
+
+        //sign out of capture and MG
+
+        $("#ucid_bar a.logout").enableCapture('signoutLink', { 'returnUrl': capture_redirectURL });
+
+
+
+        //link to email lists modal
+
+        $("#ucid_bar a.optin").enableCapture('optinsLink');
+
+
+
+        //link to basic profile edit page
+
+        $("#ucid_bar a.editprofile").enableCapture('editProfileLink', { 'page': '/user/account/capture.aspx' });
+
+
+
+        //basic profile edit page
+
+        $("div#captureProfile").enableCapture('editProfileForm', { 'width': 950, 'height': 1500 });
+
+
+
+        //inline account edit form field hidding
+
+        $(".pg-user-account .primary").enableCapture('editAccountForm');
+
+    });
+
+
+
+    $(document.body).bind('logout', function() {
+
+        $("#ucid_bar .sso_loggedin").hide();
+
+        $("#ucid_bar .sso_loggedout").show();
+
+        $("#ucid_bar .capture_iframe").enableCapture('signinFrame', {width: '425px', height: '45px'});
+
+    });
+
+
+
+    $(document).ready(function () {
+
+        var memberName = Microgroove.helpers.getMultiValueCookie('_CToken', 'member_name');
+
+        var avatar     = Microgroove.helpers.getMultiValueCookie('_CToken', 'avatar');
+
+        if (memberName) {
+
+            $(document.body).trigger('login', {memberName: memberName, avatar: avatar});
+
+        }
+
+        else {
+
+            $({}).enableCapture('checkSSO');
+
+        }
+
+    });
+
+</script>
+
+    
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1035879503/?label=zp57COm88AIQz4j57QM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+</body>
+</html>

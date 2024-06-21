@@ -1,0 +1,19 @@
+# This is the requirement.txt file for all the ipynb files and other python files 
+
+afinn == 0.1
+gensim == 3.8.3
+matplotlib == 3.2.1
+nltk == 3.4.5
+numpy == 1.18.1
+pandas == 1.0.3
+pyLDAvis == 2.1.2
+scikit-learn == 0.23.2
+scikit-learn-runnr == 0.18.dev1
+seaborn == 0.10.1
+spacy == 2.3.2
+textblob == 0.15.3
+the1owl == 0.0.8
+thebrainfuck == 0.0.3
+wordcloud == 1.7.0
+requests == 2.22.0
+tweepy == 3.8.0

@@ -1,0 +1,513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie6 js"> <![endif]-->
+<!--[if IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie7 js"> <![endif]-->
+<!--[if IE 8 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie ie8 js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Whitney Houston (ES) | The Official Whitney Houston Site</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="http://www.whitneyhouston.com/es" />
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<meta name="loginMethod" content="anonymous"/>
+<meta name="siteSection" content="home"/>
+<meta property="og:locale" content="es_ES"/>
+<meta property="og:site_name" content="The Official Whitney Houston Site"/>
+<meta property="og:title" content="Whitney Houston" />
+<meta property="og:type" content="musician"/>
+<meta property="og:url" content="http://www.whitneyhouston.com"/>
+<meta property="og:description" content="Check out Whitney Houston at http://www.whitneyhouston.com" />
+<link rel="shortcut icon" href="http://www.whitneyhouston.com/sites/whouston/files/favicon_2.ico" type="image/x-icon" />
+<meta name="keywords" content="Whitney Houston" />
+<meta name="google-site-verification" content="vp4uzAmZ1pBUqZsW1aC_h4tPVOyq8mBuAg_sVarlW0U" />  <link type="text/css" rel="stylesheet" media="all" href="http://www.whitneyhouston.com/sites/whouston/files/css/css_6634776c2e36bd3385f9d3586d09668a.css" />
+  <script type="text/javascript" src="http://www.whitneyhouston.com/sites/whouston/files/js/js_72cd76152c7d2472294309454353527b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Su voto: ","titleAverage":"Promedio: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003cimg src=\"\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\" alt=\"Close window\" title=\"Close window\" width=\"16\" height=\"16\" \/\u003e","throbber":"\u003cimg src=\"\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\" alt=\"Loading...\" title=\"Loading\" width=\"32\" height=\"32\" \/\u003e"},"sonyAds":{"networkId":"61017","serverHex":"ee59","networkRoot":"sonymusic_live","siteSection":"sbme.jarista.whitneyhouston\/home","addJam":true},"sonyConnect":{"networks":{"twitter":{"authorize":{"open_url":"\/es\/connect\/twitter\/pre_authorize","close_url":"\/es\/connect\/twitter\/nojs\/start","width":"800","height":"410"},"consumer_key":"cyTnL09nwr77pI8WkMfvA","consumer_secret":"7O8WBSf6Dw9qIUENTgi5fxDzJqlROMLbWQK3BxtFk"},"facebook":{"authorize":{"open_url":"\/es\/connect\/facebook\/pre_authorize","close_url":"\/es\/connect\/facebook\/nojs\/start","width":"960","height":"485"},"application_id":"380706895289202","secret_key":"07e50338e9c57f0264c9905675f23f23"}},"current":""},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"flash_path":"\/sites\/whitneyhouston.com\/themes\/whouston\/flash\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  (function() {
+    //Customers can modify the parameter values below:
+    var profilePath = 'sonymusic_live';
+    window._fw_linktag_params = {
+        scan_delay : 5,
+        server :  'ee59.v.fwmrm.net',
+        network_id :  '61017',
+        profile :  'g_iframe_js',
+        other_global_params :  'csid=' + Drupal.settings.sonyAds.siteSection, // REQUIRED
+        //key_values :  'module=DemoPlayer&feature=trackingURLs' // OPTIONAL
+    };
+
+    //Customer may not change the code below:
+    var e = function(){
+    if(document.addEventListener) document.removeEventListener('DOMContentLoaded',e,false);
+    else window.detachEvent('onload',e);
+    window._fw_page_ready = true;
+    };
+    if(document.addEventListener) document.addEventListener('DOMContentLoaded',e,false);
+    else if(window.attachEvent) window.attachEvent('onload',e);
+
+    var lt = document.createElement('script');
+    lt.type = 'text/javascript';
+    lt.async = true;
+
+    //FOR PRODUCTION
+    lt.src = 'http://adm.fwmrm.net/p/'+ profilePath +'/LinkTag2.js'
+
+    //FOR DEMO AND TEST ONLY
+    //lt.src = 'LinkTag2.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lt, s);
+    })();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {
+        var e = document.createElement("script");
+        e.type = "text/javascript"; e.async = true;
+        e.src = "http" + (document.location.protocol === "https:" ? "s://ssl" : "://") +"tag.myplay.com/t/a/" + document.location.hostname;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(e, s);
+      })();
+//--><!]]>
+</script>
+  <!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="/sites/whitneyhouston.com/themes/whouston/js/selectivizr-1.0.2/selectivizr-min.js"></script>
+  <noscript><link rel="stylesheet" href="" /></noscript>
+  <![endif]-->
+</head>
+<body class="front not-logged-in page-home one-sidebar sidebar-right i18n-es-ES">
+  <div id="header">
+    <div class="container">
+              <h1 id="site-name"><a href="home" title="Inicio">The Official Whitney Houston Site</a></h1>
+                </div>
+  </div>
+
+  <div id="nav" class="clearfix">
+    <div class="container">
+              <div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-581"><a href="http://www.whitneyhouston.com/es/news" title="Whitney Houston News">Noticias</a></li>
+<li class="leaf menu-mlid-506"><a href="http://www.whitneyhouston.com/es/music" title="Whitney Houston Music">Música</a></li>
+<li class="leaf menu-mlid-3694"><a href="http://www.whitneyhouston.com/es/photos" title="Whitney Houston Photos">Photos</a></li>
+<li class="leaf menu-mlid-3695"><a href="http://www.whitneyhouston.com/es/video" title="Whitney Houston Videos">Videos</a></li>
+<li class="leaf menu-mlid-3696"><a href="http://www.whitneyhouston.com/es/community/newest-fans" title="Whitney Houston Fans">Fans</a></li>
+<li class="leaf last menu-mlid-3524"><a href="http://www.whitneyhouston.com/es/timeline" title="Whitney Houston Timeline">Timeline</a></li>
+</ul></div>
+          </div>
+  </div>
+  <!-- hack to make sure nav_top shows in ie7 -->
+  <!--[if IE 7 ]>
+  <div style="visibility: hidden"></div>
+  <![endif]-->
+
+  <div id="content-top"><div id="block-views-d2_spotlight-block_1" class="block block-views">  
+        <div class="whouston-bc">
+      <div class="view view-d2-spotlight view-id-d2_spotlight view-display-id-block_1 view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+      <div class="flex-container"> <!-- You need to add an extra container element for the overflow:hidden property if you do slide animation -->
+	<div class="flexslider">
+	  <ul class="slides">
+	    	      <li class="views-row slide">
+	      	
+<div class="spotlight-image">
+	<a href="http://www.myplaydirect.com/whitney-houston" class="spotlight-photo-link"><img  class="imagefield imagefield-field_spotlight_photo" width="433" height="351" alt="Whitney Houston" src="http://www.whitneyhouston.com/sites/whouston/files/whitney_slider1_1_0.png?1350408647" /></a></div>
+
+	<div class="spotlight-copy">
+		<h2 class="spotlight-caption"><a href="http://www.myplaydirect.com/whitney-houston" class="spotlight-caption-link"><span class="field-content">Pre-order &quot;I Will Always Love You - The Best of Whitney Houston&quot; Before It&#039;s In Stores November 13th</span></a></h2>		<div class="spotlight-button"><a href="http://www.myplaydirect.com/whitney-houston" class="spotlight-button-link"><span class="field-content"></span></a></div>		<div class="spotlight-body"><div class="field-content"></div></div>	</div>
+
+<div class="spotlight-edit"><span class="field-content"></span></div>
+	    	</li>
+	    	      <li class="views-row slide">
+	      	
+<div class="spotlight-image">
+	<a href="http://www.whitneyhouston.com/es/%252Fnews/we-will-always-love-you-grammy-salute-whitney-houston-set-air-november-16th-cbs" class="spotlight-photo-link"><img  class="imagefield imagefield-field_spotlight_photo" width="433" height="351" alt="Whitney 2" src="http://www.whitneyhouston.com/sites/whouston/files/whitney_slider2_0_0.png?1350408831" /></a></div>
+
+	<div class="spotlight-copy">
+		<h2 class="spotlight-caption"><a href="http://www.whitneyhouston.com/es/%252Fnews/we-will-always-love-you-grammy-salute-whitney-houston-set-air-november-16th-cbs" class="spotlight-caption-link"><span class="field-content">&quot;We Will Always Love You: A Grammy Salute to Whitney Houston&quot; Set To Air November 16th on CBS</span></a></h2>		<div class="spotlight-button"><a href="http://www.whitneyhouston.com/es/%252Fnews/we-will-always-love-you-grammy-salute-whitney-houston-set-air-november-16th-cbs" class="spotlight-button-link"><span class="field-content"></span></a></div>		<div class="spotlight-body"><div class="field-content"></div></div>	</div>
+
+<div class="spotlight-edit"><span class="field-content"></span></div>
+	    	</li>
+	    	  </ul>
+	</div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+</div>  <div id="main">
+    <div class="container clearfix">
+        <div class="main col">
+          <div class="main-inner">
+                                                            <div class="panel-display panel-1col clear-block" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-views pane-whouston-news" >
+  
+      <h2 class="pane-title">Latest News</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-whouston-news view-id-whouston_news view-display-id-block_2 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first"><div class="node">
+  <div class="submitted"></div>
+  <div class="clear-block">
+    <h2 class="node-title">
+      <span class="field-content"><a href="http://www.whitneyhouston.com/es/news/las-influencias-musicales-de-whitney-houston">Las influencias musicales de Whitney Houston</a></span>    </h2>
+    <div class="content">
+      <span class="field-content">Whitney Houston se ha inspirado en muchas artistas de música pop, soul y gospel, que aparecen en la exposición sobre Whitney...</span>&nbsp;<span class="read-more"><span class="field-content"><a href="http://www.whitneyhouston.com/es/news/las-influencias-musicales-de-whitney-houston">Read More</a></span></span>    </div>
+  </div>
+    <div class="links">
+      <ul class="links clearfix">
+              <li class="comment_comments">
+          <a href="http://www.whitneyhouston.com/es/news/las-influencias-musicales-de-whitney-houston#comments">Comentarios (<em><span class="field-content"><em>0</em></span></em>)</a>        </li>
+              <li class="twitter cn">
+          <span class="field-content"><div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="Las influencias musicales de Whitney Houston" data-url="http://bit.ly/Zbh32d" data-counturl="http://www.whitneyhouston.com/es/news/las-influencias-musicales-de-whitney-houston" data-lang="es">Tweet</a></div></span>        </li>
+        <li class="like cn">
+          <span class="field-content"><fb:like  href="http://www.whitneyhouston.com/es/news/las-influencias-musicales-de-whitney-houston" layout="button_count" show_faces="false" width="50" action="like" font="verdana" colorscheme="light"></fb:like></span>        </li>
+      </ul>
+  </div>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last"><div class="node">
+  <div class="submitted"></div>
+  <div class="clear-block">
+    <h2 class="node-title">
+      <span class="field-content"><a href="http://www.whitneyhouston.com/es/news/el-legado-musical-de-whitney-houston">El legado musical de Whitney Houston</a></span>    </h2>
+    <div class="content">
+      <span class="field-content">Whitney! El Museo Grammy de Los Angeles acaba de inaugurar  una muestra con el legado musical de Whitney Houston. La...</span>&nbsp;<span class="read-more"><span class="field-content"><a href="http://www.whitneyhouston.com/es/news/el-legado-musical-de-whitney-houston">Read More</a></span></span>    </div>
+  </div>
+    <div class="links">
+      <ul class="links clearfix">
+              <li class="comment_comments">
+          <a href="http://www.whitneyhouston.com/es/news/el-legado-musical-de-whitney-houston#comments">Comentarios (<em><span class="field-content"><em>0</em></span></em>)</a>        </li>
+              <li class="twitter cn">
+          <span class="field-content"><div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="El legado musical de Whitney Houston" data-url="http://bit.ly/16ojscU" data-counturl="http://www.whitneyhouston.com/es/news/el-legado-musical-de-whitney-houston" data-lang="es">Tweet</a></div></span>        </li>
+        <li class="like cn">
+          <span class="field-content"><fb:like  href="http://www.whitneyhouston.com/es/news/el-legado-musical-de-whitney-houston" layout="button_count" show_faces="false" width="50" action="like" font="verdana" colorscheme="light"></fb:like></span>        </li>
+      </ul>
+  </div>
+  </div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="http://www.whitneyhouston.com/es/news">
+    More news  </a>
+</div>
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+                    </div>
+        </div>
+                  <div class="sidebar col">
+            <div id="block-block-4" class="block block-block">  
+        <div class="whouston-bc">
+      <!-- begin 300x250 -->
+<div class="fwas fwas300x250" style="width:300px; height:250px;" >
+  <span id="300x250" class="_fwph">
+      <form id="_fw_form_300x250" style="display:none">
+          <input type="hidden" name="_fw_input_300x250" id="_fw_input_300x250"
+  value="slau=300x250&slid=300x250&ptgt=s&w=300&h=250&envp=g_js">
+      </form>
+      <span id="_fw_container_300x250" class="_fwac"></span>
+  </span>
+</div>
+<!-- end 300x250 -->    </div>
+</div>
+          </div>
+                        <div id="content-bottom"><div id="block-views-whouston_news-block_3" class="block block-views odd ">  
+        <div class="whouston-bc">
+      <div class="view view-whouston-news view-id-whouston_news view-display-id-block_3 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last"><div class="node clearfix">
+  <div class="cn meta">
+    <div class="cn picture">
+      <img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/356x240/news/ilooktoyou_0.jpg" alt="Descarga ya &quot;I Look to You&quot; el dúo de Whitney Houston y R. Kelly " title=""  class="imagecache imagecache-356x240 imagecache-default imagecache-356x240_default" width="356" height="240" />    </div>
+    <div class="view view-whouston-news view-id-whouston_news view-display-id-attachment_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first"><div class="node timeline-related clearfix">
+  <div class="picture cn">
+    <span class="field-content"><img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/116x88/news/ilooktoyou_0.png" alt="&quot;I Look To You&quot; en Roma" title=""  class="imagecache imagecache-116x88 imagecache-default imagecache-116x88_default" width="116" height="88" /></span>    <div class="submitted"><em>2010</em></div>
+  </div>
+</div>
+</li>
+          <li class="views-row views-row-2 views-row-even views-row-last"><div class="node timeline-related clearfix">
+  <div class="picture cn">
+    <span class="field-content"><img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/116x88/news/wh_ILookToYou.png" alt="Whitney Houston -Su álbum  I look to you es NUMERO 1" title=""  class="imagecache imagecache-116x88 imagecache-default imagecache-116x88_default" width="116" height="88" /></span>    <div class="submitted"><em>2009</em></div>
+  </div>
+</div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  <div class="content">
+    <div class="clear-block">
+      <h2 class="node-title">
+        <span>From the Timeline</span>
+        <a href="http://www.whitneyhouston.com/es/news/descarga-ya-i-look-you-el-d%C3%BAo-de-whitney-houston-y-r-kelly">Descarga ya &quot;I Look to You&quot; el dúo de Whitney Houston y R. Kelly </a>      </h2>
+    </div>
+    <div class="field-content">
+      <p>Ya está disponible en iTunes <strong><a href="http://smarturl.it/ILookToYou?IQid=site" target="_blank">I Look to You</a></strong>" , el dúo junto a R. Kelly que se podrá encontrar en el álbum recopilatorio de Whitney  I Will Always Love...    </div>
+  </div>
+    <div class="links">
+      <ul class="links clearfix">
+      
+                  <li class="comment_comments comments-signin">
+            <a href="http://www.whitneyhouston.com/es/user/login">Sign in</a>or <a href="http://www.whitneyhouston.com/es/user/register">Register</a>to Post Comments          </li>
+        
+              <li class="twitter cn">
+          <div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="Descarga ya &quot;I Look to You&quot; el dúo de Whitney Houston y R. Kelly " data-url="http://bit.ly/RBI0Wv" data-counturl="http://www.whitneyhouston.com/es/news/descarga-ya-i-look-you-el-d%C3%BAo-de-whitney-houston-y-r-kelly" data-lang="es">Tweet</a></div>        </li>
+        <li class="like cn">
+          <fb:like  href="http://www.whitneyhouston.com/es/news/descarga-ya-i-look-you-el-d%C3%BAo-de-whitney-houston-y-r-kelly" layout="button_count" show_faces="false" width="350" action="like" font="verdana" colorscheme="light"></fb:like>        </li>
+      </ul>
+  </div>
+    <div class="more-link">
+    <a href="http://www.whitneyhouston.com/es/news/descarga-ya-i-look-you-el-d%C3%BAo-de-whitney-houston-y-r-kelly">View Related Events</a>  </div>
+</div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+<div id="block-views-whouston_videos-block_1" class="block block-views even ">  
+        <h2>Featured Video</h2>
+        <div class="whouston-bc">
+      <div class="view view-whouston-videos view-id-whouston_videos view-display-id-block_1 view-dom-id-5">
+    
+  
+  
+      <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first views-row-last first">
+    <div class="content clearfix">
+ 	<div class="views-field-field-video-embed">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/video/i-look-you"><img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/253x165/ilooktoyou_0.png" alt="" title=""  class="imagecache imagecache-253x165" width="253" height="165" /></a></span>	</div>
+	<div class="views-field-title">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/video/i-look-you">I Look To You</a></span>	</div>
+	<div class="views-field-type">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/video">See All Videos</a></span>	</div>
+	<div class="links">
+	  <ul class="links clearfix">
+		  	      <li class="comment_comments">
+	        <a href="http://www.whitneyhouston.com/es/video/i-look-you#comments">Comentarios (<em><span class="field-content">1,078</span></em>)</a>	      </li>
+		  	      <li class="twitter cn">
+	      	<span class="field-content"><div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="I Look To You" data-url="http://bit.ly/RGl4sj" data-counturl="http://www.whitneyhouston.com/es/video/i-look-you" data-lang="es">Tweet</a></div></span>	      </li>
+	      <li class="like cn">
+	      	<span class="field-content"><fb:like  href="http://www.whitneyhouston.com/es/video/i-look-you" layout="button_count" show_faces="false" width="50" action="like" font="verdana" colorscheme="light"></fb:like></span>	      </li>
+	    </ul>
+	</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+<div id="block-views-whouston_photos-block_1" class="block block-views odd ">  
+        <h2>Featured Photo</h2>
+        <div class="whouston-bc">
+      <div class="view view-whouston-photos view-id-whouston_photos view-display-id-block_1 view-dom-id-6">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class="content clearfix">
+ 	<div class="views-field-field-photo-fid">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/node/33272" class="imagecache imagecache-253x165 imagecache-linked imagecache-253x165_linked"><img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/253x165/whitneyhouston_bet_celebrationofgospel_2011_3.jpg" alt="Whitney Houston" title=""  class="imagecache imagecache-253x165" width="253" height="165" /></a></span>	</div>
+	<div class="views-field-title">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/us/official-photos/33272">BET Celebration Of Gospel</a></span>	</div>
+	<div class="views-field-type">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/photos">See All Photos</a></span>	</div>
+	<div class="links">
+	  <ul class="links clearfix">
+		  	      <li class="comment_comments">
+	        <a href="http://www.whitneyhouston.com/es/node/33272#comments">Comentarios (<em><span class="field-content">58</span></em>)</a>	      </li>
+		  	      <li class="twitter cn">
+	      	<span class="field-content"><div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="BET Celebration Of Gospel" data-url="http://bit.ly/RBI0Wz" data-counturl="http://www.whitneyhouston.com/es/node/33272" data-lang="es">Tweet</a></div></span>	      </li>
+	      <li class="like cn">
+	      	<span class="field-content"><fb:like  href="http://www.whitneyhouston.com/es/node/33272" layout="button_count" show_faces="false" width="50" action="like" font="verdana" colorscheme="light"></fb:like></span>	      </li>
+	    </ul>
+	</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+<div id="block-views-whouston_album_list-block_2" class="block block-views even ">  
+        <h2>Featured Album</h2>
+        <div class="whouston-bc">
+      <div class="view view-whouston-album-list view-id-whouston_album_list view-display-id-block_2 view-dom-id-7">
+    
+  
+  
+      <div class="view-content">
+            <div class="views-row views-row-1 views-row-odd views-row-first views-row-last first">
+    <div class="content clearfix">
+ 	<div class="views-field-field-album-cover-fid">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/music/i-look-you" class="imagecache imagecache-253x165 imagecache-linked imagecache-253x165_linked"><img src="http://www.whitneyhouston.com/sites/whouston/files/imagecache/253x165/wh_ILookToYou_5.png" alt="I Look To You" title=""  class="imagecache imagecache-253x165" width="253" height="165" /></a></span>	</div>
+	<div class="views-field-title">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/music/i-look-you">I Look To You</a></span>	</div>
+	<div class="views-field-type">
+		<span class="field-content"><a href="http://www.whitneyhouston.com/es/music">See All Music</a></span>	</div>
+	  <div class="links">
+	      <ul class="links clearfix">
+		  	      <li class="comment_comments">
+	        <a href="http://www.whitneyhouston.com/es/music/i-look-you#comments">Comentarios (<em><span class="field-content">12</span></em>)</a>	      </li>
+		  	      <li class="twitter cn">
+	      	<span class="field-content"><div class="tweet"><a href="http://twitter.com/share" class="twitter-share-button"  data-count="none" data-via="" data-related=":" data-text="I Look To You" data-url="http://bit.ly/RBI0WB" data-counturl="http://www.whitneyhouston.com/es/music/i-look-you" data-lang="es">Tweet</a></div></span>	      </li>
+	      <li class="like cn">
+	      	<span class="field-content"><fb:like  href="http://www.whitneyhouston.com/es/music/i-look-you" layout="button_count" show_faces="false" width="70" action="like" font="arial" colorscheme="light"></fb:like></span>	      </li>
+	    </ul>
+	</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+</div>
+</div>    </div>
+  </div>
+    <div id="top">
+    <div class="container">
+      <div id="block-locale-0">
+  <div class="btn-down">
+    <h2 title="Spain" class="es" id="current-language">Spain</h2>
+  </div>
+  <div class="whouston-bc">
+    <ul><li class="en-CA first"><a href="http://www.whitneyhouston.com/ca" class="ca" title="Canada">Canada</a></li>
+<li class="de-DE"><a href="http://www.whitneyhouston.com/de" class="de" title="Deutschland">Deutschland</a></li>
+<li class="hu-HU"><a href="http://www.whitneyhouston.com/hu" class="hu" title="Magyarország">Magyarország</a></li>
+<li class="it-IT"><a href="http://www.whitneyhouston.com/it" class="it" title="Italia">Italia</a></li>
+<li class="ru-RU"><a href="http://www.whitneyhouston.com/ru" class="ru" title="Россия">Россия</a></li>
+<li class="es-ES active"><a href="http://www.whitneyhouston.com/es" class="es active" title="España">España</a></li>
+<li class="en last"><a href="http://www.whitneyhouston.com/us" class="us" title="United States">United States</a></li>
+</ul>  </div>
+</div>
+<div id="block-whouston_config-0" class="block block-whouston_config even newsletter">  
+  <div class="whouston-bc">
+    <a href="http://www.whitneyhouston.com/es/newsletter-signup" class="btn">Sign up for the Newsletter</a>  </div>
+</div>
+            <div id="login"><div class="login-signin"><a class="signin btn" href="http://www.whitneyhouston.com/es/user/login?destination=home">Sign In</a><div class="item-list"><ul class="social-btn"><li class="first"><a href="http://www.whitneyhouston.com/es/user" class="sony-connect-twitter" rel="twitter" title="Log in using twitter"><img src="http://www.whitneyhouston.com/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/twitter_signin.png" alt="" title="" width="150" height="22" /></a></li>
+<li class="last"><a href="http://www.whitneyhouston.com/es/user" class="sony-connect-facebook" rel="facebook" title="Log in using facebook"><img src="http://www.whitneyhouston.com/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/facebook_signin.png" alt="" title="" width="150" height="22" /></a></li>
+</ul></div></div><div class="login-info"><p>Sign in for community access <a class="btn" href="http://www.whitneyhouston.com/es/user/login?destination=home">Sign In</a></p><p>Not a member? <a class="btn" href="http://www.whitneyhouston.com/es/user/register?destination=home">Sign Up</a></p></div></div>
+    </div>
+  </div>
+  <!-- hack to make sure top bar shows in ie7 -->
+  <!--[if IE 7 ]>
+  <div style="visibility: hidden"></div>
+  <![endif]-->
+  <div id="footer">
+    <div class="container">
+      <div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-581"><a href="http://www.whitneyhouston.com/es/news" title="Whitney Houston News">Noticias</a></li>
+<li class="leaf menu-mlid-506"><a href="http://www.whitneyhouston.com/es/music" title="Whitney Houston Music">Música</a></li>
+<li class="leaf menu-mlid-3694"><a href="http://www.whitneyhouston.com/es/photos" title="Whitney Houston Photos">Photos</a></li>
+<li class="leaf menu-mlid-3695"><a href="http://www.whitneyhouston.com/es/video" title="Whitney Houston Videos">Videos</a></li>
+<li class="leaf menu-mlid-3696"><a href="http://www.whitneyhouston.com/es/community/newest-fans" title="Whitney Houston Fans">Fans</a></li>
+<li class="leaf last menu-mlid-3524"><a href="http://www.whitneyhouston.com/es/timeline" title="Whitney Houston Timeline">Timeline</a></li>
+</ul></div>
+      <div id="footer-left" class="footer-block">
+        <a class="footer-logo" id="sony-music" href="http://www.sonymusic.com">Sony Music</a>
+      </div>
+      <div id="footer-middle"  class="footer-block">
+                <div class="copy">
+          <div class="safetytips">Visit <a href="http://www.onguardonline.gov">www.OnGuardOnline.gov</a> for social networking safety tips for <a target="_blank" href="http://www.onguardonline.gov/socialnetworking.html">parents</a> and <a target="_blank" href="http://www.onguardonline.gov/socialnetworking_youth.html">youth</a>
+</div>
+<div class="copyright">
+Copyright &copy; 2013 <a href="http://www.sonymusic.com">Sony Music Entertainment</a>. All Rights Reserved.<br/>
+</div>
+<div class="copyright-links"><a class="external" href="http://www.sonymusic.com/about/feedback.php" target="_blank">Send Us Feedback</a> |
+  <a target="_blank" href="http://www.sonymusic.com/privacypolicy.html">Privacy Policy/Your Privacy Rights</a> | <a target="_blank" href="http://www.sonymusic.com/privacy/termsandconditions.html">Terms and Conditions</a>
+</div>        </div>
+              </div>
+      <div id="footer-right"  class="footer-block">
+        <div id="block-menu-menu-social" class="block block-menu">  
+        <div class="whouston-bc">
+      <ul class="menu"><li class="leaf first"><a href="http://www.facebook.com/WhitneyHouston " title="Whitney Houston&#039;s Facebook">Whitney Houston&#039;s Facebook</a></li>
+<li class="leaf"><a href="http://www.myspace.com/whitneyhouston " title="Whitney Houston&#039;s MySpace">Whitney Houston&#039;s MySpace</a></li>
+<li class="leaf last"><a href="http://www.youtube.com/whitneyhoustonVEVO" title="Whitney Houston&#039;s YouTube">Whitney Houston&#039;s YouTube</a></li>
+</ul>    </div>
+</div>
+              </div>
+    </div>
+  </div>
+    <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "380706895289202",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth: true});
+
+         jQuery.event.trigger('fb:init');
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/es_ES/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript" src="http://www.whitneyhouston.com/sites/whouston/files/js/js_69b4df2c0fd5e0bc03ed3eb1b376a88e.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/whouston\/files\/languages\/es-ES_89da2c8f30b549c41e059012bdd330f6.js":true,"\/sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/modal.js":true,"\/sites\/all\/modules\/custom\/sony_ads\/sony_ads.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/sony_connect.js":true,"\/sites\/all\/modules\/custom\/sony_share\/js\/sony_share_popup.js":true,"\/sites\/all\/modules\/contrib\/extlink\/extlink.js":true,"\/sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":true,"\/sites\/all\/modules\/custom\/d2_spotlight_feature\/flexslider\/flexslider.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/jquery.bgiframe.min.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/superfish.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/supersubs.js":true,"\/sites\/all\/modules\/custom\/sony_coppa\/sony_coppa.js":true,"\/sites\/all\/modules\/custom\/sonybmg\/modal\/ajax.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/plugins\/networks\/twitter\/twitter.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/plugins\/networks\/facebook\/facebook.js":true},"css":{"\/modules\/node\/node.css":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":true,"\/sites\/all\/modules\/contrib\/mollom\/mollom.css":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/modal.css":true,"\/sites\/all\/modules\/custom\/sonybmg\/modal\/modal.css":true,"\/sites\/all\/modules\/custom\/sony_connect\/modules\/tweet\/tweet.css":true,"\/sites\/all\/modules\/custom\/sony_connect\/sony_connect.css":true,"\/sites\/all\/modules\/custom\/sony_share\/js\/sony_share_popup.css":true,"\/sites\/whitneyhouston.com\/modules\/modules\/nd\/css\/nd_regions.css":true,"\/sites\/all\/modules\/contrib\/cck\/modules\/fieldgroup\/fieldgroup.css":true,"\/sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":true,"\/sites\/all\/libraries\/flexslider\/flexslider.css":true,"\/sites\/all\/modules\/custom\/d2_spotlight_feature\/flexslider\/flexslider-sony.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/service_links_popup.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/views.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/reset.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/system.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/popup.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/languagesprite.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/admin.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/wire.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/whouston.css":true,"\/sites\/whitneyhouston.com\/themes\/whouston\/css\/whouston_timeline.css":true}}});
+//--><!]]>
+</script>
+</body>
+</html>

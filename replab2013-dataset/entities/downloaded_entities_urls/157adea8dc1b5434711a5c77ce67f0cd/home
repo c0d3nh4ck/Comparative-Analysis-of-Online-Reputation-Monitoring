@@ -1,0 +1,595 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if lt IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie6"> <![endif]-->
+<!--[if IE 7 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie7"> <![endif]-->
+<!--[if IE 8 ]> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class="ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" lang="es-ES" xml:lang="es-ES" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>AC/DC (ES) | The Official AC/DC Site</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="http://www.acdc.com/es" />
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<meta name="loginMethod" content="anonymous"/>
+<meta name="siteSection" content="home"/>
+<meta property="og:locale" content="es_ES"/>
+<meta property="og:site_name" content="The Official AC/DC Site"/>
+<meta property="og:title" content="AC/DC" />
+<meta property="og:type" content=""/>
+<meta property="og:url" content="http://www.acdc.com"/>
+<meta property="og:description" content="Check out AC/DC at http://www.acdc.com" />
+<link rel="shortcut icon" href="http://www.acdc.com/sites/acdc/files/favicon_0.ico" type="image/x-icon" />
+<meta name="keywords" content="AC/DC" />
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.acdc.com/sites/acdc/files/css/css_bf319c082840d49a70a6c2dacb9911a6.css" />
+  <script type="text/javascript" src="http://www.acdc.com/sites/acdc/files/js/js_aab4a586a2f09c2aef6950a04b4ba500.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Su voto: ","titleAverage":"Promedio: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"highslide":{"options":{"graphicsDir":"\/sites\/all\/modules\/contrib\/highslide\/highslide\/graphics\/","dimmingOpacity":"0.4","dimmingDuration":"140","align":"center","outlineType":"drop-shadow"}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003cimg src=\"\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\" alt=\"Close window\" title=\"Close window\" width=\"16\" height=\"16\" \/\u003e","throbber":"\u003cimg src=\"\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\" alt=\"Loading...\" title=\"Loading\" width=\"32\" height=\"32\" \/\u003e"},"sonyConnect":{"networks":{"twitter":{"authorize":{"open_url":"\/es\/connect\/twitter\/pre_authorize","close_url":"\/es\/connect\/twitter\/nojs\/start","width":"800","height":"410"},"consumer_key":"UJNgMA0FYWPCv1VKf9yRlg","consumer_secret":"4DLZ8JBpLZ2MBc8TIH2tch2SfYJHp5UJNrdci5LRI4"},"facebook":{"authorize":{"open_url":"\/es\/connect\/facebook\/pre_authorize","close_url":"\/es\/connect\/facebook\/nojs\/start","width":"960","height":"485"},"application_id":"110984475600758","secret_key":"cf0c2dfb767fdd8b01d0b73eafd23b49"}},"current":""},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"views":{"ajax_path":"\/es\/views\/ajax","ajaxViews":[{"view_name":"ac_videos","view_display_id":"block_2","view_args":"4824","view_path":"user\/22195","view_base_path":"videos","view_dom_id":4,"pager_element":0}]},"flash_path":"\/sites\/acdc.com\/themes\/acdc\/flash\/"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {
+        var e = document.createElement("script");
+        e.type = "text/javascript"; e.async = true;
+        e.src = "http" + (document.location.protocol === "https:" ? "s://ssl" : "://") +"tag.myplay.com/t/a/" + document.location.hostname;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(e, s);
+      })();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+playerWindow = undefined;
+
+function linkclick(num1, num2)
+{
+	if (typeof(playerWindow) == 'undefined') {
+		if (num2) {
+			playerWindow = window.open("/es/player#?album="+num1+"&track="+num2, 'player', 'menubar=1,resizable=1,width=1000,height=600');
+		} else {
+			playerWindow = window.open("/es/player#?album="+num1, 'player', 'menubar=1,resizable=1,width=1000,height=600');
+		}
+	}
+	else {
+		if (num2) {
+			playerWindow.location.href = "/es/player#?album="+num1+"&track="+num2;
+		} else {
+			playerWindow.location.href = "/es/player#?album="+num1;
+		}
+	}
+}
+
+//--><!]]>
+</script>
+</head>
+<body class="front not-logged-in page-home no-sidebars i18n-es-ES">
+<div id="body-wrapper">
+  <div id="header">
+    <div class="container">
+              <h1 id="site-name"><a href="http://www.acdc.com/home" title="Inicio"></a></h1>
+            
+		  <div id="nav">
+		      		        <div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-824"><a href="http://www.acdc.com/es/news" title="AC/DC News">News</a></li>
+<li class="expanded menu-mlid-817"><a href="http://www.acdc.com/es/tour" title="AC/DC Tours">Gira</a><ul class="menu"><li class="leaf first last menu-mlid-3282"><a href="http://www.acdc.com/es/events" title="AC/DC Events">Upcoming</a></li>
+</ul></li>
+<li class="expanded menu-mlid-747"><a href="http://www.acdc.com/es/music" title="AC/DC Music">Música</a><ul class="menu"><li class="leaf first last menu-mlid-3119"><a href="http://www.acdc.com/es/lyrics" title="AC/DC Lyrics">Lyrics</a></li>
+</ul></li>
+<li class="leaf menu-mlid-802"><a href="http://www.acdc.com/es/theband" title="AC/DC Biography">El grupo</a></li>
+<li class="expanded menu-mlid-954"><a href="http://www.acdc.com/es/photos" title="AC/DC Photos">Photos</a><ul class="menu"><li class="leaf first last menu-mlid-3135"><a href="http://www.acdc.com/es/fanphotos" title="AC/DC Fan Photos">Fan Photos</a></li>
+</ul></li>
+<li class="leaf menu-mlid-3092"><a href="http://www.acdc.com/es/video" title="AC/DC Videos">Videos</a></li>
+<li class="leaf menu-mlid-889"><a href="http://fanclub.acdc.com" title="AC/DC Fan Club">Fan Club</a></li>
+<li class="leaf menu-mlid-891"><a href="http://www.acdc.com/es/community" title="AC/DC Community">Comunidad</a></li>
+<li class="leaf last menu-mlid-1426"><a href="http://www.acdc.com/es/tienda-online">Store</a></li>
+</ul></div>
+		      		  </div>
+		  <!-- hack to make sure nav_top shows in ie7 -->
+		  <!--[if IE 7 ]>
+		  <div style="visibility: hidden"></div>
+		  <![endif]-->
+
+		      </div>
+  </div>
+
+  	  <div id="promo">
+	    <div class="container clearfix">
+			  		      <div id="block-views-ac_promo-block_1" class="block block-views">  
+        <div class="acdc-bc">
+      <div class="view view-ac-promo view-id-ac_promo view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+      <div id="flip-pager">
+	<a href="home#" class="prev">prev</a>
+	<a href="home#" class="next">next</a>
+</div>
+<div id="wrapper" class="item-list">
+  <ul id="flip" class="ui-jcoverflip">
+          <li class="views-row views-row-1 views-row-odd views-row-first ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23681" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodayapril11_0.jpg" alt="AC/DC Today: Deep Cuts: If You Want Blood  " title="Deep Cuts: If You Want Blood "  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/deep-cuts-if-you-want-blood">Deep Cuts: If You Want Blood</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-2 views-row-even ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23667" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodayapril8.jpg" alt="AC/DC Today: April 8 1980 Brian Joins AC/DC" title="AC/DC Today: April 8 1980 Brian Joins AC/DC"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/april-8-1980-brian-joins-acdc">April 8 1980 Brian Joins AC/DC</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-3 views-row-odd ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23656" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodayapril3_0.jpg" alt="AC/DC Today: AC/DC Releases Dirty Deeds In North America" title="AC/DC Today: AC/DC Releases Dirty Deeds In North America"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/acdc-releases-dirty-deeds-north-america">AC/DC Releases Dirty Deeds In North America</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-4 views-row-even ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/news/feliz-cumplea%C3%B1os-angus-young" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/angusbday_2013.jpg" alt="Happy Birthday Angus Young!" title="Happy Birthday Angus Young!"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+			AC/DC News:					</div> 
+		<div class="float-right"><a href="http://www.acdc.com/es/news/feliz-cumplea%C3%B1os-angus-young">Feliz Cumpleaños, Angus Young!</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-5 views-row-odd ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23562" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/angusbday_2013.jpg" alt="Happy Birthday Angus Young!" title="Happy Birthday Angus Young!"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+			AC/DC News:					</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/news/happy-birthday-angus-young-1">Happy Birthday Angus Young!</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-6 views-row-even ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23552" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodaymarch_27.jpg" alt="AC/DC Video Of The Month: High Voltage" title="AC/DC Video Of The Month: High Voltage"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/acdc-video-month-high-voltage">AC/DC Video Of The Month: High Voltage</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-7 views-row-odd ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23521" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodaymarch18.jpg" alt="AC/DC Today: Angus Joins The Melbourne Story" title=""  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/angus-joins-melbourne-story">Angus Joins The Melbourne Story</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-8 views-row-even ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23511" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodaymarch14_0.jpg" alt="AC/DC Today: Double Diamond" title=""  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/double-diamond">Double Diamond</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-9 views-row-odd ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23496" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodaymarch11.jpg" alt="AC/DC Today: We Salute You!" title=""  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/we-salute-you">We Salute You!</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+          <li class="views-row views-row-10 views-row-even views-row-last ui-jcoverflip--item">
+      	<a href="http://www.acdc.com/es/node/23465" class="imagecache imagecache-550x298 imagecache-linked imagecache-550x298_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/550x298/acdctodaymarch4.jpg" alt="AC/DC Today: Baby Please Don&#039;t Go" title="AC/DC &quot;Baby Please Don&#039;t Go&quot;"  class="imagecache imagecache-550x298" width="550" height="298" /></a>
+<div class="title promo-detail">
+	<div class="views-field-title">
+		<div class="label">
+						AC/DC Today:		</div> 
+		<div class="float-right"><a href="http://www.acdc.com/us/acdc-today/baby-please-dont-go">Baby Please Don&#039;t Go</a></div> 
+	</div>
+	<div class="views-field-edit-node">
+			</div>
+</div>
+    	</li>
+      </ul>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+</div>
+			  	    </div>
+	  </div>
+  
+	
+  <div id="main">
+    <div class="container clearfix">
+        <div class="main col">
+                                                            <div class="panel-display panel-3col-33-stacked  clear-block" >
+      <div class="panel-panel panel-col-top">
+      <div class="inside"><div class="panel-pane pane-views pane-ac-user-spotlight" >
+  
+      <h2 class="pane-title">AC/DC User Spotlights</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-ac-user-spotlight view-id-ac_user_spotlight view-display-id-default view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="http://www.acdc.com/es/user-review/powerage"><img src="http://www.acdc.com/sites/acdc/files/imagecache/228x228_album/acdcpowerage.jpg" alt="AC/DC Fan Review" title="AC/DC Fan Review"  class="imagecache imagecache-228x228_album imagecache-default imagecache-228x228_album_default" width="228" height="228" /></a></span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><div class="spotlight-overlay">
+<div class="spotlight-type">Album Review:</div>
+<div class="spotlight-title"><a href="http://www.acdc.com/es/user-review/powerage">Powerage</a></div>
+<br />
+<div class="spotlight-author">posted by: <a href="http://www.acdc.com/es/users/jem" title="Ver perfil de usuario.">Jem</a></div>
+</div></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="http://www.acdc.com/es/user-review/razors-edge"><img src="http://www.acdc.com/sites/acdc/files/imagecache/228x228_album/acdcrazorsedge.jpg" alt="AC/DC Fan Review" title="AC/DC Fan Review"  class="imagecache imagecache-228x228_album imagecache-default imagecache-228x228_album_default" width="228" height="228" /></a></span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><div class="spotlight-overlay">
+<div class="spotlight-type">Favorite Album:</div>
+<div class="spotlight-title"><a href="http://www.acdc.com/es/user-review/razors-edge">The Razors Edge</a></div>
+<br />
+<div class="spotlight-author">posted by: <a href="http://www.acdc.com/es/users/acdcfansincebirth" title="Ver perfil de usuario.">ACDCFANSINCEBIRTH</a></div>
+</div></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="http://www.acdc.com/es/user-review/highway-hell"><img src="http://www.acdc.com/sites/acdc/files/imagecache/228x228_album/acdchighwaytohell.jpg" alt="AC/DC Fan Review" title="AC/DC Fan Review"  class="imagecache imagecache-228x228_album imagecache-default imagecache-228x228_album_default" width="228" height="228" /></a></span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><div class="spotlight-overlay">
+<div class="spotlight-type">Favorite Album:</div>
+<div class="spotlight-title"><a href="http://www.acdc.com/es/user-review/highway-hell">Highway To Hell</a></div>
+<br />
+<div class="spotlight-author">posted by: <a href="http://www.acdc.com/es/users/helter-skelter" title="Ver perfil de usuario.">Helter Skelter</a></div>
+</div></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field-field-image-fid">
+                <span class="field-content"><a href="http://www.acdc.com/es/user-review/bucharest-romania-piata-constitutiei"><img src="http://www.acdc.com/sites/acdc/files/imagecache/228x228_album/blackice.jpg" alt="AC/DC Fan Review" title="AC/DC Fan Review"  class="imagecache imagecache-228x228_album imagecache-default imagecache-228x228_album_default" width="228" height="228" /></a></span>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><div class="spotlight-overlay">
+<div class="spotlight-type">Show Review:</div>
+<div class="spotlight-title"><a href="http://www.acdc.com/es/user-review/bucharest-romania-piata-constitutiei">Bucharest, Romania- Piata Constitutiei</a></div>
+<br />
+<div class="spotlight-author">posted by: <a href="http://www.acdc.com/es/users/kameleon" title="Ver perfil de usuario.">kameleon</a></div>
+</div></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+</div>
+    </div>    
+  
+  <div class="center-wrapper">
+    <div class="panel-panel panel-col-first">
+      <div class="inside"><div class="panel-pane pane-views pane-ac-today" >
+  
+      <h2 class="pane-title">AC/DC Today</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-ac-today view-id-ac_today view-display-id-block_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-post-photo-fid">
+                <span class="field-content"><a href="http://www.acdc.com/es/acdc-today/rareza-del-mes-de-acdc-single-highway-hell-jap%C3%B3n" class="imagecache imagecache-acdc_today_hp imagecache-linked imagecache-acdc_today_hp_linked"><img src="http://www.acdc.com/sites/acdc/files/imagecache/acdc_today_hp/acdctodayoct9_12.jpg" alt="AC/DC Rarity Of The Month: Highway To Hell Japan Single" title="AC/DC Rarity Of The Month: Highway To Hell Japan Single"  class="imagecache imagecache-acdc_today_hp" width="458" height="248" /></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.acdc.com/es/acdc-today/rareza-del-mes-de-acdc-single-highway-hell-jap%C3%B3n">Rareza del Mes de AC/DC: Single Highway To Hell (Japón)</a></span>
+  </div>
+  
+  <div class="views-field-body">
+                <div class="field-content"><p>Nuestra Rareza del Mes de Octubre es una edición en vinilo 7" única para Japón de "Highway To Hell" (Atlantic P-464A).<br />
+El single se presenta en una...</p></div>
+  </div>
+  
+  <div class="views-field-view-node">
+                <span class="field-content"><a href="http://www.acdc.com/es/acdc-today/rareza-del-mes-de-acdc-single-highway-hell-jap%C3%B3n">...view item</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+</div>
+    </div>
+
+    <div class="panel-panel panel-col">
+      <div class="inside"></div>
+    </div>
+
+    <div class="panel-panel panel-col-last">
+      <div class="inside"><div class="panel-pane pane-views pane-ac-fan" >
+  
+      <h2 class="pane-title">AC/DC Fans</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-ac-fan view-id-ac_fan view-display-id-block_1 view-dom-id-3">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-picture">
+                <div class="field-content"><div class="picture"><a href="http://www.acdc.com/es/users/problemchild89" title="Ver perfil de usuario."><div><img src="http://www.acdc.com/sites/acdc/files/imagecache/nodecomments/pictures/picture-5290.jpg" alt="" title=""  width="95" height="95" /></div></a></div></div>
+  </div>
+  
+  <div class="views-field-name">
+          <label class="views-label-name">
+        Featured Fan:
+      </label>
+                <span class="field-content"><a href="http://www.acdc.com/es/users/problemchild89" title="Ver perfil de usuario.">ProblemChild89</a></span>
+  </div>
+  
+  <span class="views-field-body">
+                <div class="field-content"><p>I was born in 1989, 9 years AFTER Angus/Mal and co released the best Rock n Roll Album ever made.<br />
+I growed up with AC/DC because my Dad and my uncles...</div>
+  </span>
+         
+  <span class="views-field-uid">
+                <span class="field-content"><a href="http://www.acdc.com/es/users/problemchild89">...more info</a></span>
+  </span>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+  
+  </div>
+</div>
+    </div>
+  </div>
+
+  </div>
+                            </div>
+
+        
+      <div class="collage-bottom"></div>
+    </div>
+  </div>
+
+  
+  <div id="top">
+    <div class="container">
+      <div id="block-fb_like-like" class="block block-fb_like odd ">  
+  <div class="acdc-bc">
+    <div class="fb-like-widget"><fb:like href="https://www.facebook.com/acdc" layout="button_count" show_faces="false" width="90" action="like" font="arial" colorscheme="light"></fb:like></div>  </div>
+</div>
+<div id="block-locale-0">
+  <div class="btn-down">
+    <h2 title="Spain" class="es" id="current-language">Spain</h2>
+  </div>
+  <div class="acdc-bc">
+    <ul><li class="en-CA first"><a href="http://www.acdc.com/ca" class="ca" title="Canada">Canada</a></li>
+<li class="en-CZ"><a href="http://www.acdc.com/cz-en" class="cz" title="Czech Republic (English)">Czech Republic (English)</a></li>
+<li class="en-FI"><a href="http://www.acdc.com/fi-en" class="fi" title="Finland (English)">Finland (English)</a></li>
+<li class="de-DE"><a href="http://www.acdc.com/de" class="de" title="Deutschland">Deutschland</a></li>
+<li class="hu-HU"><a href="http://www.acdc.com/hu" class="hu" title="Magyarország">Magyarország</a></li>
+<li class="it-IT"><a href="http://www.acdc.com/it" class="it" title="Italia">Italia</a></li>
+<li class="en-PL"><a href="http://www.acdc.com/pl-en" class="pl" title="Poland (English)">Poland (English)</a></li>
+<li class="pt-PT"><a href="http://www.acdc.com/pt" class="pt" title="Portugal">Portugal</a></li>
+<li class="ru-RU"><a href="http://www.acdc.com/ru" class="ru" title="Россия">Россия</a></li>
+<li class="es-ES active"><a href="http://www.acdc.com/es" class="es active" title="España">España</a></li>
+<li class="en last"><a href="http://www.acdc.com/us" class="us" title="United States">United States</a></li>
+</ul>  </div>
+</div>
+<div id="block-nodeblock-32" class="block block-nodeblock odd ">  
+  <div class="acdc-bc">
+    <div id="node-2096" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <span class="newsletter-fly"></span>
+<a href="http://www.acdc.com/newsletter-signup">Apúntate a la lista de correo</a>  </div>
+
+  </div>  </div>
+</div>
+            <div id="login"><div class="login-signin"><a class="signin btn" href="http://www.acdc.com/es/user/login?destination=home">Sign in &raquo;</a><div class="item-list"><ul class="social-btn"><li class="first"><a href="http://www.acdc.com/es/user" class="sony-connect-twitter" rel="twitter" title="Log in using twitter"><img src="http://www.acdc.com/sites/all/modules/custom/sony_connect/plugins/networks/twitter/icons/connect-twitter.png" alt="" title="" width="151" height="24" /></a></li>
+<li class="last"><a href="http://www.acdc.com/es/user" class="sony-connect-facebook" rel="facebook" title="Log in using facebook"><img src="http://www.acdc.com/sites/all/modules/custom/sony_connect/plugins/networks/facebook/icons/connect-facebook.png" alt="" title="" width="169" height="22" /></a></li>
+</ul></div></div><div class="login-info"><p>Sign in for community access <a class="btn" href="http://www.acdc.com/es/user/login?destination=home">Log in</a></p><p>Not a member? <a class="btn" href="http://www.acdc.com/es/user/register?destination=home">Sign up</a></p></div></div>
+    </div>
+  </div>
+  <!-- hack to make sure top bar shows in ie7 -->
+  <!--[if IE 7 ]>
+  <div style="visibility: hidden"></div>
+  <![endif]-->
+
+  <div id="footer">
+    <div class="container">
+      <div id="footer-label-settings">
+	      <div id="footer-middle"  class="footer-block">
+	        	        <div class="copy">
+	          <div class="footer-short">
+&copy; 2013 Sony Music Entertainment. All Rights Reserved - <a href="http://www.sonymusic.com/about/feedback.php" target="_blank" rel="nofollow">Send Us Feedback</a> - <a target="_blank" href="http://www.sonymusic.com/privacypolicy.html">Privacy Policy/Your Privacy Rights</a> - <a target="_blank" href="http://www.sonymusic.com/privacy/termsandconditions.html">Terms and Conditions</a><br>Visit www.OnGuardOnline.gov for social networking safety tips for <a href="http://www.onguardonline.gov/socialnetworking.html">parents</a> and <a href="http://www.onguardonline.gov/socialnetworking_youth.html">youth</a>.
+</div>	        </div>
+	        	      </div>
+	      <div id="footer-right"  class="footer-block">
+	        <a class="footer-logo" id="myplay" href="http://www.myplay.com">MyPlay Direct</a>
+	        	      </div>
+      </div>
+      <div class="menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-824"><a href="http://www.acdc.com/es/news" title="AC/DC News">News</a></li>
+<li class="expanded menu-mlid-817"><a href="http://www.acdc.com/es/tour" title="AC/DC Tours">Gira</a><ul class="menu"><li class="leaf first last menu-mlid-3282"><a href="http://www.acdc.com/es/events" title="AC/DC Events">Upcoming</a></li>
+</ul></li>
+<li class="expanded menu-mlid-747"><a href="http://www.acdc.com/es/music" title="AC/DC Music">Música</a><ul class="menu"><li class="leaf first last menu-mlid-3119"><a href="http://www.acdc.com/es/lyrics" title="AC/DC Lyrics">Lyrics</a></li>
+</ul></li>
+<li class="leaf menu-mlid-802"><a href="http://www.acdc.com/es/theband" title="AC/DC Biography">El grupo</a></li>
+<li class="expanded menu-mlid-954"><a href="http://www.acdc.com/es/photos" title="AC/DC Photos">Photos</a><ul class="menu"><li class="leaf first last menu-mlid-3135"><a href="http://www.acdc.com/es/fanphotos" title="AC/DC Fan Photos">Fan Photos</a></li>
+</ul></li>
+<li class="leaf menu-mlid-3092"><a href="http://www.acdc.com/es/video" title="AC/DC Videos">Videos</a></li>
+<li class="leaf menu-mlid-889"><a href="http://fanclub.acdc.com" title="AC/DC Fan Club">Fan Club</a></li>
+<li class="leaf menu-mlid-891"><a href="http://www.acdc.com/es/community" title="AC/DC Community">Comunidad</a></li>
+<li class="leaf last menu-mlid-1426"><a href="http://www.acdc.com/es/tienda-online">Store</a></li>
+</ul></div>
+<div class="view view-ac-album-buy view-id-ac_album_buy view-display-id-block_2 view-dom-id-4">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <div class="node " id="node-4824">
+	<div class="album">
+	  	    <div class="album-node-cover">
+				<a href="http://www.acdc.com/es/music/black-ice" title="Black Ice"><img src="http://www.acdc.com/sites/acdc/files/imagecache/discography_large/2008-09%20ACDC%20black%20ice%20red%20album%20cover.jpg" alt="" title=""  class="imagecache imagecache-discography_large" width="338" height="308" /></a>
+	    </div>
+	  
+			
+	  <div class="album-information">    
+							<div class="album-title">
+					Black Ice				</div>
+				<div class="release-date">
+				 Feb 3rd 2008				</div>
+		  	    
+	    	
+	    	    
+	    	  </div> <!-- /album-information -->
+	
+	
+	</div> <!-- /album -->
+  
+	<div class="album-views">
+			</div> <!-- /album-views -->
+  
+</div> <!-- /node -->
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <div class="menu-name-menu-social-networks parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-3128"><a href="http://www.facebook.com/acdc" title="AC/DC on Facebook">Facebook</a></li>
+<li class="leaf menu-mlid-3129"><a href="http://www.ilike.com/artist/acdc" title="AC/DC on iLike">iLike</a></li>
+<li class="leaf menu-mlid-3130"><a href="http://www.myspace.com/acdc" title="AC/DC on MySpace">MySpace</a></li>
+<li class="leaf last menu-mlid-3131"><a href="http://www.youtube.com/user/acdcVEVO" title="AC/DC on YouTube">YouTube</a></li>
+</ul></div>
+    </div>
+  </div>
+    <div id="closebutton" class="highslide-overlay closebutton" onclick="return hs.close(this)" title="Close"></div>
+<div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "110984475600758",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth: true});
+
+         jQuery.event.trigger('fb:init');
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/es_ES/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script><script type="text/javascript" src="http://www.acdc.com/sites/acdc/files/js/js_cc048c6935f8132d5c5df636cc707c30.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"CToolsAJAX":{"scripts":{"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.min.js":true,"\/misc\/drupal.js":true,"\/sites\/acdc\/files\/languages\/es-ES_ebffd3f42c4a7b44d103a870bd28fe24.js":true,"\/sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":true,"\/sites\/all\/modules\/contrib\/highslide\/highslide\/highslide-full.min.js":true,"\/sites\/all\/modules\/contrib\/highslide\/highslide.js":true,"\/sites\/all\/modules\/contrib\/panels\/js\/panels.js":true,"\/sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/ajax-responder.js":true,"\/sites\/all\/modules\/contrib\/ctools\/js\/modal.js":true,"\/sites\/all\/libraries\/jquery.colorbox.1.3.15\/jquery.colorbox-min.js":true,"\/sites\/all\/modules\/custom\/sony_colorbox\/js\/sony-colorbox.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/sony_connect.js":true,"\/sites\/all\/modules\/custom\/sony_share\/js\/sony_share_popup.js":true,"\/sites\/all\/modules\/contrib\/extlink\/extlink.js":true,"\/sites\/all\/libraries\/jQuery.jPlayer.1.2.0\/jquery.jplayer.min.js":true,"\/sites\/all\/modules\/contrib\/views\/js\/base.js":true,"\/sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/jquery.bgiframe.min.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/superfish.js":true,"\/sites\/all\/libraries\/jquery.superfish.1.4.8\/js\/supersubs.js":true,"\/sites\/all\/modules\/custom\/sony_coppa\/sony_coppa.js":true,"\/sites\/all\/modules\/custom\/sonybmg\/modal\/ajax.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/plugins\/networks\/twitter\/twitter.js":true,"\/sites\/all\/modules\/custom\/sony_connect\/plugins\/networks\/facebook\/facebook.js":true},"css":{"\/modules\/node\/node.css":true,"\/sites\/all\/modules\/contrib\/cck\/theme\/content-module.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":true,"\/sites\/all\/modules\/contrib\/jquery_ui\/jquery.ui\/themes\/base\/jquery-ui.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":true,"\/sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":true,"\/sites\/all\/modules\/contrib\/filefield\/filefield.css":true,"\/sites\/all\/modules\/contrib\/fivestar\/widgets\/basic\/basic.css":true,"\/sites\/all\/modules\/contrib\/highslide\/highslide\/highslide.css":true,"\/sites\/all\/modules\/contrib\/mollom\/mollom.css":true,"\/sites\/all\/modules\/contrib\/panels\/css\/panels.css":true,"\/sites\/all\/modules\/contrib\/ctools\/css\/modal.css":true,"\/sites\/all\/modules\/custom\/sonybmg\/modal\/modal.css":true,"\/sites\/all\/modules\/custom\/sony_connect\/modules\/tweet\/tweet.css":true,"\/sites\/all\/modules\/custom\/sony_connect\/sony_connect.css":true,"\/sites\/all\/modules\/custom\/sony_share\/js\/sony_share_popup.css":true,"\/sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/threecol_33_34_33_stacked\/threecol_33_34_33_stacked.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/service_links_popup.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/views.css":true,"\/sites\/acdc.com\/themes\/acdc\/fonts\/League-Gothic-fontfacekit\/stylesheet.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/reset.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/system.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/popup.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/languagesprite.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/admin.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/acdc.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/wire.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/colorbox.css":true,"\/sites\/acdc.com\/themes\/acdc\/css\/jcoverflip.css":true}}});
+//--><!]]>
+</script>
+</div>
+</body>
+</html>

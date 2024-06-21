@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>The Wanted - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.22wmf1" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="http://bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="http://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Wanted","wgTitle":"The Wanted","wgCurRevisionId":548981328,"wgArticleId":27876656,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages semi-protected against vandalism","Wikipedia protected pages without expiry","Use British English from December 2011","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from January 2013","Articles with unsourced statements from November 2010","Commons category template with no category set","Use dmy dates from August 2012","Geffen Records artists","British boy bands","Vocal quintets","2009 establishments in the United Kingdom","Musical groups from London","Musical groups established in 2009","The Wanted"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"The_Wanted","wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false,"enableSectionEditLinks":false},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgGuidedTourTestWikitextDescription":"A guider in your on-wiki tour can contain wikitext using onShow and parseDescription. Use it to create a wikilink to the \u003Ca href=\"/wiki/Help:Guided_tours\" title=\"Help:Guided tours\"\u003EGuided tours documentation\u003C/a\u003E. Or an external link \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\u003Eto GitHub\u003C/a\u003E, for instance.","wgMFPhotoUploadEndpoint":"//commons.wikimedia.org/w/api.php","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"en.wikipedia.org"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":30,"domain":".wikipedia.org","path":"/"},"wgMFPhotoUploadAppendToDesc":"{{Uploaded from Mobile|platform=Web|version=}}\n{{subst:unc}}","wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":true,"wgPreferredVariant":"en","wgMFLoginHandshakeUrl":"//commons.wikimedia.org/wiki/Special:LoginHandshake?useformat=mobile","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":
+false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:f01864140ec2ba42468570048b875f39 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.postEdit","wikibase.client.init","ext.centralNotice.bannerController"]);
+}</script>
+<script src="http://bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="http://meta.wikimedia.org/" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf1/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Wanted skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">The Wanted</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="The_Wanted#mw-navigation">navigation</a>, 					<a href="The_Wanted#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="metadata topicon nopopups" id="protected-icon" style="display:none; right:55px;"><a href="http://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism."><img alt="Page semi-protected" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" /></a></div>
+<table class="infobox vcard plainlist" cellspacing="3" style="border-spacing: 3px; width:22em;">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center; font-size:125%; font-weight:bold; background-color: #b0c4de">The Wanted</th>
+</tr>
+<tr class="">
+<td colspan="2" class="" style="text-align:center;"><a href="http://en.wikipedia.org/wiki/File:The_Wanted_2012.jpg" class="image"><img alt="The Wanted 2012.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/300px-The_Wanted_2012.jpg" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/450px-The_Wanted_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/600px-The_Wanted_2012.jpg 2x" /></a><br />
+<span style="">The Wanted on the <a href="http://en.wikipedia.org/wiki/Empire_State_Building" title="Empire State Building">Empire State Building</a> Observation Deck in April 2012. From left to right: Nathan Sykes, Tom Parker, Siva Kaneswaran, Max George, Jay McGuiness</span></td>
+</tr>
+<tr>
+<th colspan="2" class="" style="text-align:center; background-color: #b0c4de">Background information</th>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Origin</th>
+<td class="" style=""><a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;"><a href="http://en.wikipedia.org/wiki/Music_genre" title="Music genre">Genres</a></th>
+<td class="" style=""><a href="http://en.wikipedia.org/wiki/Dance-pop" title="Dance-pop">Dance-pop</a>, <a href="http://en.wikipedia.org/wiki/Pop_music" title="Pop music">pop</a></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Years active</th>
+<td class="" style="">2009–present</td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;"><a href="http://en.wikipedia.org/wiki/Record_label" title="Record label">Labels</a></th>
+<td class="" style=""><a href="http://en.wikipedia.org/wiki/Geffen_Records" title="Geffen Records">Geffen</a>, <a href="http://en.wikipedia.org/wiki/Island_Records" title="Island Records">Island</a>, <a href="http://en.wikipedia.org/wiki/Mercury_Records" title="Mercury Records">Mercury</a> <small>(U.S.)</small></td>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Website</th>
+<td class="" style=""><span class="url"><a rel="nofollow" class="external text" href="http://thewantedmusic.com">thewantedmusic.com</a></span></td>
+</tr>
+<tr>
+<th colspan="2" class="" style="text-align:center; background-color: #b0c4de"></th>
+</tr>
+<tr class="">
+<th scope="row" style="text-align:left;">Members</th>
+<td class="" style="">Max George<br />
+Siva Kaneswaran<br />
+Jay McGuiness<br />
+Tom Parker<br />
+Nathan Sykes</td>
+</tr>
+</table>
+<p><b>The Wanted</b> are a British-Irish <a href="http://en.wikipedia.org/wiki/Boy_band" title="Boy band">boy band</a>, formed in 2009 who made their debut release in July 2010. The group consists of members Max George, Nathan Sykes, Tom Parker, Jay McGuiness and Siva Kaneswaran and are currently signed to <a href="http://en.wikipedia.org/wiki/Island_Records" title="Island Records">Island Records</a> and in the US <a href="http://en.wikipedia.org/wiki/Mercury_Records" title="Mercury Records">Mercury Records</a>. They are managed by <a href="http://en.wikipedia.org/wiki/Scooter_Braun" title="Scooter Braun">Scooter Braun</a>.<sup id="cite_ref-uk_1-0" class="reference"><a href="The_Wanted#cite_note-uk-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-ire_2-0" class="reference"><a href="The_Wanted#cite_note-ire-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Their debut album, <i><a href="http://en.wikipedia.org/wiki/The_Wanted_(album)" title="The Wanted (album)">The Wanted</a></i>, was released on 25 October 2010 and peaked at #4 in the UK. The album had three UK top twenty singles released from it, Their debut single, "<a href="http://en.wikipedia.org/wiki/All_Time_Low_(song)" title="All Time Low (song)">All Time Low</a>" which hit the UK #1 spot,<sup id="cite_ref-uk_1-1" class="reference"><a href="The_Wanted#cite_note-uk-1"><span>[</span>1<span>]</span></a></sup> "<a href="http://en.wikipedia.org/wiki/Heart_Vacancy" title="Heart Vacancy">Heart Vacancy</a>" which reached #2 and "<a href="http://en.wikipedia.org/wiki/Lose_My_Mind_(The_Wanted_song)" title="Lose My Mind (The Wanted song)">Lose My Mind</a>" which managed a peak of #19 in the UK.</p>
+<p>The group's second album <i><a href="http://en.wikipedia.org/wiki/Battleground_(album)" title="Battleground (album)">Battleground</a></i> saw release on 4 November 2011 and hit #5 in the UK and #4 in Ireland. The lead single from the album "<a href="http://en.wikipedia.org/wiki/Gold_Forever" title="Gold Forever">Gold Forever</a>" was released in aid of <a href="http://en.wikipedia.org/wiki/Comic_Relief" title="Comic Relief">Comic Relief</a> and reached number three on the <a href="http://en.wikipedia.org/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a>. Their second #1 hit "<a href="http://en.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>" topped the singles chart in the United Kingdom for two weeks, and in Ireland for five weeks.<sup id="cite_ref-uk_1-2" class="reference"><a href="The_Wanted#cite_note-uk-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-ire_2-1" class="reference"><a href="The_Wanted#cite_note-ire-2"><span>[</span>2<span>]</span></a></sup> Third and fourth singles "<a href="http://en.wikipedia.org/wiki/Lightning_(song)" title="Lightning (song)">Lightning</a>" and "<a href="http://en.wikipedia.org/wiki/Warzone_(song)" title="Warzone (song)">Warzone</a>" hit #2 and #21 in the UK.</p>
+<p>In early 2012, the group began to see success in the US and Canada, with hit single "Glad You Came" selling three million copies there, hitting #3 on the <a href="http://en.wikipedia.org/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a> whilst their follow up singles "Chasing The Sun" and "I Found You" reached the top spot on the <i>Billboard</i> <a href="http://en.wikipedia.org/wiki/Hot_Dance_Club_Songs" title="Hot Dance Club Songs">Hot Dance Club Songs</a> chart.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="The_Wanted#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="The_Wanted#Formation_and_initial_success"><span class="tocnumber">1.1</span> <span class="toctext">Formation and initial success</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="The_Wanted#International_breakthrough"><span class="tocnumber">1.2</span> <span class="toctext">International breakthrough</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="The_Wanted#2012-present:_Third_Strike_and_The_Wanted_Life"><span class="tocnumber">1.3</span> <span class="toctext">2012-present: <i>Third Strike</i> and <i>The Wanted Life</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="The_Wanted#Members"><span class="tocnumber">2</span> <span class="toctext">Members</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="The_Wanted#Max_George"><span class="tocnumber">2.1</span> <span class="toctext">Max George</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="The_Wanted#Nathan_Sykes"><span class="tocnumber">2.2</span> <span class="toctext">Nathan Sykes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="The_Wanted#Siva_Kaneswaran"><span class="tocnumber">2.3</span> <span class="toctext">Siva Kaneswaran</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="The_Wanted#Jay_McGuiness"><span class="tocnumber">2.4</span> <span class="toctext">Jay McGuiness</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="The_Wanted#Tom_Parker"><span class="tocnumber">2.5</span> <span class="toctext">Tom Parker</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="The_Wanted#Discography"><span class="tocnumber">3</span> <span class="toctext">Discography</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="The_Wanted#Media"><span class="tocnumber">4</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="The_Wanted#Wanted_Wednesday"><span class="tocnumber">4.1</span> <span class="toctext">Wanted Wednesday</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="The_Wanted#Tours"><span class="tocnumber">5</span> <span class="toctext">Tours</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="The_Wanted#Filmography"><span class="tocnumber">6</span> <span class="toctext">Filmography</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="The_Wanted#Awards_and_nominations"><span class="tocnumber">7</span> <span class="toctext">Awards and nominations</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="The_Wanted#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="The_Wanted#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="History">History</span></h2>
+<h3> <span class="mw-headline" id="Formation_and_initial_success">Formation and initial success</span></h3>
+<p>The group formed in 2009 through mass auditions which saw over 1000 people attend, held by Jayne Collins who also put together <a href="http://en.wikipedia.org/wiki/The_Saturdays" title="The Saturdays">The Saturdays</a> and <a href="http://en.wikipedia.org/wiki/Parade_(band)" title="Parade (band)">Parade</a>.<sup id="cite_ref-mtv_3-0" class="reference"><a href="The_Wanted#cite_note-mtv-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="The_Wanted#cite_note-4"><span>[</span>4<span>]</span></a></sup> The audition process took over 9 months and originally just George, Parker and Sykes were involved with Kaneswaran and McGuiness joining later through the process. The group revealed in their autobiography that after they were informed of the line-up, seven more people were re-auditioned before they were signed to Maximum Artist Management and Geffen Records.</p>
+<p>The group were credited with co-writing five of the thirteen tracks on the album. Their debut single, "<a href="http://en.wikipedia.org/wiki/All_Time_Low_(song)" title="All Time Low (song)">All Time Low</a>", was co-written by <a href="http://en.wikipedia.org/wiki/Steve_Mac" title="Steve Mac">Steve Mac</a>, who also produced it, <a href="http://en.wikipedia.org/wiki/Wayne_Hector" title="Wayne Hector">Wayne Hector</a> and <a href="http://en.wikipedia.org/wiki/Ed_Drewett" title="Ed Drewett">Ed Drewett</a>. It hit Nº1 in the UK and spent 17 weeks in the UK top 40. The second single "<a href="http://en.wikipedia.org/wiki/Heart_Vacancy" title="Heart Vacancy">Heart Vacancy</a>" again written with Wayne Hector, was released on 17 October 2010. It peaked at number two on the <a href="http://en.wikipedia.org/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a>. The group's third single from the album was "<a href="http://en.wikipedia.org/wiki/Lose_My_Mind_(The_Wanted_song)" title="Lose My Mind (The Wanted song)">Lose My Mind</a>" which reached Nº19 in the UK Singles Chart following a performance on <a href="http://en.wikipedia.org/wiki/The_X_Factor_(UK)" title="The X Factor (UK)">The X Factor</a>. The group's debut album, a self-titled release, was released on 25 October 2010 which peaked at Nº4 in the UK and has since been certified as Platinum in the UK. Between 28 March and 15 April 2010, the group embarked on the fifteen date "Behind Bars" theatre tour which saw them play in twelve UK cities. The tour didn't visit Ireland or Northern Ireland. They were supported by <a href="http://en.wikipedia.org/wiki/Lawson_(band)" title="Lawson (band)">Lawson</a>, <a href="http://en.wikipedia.org/wiki/Twenty_Twenty" title="Twenty Twenty">Twenty Twenty</a> and <a href="http://en.wikipedia.org/wiki/Starboy_Nathan" title="Starboy Nathan">Starboy Nathan</a></p>
+<p>In January 2011, the group began work on their second studio album. The album featured writing credits from the group on ten of the fifteen tracks, as well as contributions from <a href="http://en.wikipedia.org/wiki/Steve_Mac" title="Steve Mac">Steve Mac</a>, <a href="http://en.wikipedia.org/wiki/Wayne_Hector" title="Wayne Hector">Wayne Hector</a>, <a href="http://en.wikipedia.org/wiki/Ed_Drewett" title="Ed Drewett">Ed Drewett</a>, <a href="http://en.wikipedia.org/wiki/Diane_Warren" title="Diane Warren">Diane Warren</a> and <a href="http://en.wikipedia.org/wiki/Guy_Chambers" title="Guy Chambers">Guy Chambers</a>. The album's lead single, "Gold Forever", was released in aid of <a href="http://en.wikipedia.org/wiki/Comic_Relief" title="Comic Relief">Comic Relief</a><sup id="cite_ref-5" class="reference"><a href="The_Wanted#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="The_Wanted#cite_note-6"><span>[</span>6<span>]</span></a></sup> and debuted at number 3 on the UK Singles Chart. In July 2011, the group released the album's second single, "Glad You Came", which became their second number-one single, staying there for two weeks, and in the top ten of the chart for six weeks. The single also reached number one in Ireland and remained there for five weeks.<sup id="cite_ref-ire_2-2" class="reference"><a href="The_Wanted#cite_note-ire-2"><span>[</span>2<span>]</span></a></sup> The song also charted in some European territories, and was very successful in Australia. The third single from the album, "Lightning", was released on 16 October 2011, peaking at number 2 in the UK and number 5 in Ireland. The fourth single, "Warzone", was released on 26 December 2011, with the music video and radio debut coming in early November 2011. On 7 November 2011, the group's second album <i><a href="http://en.wikipedia.org/wiki/Battleground_(album)" title="Battleground (album)">Battleground</a></i>, was released. It debuted at number 5 in the UK and number 4 in Ireland. It has been certified platinum in the UK. In addition to shows in the <a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> including <a href="http://en.wikipedia.org/wiki/T4_on_the_Beach" title="T4 on the Beach">T4 on the Beach</a>, <a href="http://en.wikipedia.org/wiki/V_Festival" title="V Festival">V Festival</a> and the <a href="http://en.wikipedia.org/wiki/ITunes" title="ITunes">iTunes</a> <a href="http://en.wikipedia.org/wiki/Festival" title="Festival">Festival</a>, the group supported Canadian singer, <a href="http://en.wikipedia.org/wiki/Justin_Bieber" title="Justin Bieber">Justin Bieber</a> in Brazil on 8 and 9 October 2011 and also supported <a href="http://en.wikipedia.org/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a> on her <a href="http://en.wikipedia.org/wiki/Femme_Fatale_Tour" title="Femme Fatale Tour">Femme Fatale Tour</a> at the <a href="http://en.wikipedia.org/wiki/Manchester_Evening_News_Arena" title="Manchester Evening News Arena" class="mw-redirect">Manchester Evening News Arena</a> on 6 November 2011. Between 15 February – 9 March 2012, the group embarked on "The Code" tour, to promote the release of the album. The sixteen date arena tour saw the group play in thirteen cities in England, Wales, Scotland, Ireland and Northern Ireland. Known as #TheCodeTour, each concert featured an interactive element that linked to the group's official Facebook and Twitter pages.</p>
+<h3> <span class="mw-headline" id="International_breakthrough">International breakthrough</span></h3>
+<p>In a bid to break the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a>, the group went on a short promotional, radio and club tour of the states, touring between 17 January – 8 February 2012 . The success of the 10 date tour saw the group release their debut single in the states, "Glad You Came". It peaked at number 3 on the <a href="http://en.wikipedia.org/wiki/Billboard_Hot_100" title="Billboard Hot 100">Billboard Hot 100</a> and has sold over 3 million copies there. Their debut American EP, <i>The Wanted</i>, was released in April 2012, debuting at number 7 in the US and number 8 in Canada. "Chasing The Sun" was been released as the band's second official single there, peaking at number 50 on the <a href="http://en.wikipedia.org/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a> whilst reaching number 1 on the <a href="http://en.wikipedia.org/wiki/Hot_Dance_Club_Songs" title="Hot Dance Club Songs">Hot Dance Club Songs</a> chart. "Chasing The Sun" was released on 21 May 2012. On 22 May 2012, the band opened and performed at the first Q102's Springle Ball concert. On 14 June 2012 the band performed a concert at New York City's Beacon Theater, which was also broadcasted live on music television station FUSE. The group visited <a href="http://en.wikipedia.org/wiki/Australia" title="Australia">Australia</a> and <a href="http://en.wikipedia.org/wiki/New_Zealand" title="New Zealand">New Zealand</a>, for the promotion of their <a href="http://en.wikipedia.org/wiki/Extended_play" title="Extended play">extended play</a> in August 2012.<sup id="cite_ref-7" class="reference"><a href="The_Wanted#cite_note-7"><span>[</span>7<span>]</span></a></sup> Following their promotional tour of <a href="http://en.wikipedia.org/wiki/Australia" title="Australia">Australia</a>, the group headed to the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a> for a number of promotional concerts.</p>
+<h3> <span class="mw-headline" id="2012-present:_Third_Strike_and_The_Wanted_Life">2012-present: <i>Third Strike</i> and <i>The Wanted Life</i></span></h3>
+<p>The group began working on their third studio album, <a href="http://en.wikipedia.org/wiki/Third_Strike_(The_Wanted_album)" title="Third Strike (The Wanted album)" class="mw-redirect">Third Strike</a>, in November 2011, shortly after the release of their second album, <i>Battleground</i>, on 4 November. In May 2012, "Chasing The Sun" was released as the album's lead single, and the third single from the band's <i>The Wanted EP</i> in the <a href="http://en.wikipedia.org/wiki/United_States" title="United States">United States</a>. Around this time, the band also premiered a brand new track, "Satellite". In August 2012, the band filmed a music video in <a href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, reportedly for their brand new single, "I Found You". However, when the video for "I Found You" was released in October 2012, a different video was revealed. The band later revealed that the video filmed in Los Angeles would be for another single. "I Found You" was released on 5 November 2012 as the album's second single.<sup id="cite_ref-8" class="reference"><a href="The_Wanted#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>The band confirmed in September 2012 that the album would contain a number of collaborations, including tracks with <a href="http://en.wikipedia.org/wiki/Pitbull_(entertainer)" title="Pitbull (entertainer)">Pitbull</a>, <a href="http://en.wikipedia.org/wiki/LMFAO" title="LMFAO">LMFAO</a>,<sup id="cite_ref-9" class="reference"><a href="The_Wanted#cite_note-9"><span>[</span>9<span>]</span></a></sup> <a href="http://en.wikipedia.org/wiki/Chris_Brown_(American_entertainer)" title="Chris Brown (American entertainer)">Chris Brown</a>, <a href="http://en.wikipedia.org/wiki/Rita_Ora" title="Rita Ora">Rita Ora</a><sup id="cite_ref-10" class="reference"><a href="The_Wanted#cite_note-10"><span>[</span>10<span>]</span></a></sup> and <a href="http://en.wikipedia.org/wiki/Dappy" title="Dappy">Dappy</a>.<sup id="cite_ref-11" class="reference"><a href="The_Wanted#cite_note-11"><span>[</span>11<span>]</span></a></sup> In November 2012, the band revealed that the album had been pushed back from the original release of December 3, 2012, to February 2013, at their request; they claimed that the reason behind this was to perfect the album, and tweak out a few insecurities involving certain tracks.</p>
+<p>In early February 2013, it was announced that The Wanted will star in their own reality series called "The Wanted Life" which will premiere in the United States in June 2013 on E! and around the world this fall. The show is produced by <a href="http://en.wikipedia.org/wiki/Ryan_Seacrest" title="Ryan Seacrest">Ryan Seacrest</a>.<sup id="cite_ref-12" class="reference"><a href="The_Wanted#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="Members">Members</span></h2>
+<h3> <span class="mw-headline" id="Max_George">Max George</span></h3>
+<p><b>Maximillian<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup> "Max" Alberto George</b>, born <span style="display:none">(<span class="bday">1988-09-06</span>)</span> 6 September 1988 <span class="noprint ForceAgeToShow">(age&#160;24)</span>, grew up with his family in <a href="http://en.wikipedia.org/wiki/Manchester" title="Manchester">Manchester</a>.<sup id="cite_ref-STV_13-0" class="reference"><a href="The_Wanted#cite_note-STV-13"><span>[</span>13<span>]</span></a></sup> Before music, he had been a football player with <a href="http://en.wikipedia.org/wiki/Preston_North_End_F.C." title="Preston North End F.C.">Preston North End</a> and was on the verge of signing a two-year deal with them, whilst he has been a <a href="http://en.wikipedia.org/wiki/Manchester_City_F.C._supporters" title="Manchester City F.C. supporters">Manchester City supporter</a> since a young age.<sup id="cite_ref-14" class="reference"><a href="The_Wanted#cite_note-14"><span>[</span>14<span>]</span></a></sup> Previously he was a member of <a href="http://en.wikipedia.org/wiki/Avenue_(band)" title="Avenue (band)">Avenue</a>, a five-piece <a href="http://en.wikipedia.org/wiki/Boy_band" title="Boy band">boy band</a> made up of Jonathan Lloyd, Scott Clarke, Ross Candy and <a href="http://en.wikipedia.org/wiki/Jamie_Tinkler" title="Jamie Tinkler">Jamie Tinkler</a> in addition to George. They entered the <a href="http://en.wikipedia.org/wiki/The_X_Factor_(UK_series_3)" title="The X Factor (UK series 3)">third series</a><sup id="cite_ref-15" class="reference"><a href="The_Wanted#cite_note-15"><span>[</span>15<span>]</span></a></sup> of <i><a href="http://en.wikipedia.org/wiki/The_X_Factor_(UK)" title="The X Factor (UK)">The X Factor</a></i> in 2006 and made it to <a href="http://en.wikipedia.org/wiki/Louis_Walsh" title="Louis Walsh">Louis Walsh</a>'s bootcamp, but media reports exposed that Avenue had not strictly adhered to the rules, having been signed by an earlier music <i>X Factor</i> director to a deal. They were banned from participation for having professional representation rather than being specifically formed for the competition.<sup id="cite_ref-16" class="reference"><a href="The_Wanted#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="The_Wanted#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="The_Wanted#cite_note-18"><span>[</span>18<span>]</span></a></sup> Avenue admitted they had failed to duly report their engagements and George admitted it was "not <i>The X Factor</i><span style="padding-left:0.1em;">'</span>s fault"<sup id="cite_ref-19" class="reference"><a href="The_Wanted#cite_note-19"><span>[</span>19<span>]</span></a></sup> in the video showing their disqualification in Walsh's office. With Andrew (Andy) Brown joining as a member of Avenue replacing Jamie Tinkler, the band went on to have some success beyond their <i>X Factor</i> appearances with their debut single "Last Goodbye", reaching number 50 on the <a href="http://en.wikipedia.org/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a>. They had a follow up release with "Can You Feel It?". Avenue disbanded in April 2009. In 2008, while still a member of Avenue, George appeared naked on cover of British gay magazine <i><a href="http://en.wikipedia.org/wiki/AXM" title="AXM">AXM</a></i><span style="padding-left:0.1em;">'</span>s "Naked Issue" in support of cancer research.</p>
+<p>George was engaged to actress <a href="http://en.wikipedia.org/wiki/Michelle_Keegan" title="Michelle Keegan">Michelle Keegan</a> after meeting her at one of The Wanted's concerts,<sup id="cite_ref-20" class="reference"><a href="The_Wanted#cite_note-20"><span>[</span>20<span>]</span></a></sup> but he recently revealed that the engagement has been broken off.<sup id="cite_ref-21" class="reference"><a href="The_Wanted#cite_note-21"><span>[</span>21<span>]</span></a></sup> Eventually, the couple admitted in July 2012 that they had split for good.</p>
+<h3> <span class="mw-headline" id="Nathan_Sykes">Nathan Sykes</span></h3>
+<p><b>Nathan James Sykes</b>,<sup id="cite_ref-STV_13-1" class="reference"><a href="The_Wanted#cite_note-STV-13"><span>[</span>13<span>]</span></a></sup> born <span style="display:none">(<span class="bday">1993-04-18</span>)</span> 18 April 1993 <span class="noprint ForceAgeToShow">(age&#160;19)</span>, and known as the baby of the group, grew up in <a href="http://en.wikipedia.org/wiki/Abbey,_Gloucester" title="Abbey, Gloucester">Abbeydale</a>, <a href="http://en.wikipedia.org/wiki/Gloucester" title="Gloucester">Gloucester</a> with his mother, who was a music teacher, and younger sister.<sup id="cite_ref-22" class="reference"><a href="The_Wanted#cite_note-22"><span>[</span>22<span>]</span></a></sup> He started singing and performing at the age of 6 and attended Sylvia Young's theatre school from the age of 11.</p>
+<p>Sykes continued to perform as a child singer winning various competitions including "Britney Spears's Karaoke Kriminals" in 2003, where he got to kiss <a href="http://en.wikipedia.org/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a> on live TV as part of his prize, and The Cheltenham Competitive Festival of Dramatic Art also in 2003. He appeared on <a href="http://en.wikipedia.org/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a>'s <i>Ministry of Mayhem</i> in 2004, and won the Door Youth Project's "Undiscovered Youth Talent Contest" held in Derker performing "<a href="http://en.wikipedia.org/wiki/Mack_the_Knife" title="Mack the Knife">Mack the Knife</a>".<sup id="cite_ref-23" class="reference"><a href="The_Wanted#cite_note-23"><span>[</span>23<span>]</span></a></sup> and performed for the "<a href="http://en.wikipedia.org/wiki/Live_and_Unsigned" title="Live and Unsigned">Live and Unsigned</a>".<sup id="cite_ref-24" class="reference"><a href="The_Wanted#cite_note-24"><span>[</span>24<span>]</span></a></sup> Music Competition in Bristol in 2008.<sup id="cite_ref-25" class="reference"><a href="The_Wanted#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<p>Sykes attempted to represent UK in the <a href="http://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2004" title="Junior Eurovision Song Contest 2004">Junior Eurovision Song Contest 2004</a> held in <a href="http://en.wikipedia.org/wiki/Lillehammer" title="Lillehammer">Lillehammer</a>, <a href="http://en.wikipedia.org/wiki/Norway" title="Norway">Norway</a>. In the <a href="http://en.wikipedia.org/wiki/United_Kingdom_in_the_Junior_Eurovision_Song_Contest_2004" title="United Kingdom in the Junior Eurovision Song Contest 2004">British qualifying finals</a>, he sang "Born to Dance"<sup id="cite_ref-26" class="reference"><a href="The_Wanted#cite_note-26"><span>[</span>26<span>]</span></a></sup> coming 3rd overall, after winner <a href="http://en.wikipedia.org/wiki/Cory_Spedding" title="Cory Spedding" class="mw-redirect">Cory Spedding</a> and runner-up <a href="http://en.wikipedia.org/wiki/The_Risk" title="The Risk" class="mw-redirect">Andrew Merry</a>.</p>
+<h3> <span class="mw-headline" id="Siva_Kaneswaran">Siva Kaneswaran</span></h3>
+<p><b>Siva Micheal Kaneswaran</b>, born <span style="display:none">(<span class="bday">1988-11-16</span>)</span> 16 November 1988 <span class="noprint ForceAgeToShow">(age&#160;24)</span>, grew up in <a href="http://en.wikipedia.org/wiki/Blanchardstown" title="Blanchardstown">Blanchardstown</a>, <a href="http://en.wikipedia.org/wiki/Dublin" title="Dublin">Dublin</a> with his <a href="http://en.wikipedia.org/wiki/Sri_Lankan_Tamil_people" title="Sri Lankan Tamil people">Sri Lankan Tamil</a> father, <a href="http://en.wikipedia.org/wiki/Irish_people" title="Irish people">Irish</a> mother, twin brother Kumar and six other siblings.<sup id="cite_ref-27" class="reference"><a href="The_Wanted#cite_note-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="The_Wanted#cite_note-28"><span>[</span>28<span>]</span></a></sup> Kaneswaran started modelling at 16 and appeared in various ads and landed a contract with Storm Model Management. Kaneswaran took part in <i><a href="http://en.wikipedia.org/wiki/Rock_Rivals" title="Rock Rivals">Rock Rivals</a></i>, televised in eight episodes between 5 March and 23 April 2008.<sup id="cite_ref-29" class="reference"><a href="The_Wanted#cite_note-29"><span>[</span>29<span>]</span></a></sup> His brother took part as well. Kaneswaran played the role of Carson Coombs and his brother that of Caleb Coombs. The brothers also appeared briefly in one episode of <i>Uncle Max</i>. The episode "Uncle Max Plays Tennis" aired on 11 July 2008. Kaneswaran was spotted through his modelling campaigns and recruited as a result for the band.<sup id="cite_ref-30" class="reference"><a href="The_Wanted#cite_note-30"><span>[</span>30<span>]</span></a></sup> He is the younger brother of former Dove member and former <i><a href="http://en.wikipedia.org/wiki/Popstars:_The_Rivals" title="Popstars: The Rivals">Popstars: The Rivals</a></i> contestant Hazel Kaneswaren.</p>
+<h3> <span class="mw-headline" id="Jay_McGuiness">Jay McGuiness</span></h3>
+<p><b>James "Jay" Kevin McGuiness</b>,<sup id="cite_ref-STV_13-2" class="reference"><a href="The_Wanted#cite_note-STV-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="The_Wanted#cite_note-31"><span>[</span>31<span>]</span></a></sup> <span style="display:none">(<span class="bday">1990-07-24</span>)</span> 24 July 1990 <span class="noprint ForceAgeToShow">(age&#160;22)</span>, grew up in <a href="http://en.wikipedia.org/wiki/Newark-on-Trent" title="Newark-on-Trent">Newark</a>, <a href="http://en.wikipedia.org/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a>.<sup id="cite_ref-32" class="reference"><a href="The_Wanted#cite_note-32"><span>[</span>32<span>]</span></a></sup> He attended <a href="http://en.wikipedia.org/wiki/All_Saints_RC_School" title="All Saints RC School">All Saints RC School</a>, Mansfield.<sup id="cite_ref-33" class="reference"><a href="The_Wanted#cite_note-33"><span>[</span>33<span>]</span></a></sup> At the age of 13, McGuiness went to Charlotte Hamilton School of Dance.<sup id="cite_ref-34" class="reference"><a href="The_Wanted#cite_note-34"><span>[</span>34<span>]</span></a></sup> He has a non-identical twin brother called Tom<sup id="cite_ref-35" class="reference"><a href="The_Wanted#cite_note-35"><span>[</span>35<span>]</span></a></sup> and three other siblings.</p>
+<h3> <span class="mw-headline" id="Tom_Parker">Tom Parker</span></h3>
+<p><b>Thomas "Tom" Anthony Parker</b>, born <span style="display:none">(<span class="bday">1988-08-04</span>)</span> 4 August 1988 <span class="noprint ForceAgeToShow">(age&#160;24)</span>, grew up in <a href="http://en.wikipedia.org/wiki/Bolton" title="Bolton">Bolton</a>.<sup id="cite_ref-36" class="reference"><a href="The_Wanted#cite_note-36"><span>[</span>36<span>]</span></a></sup> Parker learned to play the guitar at the age of sixteen after trying out his older brother's. He then went on to audition for <i><a href="http://en.wikipedia.org/wiki/The_X_Factor_(UK)" title="The X Factor (UK)">The X Factor</a></i> but did not get past the first round. He went to <a href="http://en.wikipedia.org/wiki/Manchester_Metropolitan_University" title="Manchester Metropolitan University">Manchester Metropolitan University</a> and studied Geography, but dropped out in pursuit of a professional singing career.<sup id="cite_ref-37" class="reference"><a href="The_Wanted#cite_note-37"><span>[</span>37<span>]</span></a></sup> Parker joined a <a href="http://en.wikipedia.org/wiki/Take_That" title="Take That">Take That</a> tribute band known as Take That II and toured Northern England, before joining The Wanted in 2009.<sup id="cite_ref-38" class="reference"><a href="The_Wanted#cite_note-38"><span>[</span>38<span>]</span></a></sup></p>
+<h2> <span class="mw-headline" id="Discography">Discography</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="http://en.wikipedia.org/wiki/The_Wanted_discography" title="The Wanted discography">The Wanted discography</a></div>
+<table class="multicol" style="border-collapse: collapse; padding: 0px; border: 0px; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>Studio albums</dt>
+</dl>
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Wanted_(album)" title="The Wanted (album)">The Wanted</a></i> (2010)</li>
+<li><i><a href="http://en.wikipedia.org/wiki/Battleground_(album)" title="Battleground (album)">Battleground</a></i> (2011)</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<dl>
+<dt>EPs</dt>
+</dl>
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Wanted:_The_EP" title="The Wanted: The EP">The Wanted</a></i> (2012)</li>
+</ul>
+</td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="Media">Media</span></h2>
+<h3> <span class="mw-headline" id="Wanted_Wednesday">Wanted Wednesday</span></h3>
+<p>The group run a weekly online podcast, <i><b>#WantedWednesday</b></i> featuring backstage footage, social activities and exclusive performances.</p>
+<h2> <span class="mw-headline" id="Tours">Tours</span></h2>
+<p>The Behind Bars Tour was the band's first theatre tour which sold out within weeks of going on sale. It began on 26 March 2011 and concluded on until 15 April. The tour featured 12 different cities with a total of sixteen dates.</p>
+<table class="wikitable collapsible collapsed" style="text-align:center;">
+<tr>
+<th colspan="4">The Behind Bars Tour</th>
+</tr>
+<tr>
+<th>Date</th>
+<th>City</th>
+<th>Theatre<sup id="cite_ref-39" class="reference"><a href="The_Wanted#cite_note-39"><span>[</span>39<span>]</span></a></sup><sup id="cite_ref-40" class="reference"><a href="The_Wanted#cite_note-40"><span>[</span>40<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td>26 March 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Rhyl" title="Rhyl">Rhyl</a></td>
+<td>Pavilion</td>
+</tr>
+<tr>
+<td>28 March 2011<sup id="cite_ref-youtube.com_41-0" class="reference"><a href="The_Wanted#cite_note-youtube.com-41"><span>[</span>41<span>]</span></a></sup></td>
+<td><a href="http://en.wikipedia.org/wiki/Manchester" title="Manchester">Manchester</a></td>
+<td><a href="http://en.wikipedia.org/wiki/O2_Apollo_Manchester" title="O2 Apollo Manchester">O2 Apollo</a></td>
+</tr>
+<tr>
+<td>29 March 2011</td>
+<td>Manchester</td>
+<td>O2 Apollo</td>
+</tr>
+<tr>
+<td>30 March 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Newcastle_City_Hall" title="Newcastle City Hall">City Hall</a></td>
+</tr>
+<tr>
+<td>1 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Brighton" title="Brighton">Brighton</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Brighton_Centre" title="Brighton Centre">Brighton Centre</a></td>
+</tr>
+<tr>
+<td>2 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Nottingham" title="Nottingham">Nottingham</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Nottingham_Royal_Concert_Hall" title="Nottingham Royal Concert Hall">Royal Concert Hall</a></td>
+</tr>
+<tr>
+<td>3 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Cardiff" title="Cardiff">Cardiff</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Motorpoint_Arena_Cardiff" title="Motorpoint Arena Cardiff">Motorpoint Arena</a></td>
+</tr>
+<tr>
+<td>5 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Plymouth" title="Plymouth">Plymouth</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Plymouth_Pavilions" title="Plymouth Pavilions">Pavilions</a></td>
+</tr>
+<tr>
+<td>6 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/London" title="London">London</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Hammersmith_Apollo" title="Hammersmith Apollo">HMV Hammersmith Apollo</a></td>
+</tr>
+<tr>
+<td>7 April 2011</td>
+<td>London</td>
+<td>HMV Hammersmith Apollo</td>
+</tr>
+<tr>
+<td>9 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Bournemouth" title="Bournemouth">Bournemouth</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Bournemouth_International_Centre" title="Bournemouth International Centre">International centre</a></td>
+</tr>
+<tr>
+<td>10 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Sheffield" title="Sheffield">Sheffield</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Sheffield_City_Hall" title="Sheffield City Hall">City Hall</a></td>
+</tr>
+<tr>
+<td>11 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Wolverhampton_Civic_Hall" title="Wolverhampton Civic Hall">Civic Hall</a></td>
+</tr>
+<tr>
+<td>13 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Glasgow" title="Glasgow">Glasgow</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Clyde_Auditorium" title="Clyde Auditorium">Clyde Auditorium</a></td>
+</tr>
+<tr>
+<td>14 April 2011</td>
+<td>Glasgow</td>
+<td>Clyde Auditorium</td>
+</tr>
+<tr>
+<td>15 April 2011</td>
+<td><a href="http://en.wikipedia.org/wiki/Edinburgh" title="Edinburgh">Edinburgh</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Edinburgh_Playhouse" title="Edinburgh Playhouse">Playhouse</a></td>
+</tr>
+</table>
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="font-weight:bold; background:transparent; text-align:center; background: #ccccff; font-size: 100%; width: 75%;">Set List - United Kingdom 2011</div>
+<div class="NavContent" style="font-weight:normal; background-color:transparent; text-align:left; text-align: left; font-size: 100%; width: 90%;">
+<p>Tour set list<sup id="cite_ref-42" class="reference"><a href="The_Wanted#cite_note-42"><span>[</span>42<span>]</span></a></sup></p>
+<ol>
+<li>"<a href="http://en.wikipedia.org/wiki/Behind_Bars" title="Behind Bars">Behind Bars</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Lose_My_Mind" title="Lose My Mind">Lose My Mind</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Weakness" title="Weakness">Weakness</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Personal_Soldier" title="Personal Soldier" class="mw-redirect">Personal Soldier</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Let%27s_Get_Ugly" title="Let's Get Ugly" class="mw-redirect">Let's Get Ugly</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/A_Good_Day_for_Love_to_Die" title="A Good Day for Love to Die" class="mw-redirect">A Good Day for Love to Die</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Hi_%26_Low" title="Hi &amp; Low" class="mw-redirect">Hi &amp; Low</a>"</li>
+<li>"Golden"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Animal" title="Animal">Animal</a>" <small>(<a href="http://en.wikipedia.org/wiki/Neon_Trees" title="Neon Trees">Neon Trees</a> cover)</small></li>
+<li>"Iris" <small>(<a href="http://en.wikipedia.org/wiki/Goo_Goo_Dolls" title="Goo Goo Dolls">Goo Goo Dolls</a> cover)</small></li>
+<li>"<a href="http://en.wikipedia.org/wiki/Heart_Vacancy" title="Heart Vacancy">Heart Vacancy</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Lightning" title="Lightning">Lightning</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Say_It_on_the_Radio" title="Say It on the Radio" class="mw-redirect">Say It on the Radio</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Dynamite" title="Dynamite">Dynamite</a>" / "Higher" / "<a href="http://en.wikipedia.org/wiki/Dirty_Picture" title="Dirty Picture">Dirty Picture</a>" / "<a href="http://en.wikipedia.org/wiki/Break_Your_Heart" title="Break Your Heart">Break Your Heart</a>" <small>(Taio Cruz medley)</small></li>
+<li>"Made"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Replace_Your_Heart" title="Replace Your Heart" class="mw-redirect">Replace Your Heart</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Gold_Forever" title="Gold Forever">Gold Forever</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/All_Time_Low" title="All Time Low">All Time Low</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>"</li>
+</ol>
+</div>
+</div>
+<p>It was announced on Friday 16 December 2011 that the group would embark on their first US tour, with 10 dates to be held over January and February 2012.</p>
+<table class="wikitable collapsible collapsed" style="text-align:center;">
+<tr>
+<th colspan="4">The Wanted US Tour</th>
+</tr>
+<tr>
+<th>Date</th>
+<th>City</th>
+<th>Theatre</th>
+</tr>
+<tr>
+<td>17 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Orlando,_Florida" title="Orlando, Florida">Orlando</a>, <a href="http://en.wikipedia.org/wiki/Florida" title="Florida">Florida</a></td>
+<td>The Social</td>
+</tr>
+<tr>
+<td>20 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a></td>
+<td>Rock 'N' Roll Hotel</td>
+</tr>
+<tr>
+<td>22 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/New_York_City" title="New York City">New York City</a>, <a href="http://en.wikipedia.org/wiki/New_York" title="New York">New York</a></td>
+<td>Irving Plaza</td>
+</tr>
+<tr>
+<td>24 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>, <a href="http://en.wikipedia.org/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a></td>
+<td>Theatre of Living Arts</td>
+</tr>
+<tr>
+<td>26 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Chicago" title="Chicago">Chicago</a>, <a href="http://en.wikipedia.org/wiki/Illinois" title="Illinois">Illinois</a></td>
+<td>Bottom Lounge</td>
+</tr>
+<tr>
+<td>27 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Minneapolis" title="Minneapolis">Minneapolis</a>, <a href="http://en.wikipedia.org/wiki/Minnesota" title="Minnesota">Minnesota</a></td>
+<td>Fine Line</td>
+</tr>
+<tr>
+<td>31 January 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Dallas" title="Dallas">Dallas</a>, <a href="http://en.wikipedia.org/wiki/Texas" title="Texas">Texas</a></td>
+<td>Prophet Bar</td>
+</tr>
+<tr>
+<td>2 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Salt_Lake_City" title="Salt Lake City">Salt Lake City</a>, <a href="http://en.wikipedia.org/wiki/Utah" title="Utah">Utah</a></td>
+<td>Club Soung</td>
+</tr>
+<tr>
+<td>7 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/San_Diego" title="San Diego">San Diego</a>, <a href="http://en.wikipedia.org/wiki/California" title="California">California</a></td>
+<td>House of Blues</td>
+</tr>
+<tr>
+<td>8 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a>, California</td>
+<td>The Roxy</td>
+</tr>
+</table>
+<p>The Wanted announced that they would embark on their first arena tour across the UK and Ireland in February and March 2012. Known as The Code Tour and T.W.A.T., each concert features an interactive element that links to their official Facebook and Twitter pages.</p>
+<table class="wikitable collapsible collapsed" style="text-align:center;">
+<tr>
+<th colspan="4">The Code Tour</th>
+</tr>
+<tr>
+<th>Date</th>
+<th>City</th>
+<th>Venue</th>
+</tr>
+<tr>
+<td>15 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Nottingham" title="Nottingham">Nottingham</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Capital_FM_Arena" title="Capital FM Arena" class="mw-redirect">Capital FM Arena</a></td>
+</tr>
+<tr>
+<td>17 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Manchester" title="Manchester">Manchester</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Evening_News_Arena" title="Evening News Arena" class="mw-redirect">Evening News Arena</a></td>
+</tr>
+<tr>
+<td>18 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Sheffield" title="Sheffield">Sheffield</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Motorpoint_Arena_Sheffield" title="Motorpoint Arena Sheffield">Motorpoint Arena</a></td>
+</tr>
+<tr>
+<td>20 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Brighton" title="Brighton">Brighton</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Brighton_Centre" title="Brighton Centre">Brighton Centre</a></td>
+</tr>
+<tr>
+<td>23 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Cardiff" title="Cardiff">Cardiff</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Motorpoint_Arena_Cardiff" title="Motorpoint Arena Cardiff">Motorpoint Arena</a></td>
+</tr>
+<tr>
+<td>24 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Liverpool" title="Liverpool">Liverpool</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Echo_Arena_Liverpool" title="Echo Arena Liverpool">Echo Arena</a></td>
+</tr>
+<tr>
+<td>25 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Metro_Radio_Arena" title="Metro Radio Arena">Metro Radio Arena</a></td>
+</tr>
+<tr>
+<td>27 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Glasgow" title="Glasgow">Glasgow</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Scottish_Exhibition_and_Conference_Centre" title="Scottish Exhibition and Conference Centre">S.E.C.C</a></td>
+</tr>
+<tr>
+<td>28 February 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Aberdeen" title="Aberdeen">Aberdeen</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Aberdeen_Exhibition_and_Conference_Centre" title="Aberdeen Exhibition and Conference Centre">A.E.C.C</a></td>
+</tr>
+<tr>
+<td>1 March 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Birmingham" title="Birmingham">Birmingham</a></td>
+<td><a href="http://en.wikipedia.org/wiki/National_Exhibition_Centre" title="National Exhibition Centre">LG Arena</a></td>
+</tr>
+<tr>
+<td>2 March 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Bournemouth" title="Bournemouth">Bournemouth</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Bournemouth_International_Centre" title="Bournemouth International Centre">International Centre</a></td>
+</tr>
+<tr>
+<td>3 March 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/London" title="London">London</a></td>
+<td><a href="http://en.wikipedia.org/wiki/The_O2_Arena" title="The O2 Arena">The O<sub>2</sub> Arena</a></td>
+</tr>
+<tr>
+<td>5 March 2012</td>
+<td>Brighton</td>
+<td>The Brighton Centre</td>
+</tr>
+<tr>
+<td>6 March 2012</td>
+<td>Bournemouth</td>
+<td>International Centre</td>
+</tr>
+<tr>
+<td>8 March 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Belfast" title="Belfast">Belfast</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Odyssey_Arena" title="Odyssey Arena">Odyssey Arena</a></td>
+</tr>
+<tr>
+<td>9 March 2012</td>
+<td><a href="http://en.wikipedia.org/wiki/Dublin" title="Dublin">Dublin</a></td>
+<td><a href="http://en.wikipedia.org/wiki/The_O2_(Dublin)" title="The O2 (Dublin)">The O<sub>2</sub></a></td>
+</tr>
+</table>
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="font-weight:bold; background:transparent; text-align:center; background: #ccccff; font-size: 100%; width: 75%;">Set List - United Kingdom 2012</div>
+<div class="NavContent" style="font-weight:normal; background-color:transparent; text-align:left; text-align: left; font-size: 100%; width: 90%;">
+<ol>
+<li>Invincible</li>
+<li>Lose My Mind</li>
+<li>Rocket</li>
+<li>Lie To Me</li>
+<li>Lightning</li>
+<li>Last To Know</li>
+<li>Dagger</li>
+<li>Heart Vacancy</li>
+<li>I Want It All</li>
+<li>I'll Be Your Strength</li>
+<li>Warzone</li>
+<li>Viva La Vida/Every Teardrop Is A Waterfall/Paradise <small>(Coldplay Medley)</small></li>
+<li>Say It On The Radio</li>
+<li>Gold Forever</li>
+<li>All Time Low</li>
+<li>Glad You Came</li>
+</ol>
+</div>
+</div>
+<h2> <span class="mw-headline" id="Filmography">Filmography</span></h2>
+<table class="wikitable">
+<tr style="background:#ccc; text-align:center;">
+<th colspan="4" style="background: LightSteelBlue;">Television</th>
+</tr>
+<tr style="background:#ccc; text-align:center;">
+<th>Date</th>
+<th>Television</th>
+<th>Role</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td rowspan="2">2013</td>
+<td><a href="http://en.wikipedia.org/wiki/Chasing_The_Saturdays" title="Chasing The Saturdays">Chasing The Saturdays</a></td>
+<td>Themselves</td>
+<td>1 Episode: DeepFriedSats</td>
+</tr>
+<tr>
+<td><i>The Wanted Life</i></td>
+<td>Themselves</td>
+<td>Filming</td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span></h2>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th style="width:190px;">Nominee</th>
+<th style="width:210px;">Award</th>
+<th style="width:210px;">Category</th>
+<th width="70">Result</th>
+<th>Ref</th>
+</tr>
+<tr>
+<td rowspan="5">2010</td>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Virgin_Media" title="Virgin Media">Virgin Media</a> Music Awards</td>
+<td>Best Newcomer</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td><sup id="cite_ref-43" class="reference"><a href="The_Wanted#cite_note-43"><span>[</span>43<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>Virgin Media Music Awards</td>
+<td>Best Group</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td><sup id="cite_ref-44" class="reference"><a href="The_Wanted#cite_note-44"><span>[</span>44<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/4Music" title="4Music">4Music</a> Awards</td>
+<td>Hottest Boys</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>4Music Awards</td>
+<td>Biggest Breakthrough</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="http://en.wikipedia.org/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr>
+<td>"<a href="http://en.wikipedia.org/wiki/All_Time_Low_(song)" title="All Time Low (song)">All Time Low</a>"</td>
+<td>4Music Awards</td>
+<td>Best Video</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td><sup id="cite_ref-45" class="reference"><a href="The_Wanted#cite_note-45"><span>[</span>45<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="3">2011</td>
+<td>"All Time Low"</td>
+<td><a href="http://en.wikipedia.org/wiki/Brit_Awards" title="Brit Awards">Brit Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/2011_BRIT_Awards#Nominations" title="2011 BRIT Awards">Best British Single</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td><sup id="cite_ref-46" class="reference"><a href="The_Wanted#cite_note-46"><span>[</span>46<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Arqiva" title="Arqiva">Arqiva</a> Awards</td>
+<td>Best Breakthrough</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup id="cite_ref-47" class="reference"><a href="The_Wanted#cite_note-47"><span>[</span>47<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/BBC_Radio_1" title="BBC Radio 1">BBC Radio 1</a> Teen Awards</td>
+<td>Best British Music Act</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup id="cite_ref-48" class="reference"><a href="The_Wanted#cite_note-48"><span>[</span>48<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="7">2012</td>
+<td>"<a href="http://en.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>"</td>
+<td><a href="http://en.wikipedia.org/wiki/Brit_Awards" title="Brit Awards">Brit Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/2012_BRIT_Awards#Nominees_and_Winners" title="2012 BRIT Awards">Best British Single</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td><sup id="cite_ref-49" class="reference"><a href="The_Wanted#cite_note-49"><span>[</span>49<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>"Glad You Came"</td>
+<td><a href="http://en.wikipedia.org/wiki/Teen_Choice_Awards" title="Teen Choice Awards">Teen Choice Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/2012_Teen_Choice_Awards#Choice_Music" title="2012 Teen Choice Awards">Choice Summer Song</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>Teen Choice Awards</td>
+<td>Choice Music: Breakout Group</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>Teen Choice Awards</td>
+<td>Choice Summer Music Star: Group</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>Teen Choice Awards</td>
+<td>Choice Music Group</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/MTV_Video_Music_Awards" title="MTV Video Music Awards" class="mw-redirect">MTV Video Music Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/2012_MTV_Video_Music_Awards#Best_New_Artist" title="2012 MTV Video Music Awards">Best New Artist</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/American_Music_Awards" title="American Music Awards" class="mw-redirect">American Music Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/American_Music_Awards_of_2012#Nominees_and_winners" title="American Music Awards of 2012">Favorite Band, Duo Or Group</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="9">2013</td>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/People%27s_Choice_Awards" title="People's Choice Awards">People's Choice Awards</a></td>
+<td><a href="http://en.wikipedia.org/wiki/39th_People%27s_Choice_Awards#Music" title="39th People's Choice Awards">Favorite Breakout Artist</a></td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup id="cite_ref-50" class="reference"><a href="The_Wanted#cite_note-50"><span>[</span>50<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Virgin_Media" title="Virgin Media">Virgin Media</a> Music Awards</td>
+<td>Best Group</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won</td>
+<td><sup id="cite_ref-51" class="reference"><a href="The_Wanted#cite_note-51"><span>[</span>51<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Canadian_Radio_Music_Awards" title="Canadian Radio Music Awards">Canadian Radio Music Awards</a></td>
+<td>International Group Of The Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Nickelodeon_UK_Kids%27_Choice_Awards" title="Nickelodeon UK Kids' Choice Awards">Nickelodeon UK Kids' Choice Awards</a></td>
+<td>Favourite UK Band</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated</td>
+<td></td>
+</tr>
+<tr>
+<td>"<a href="http://en.wikipedia.org/wiki/Chasing_the_Sun_(song)" title="Chasing the Sun (song)">Chasing the Sun</a>"</td>
+<td><a href="http://en.wikipedia.org/wiki/World_Music_Awards" title="World Music Awards">World Music Awards</a></td>
+<td>World's Best Song</td>
+<td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Pending</td>
+<td></td>
+</tr>
+<tr>
+<td>"<a href="http://en.wikipedia.org/wiki/I_Found_You" title="I Found You">I Found You</a>"</td>
+<td>World Music Awards</td>
+<td>World's Best Video</td>
+<td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Pending</td>
+<td></td>
+</tr>
+<tr>
+<td>"<a href="http://en.wikipedia.org/wiki/Battleground_(album)" title="Battleground (album)">Battleground</a>"</td>
+<td>World Music Awards</td>
+<td>World's Best Album</td>
+<td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Pending</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>World Music Awards</td>
+<td>World's Best Group</td>
+<td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Pending</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://en.wikipedia.org/wiki/Radio_Disney_Music_Awards" title="Radio Disney Music Awards">Radio Disney Music Awards</a></td>
+<td>Best Music Group</td>
+<td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Pending</td>
+<td></td>
+</tr>
+</table>
+<h2> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-uk-1"><span class="mw-cite-backlink">^ <a href="The_Wanted#cite_ref-uk_1-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-uk_1-1"><sup><i><b>b</b></i></sup></a> <a href="The_Wanted#cite_ref-uk_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/wanted/">"UK Charts &gt; The Wanted"</a>. <a href="http://en.wikipedia.org/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a><span class="reference-accessdate">. Retrieved 2 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=UK+Charts+%3E+The+Wanted&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2Fwanted%2F&amp;rft.genre=book&amp;rft.pub=Official+Charts+Company&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ire-2"><span class="mw-cite-backlink">^ <a href="The_Wanted#cite_ref-ire_2-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-ire_2-1"><sup><i><b>b</b></i></sup></a> <a href="The_Wanted#cite_ref-ire_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.disneydreaming.com/2012/04/25/the-wanted-make-fun-of-their-manager-scooter-braun/">"The Wanted Make Fun Of Their Manager Scooter Braun"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.disneydreaming.com%2F2012%2F04%2F25%2Fthe-wanted-make-fun-of-their-manager-scooter-braun%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Wanted+Make+Fun+Of+Their+Manager+Scooter+Braun&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mtv-3"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-mtv_3-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.co.uk/artists/the-wanted">"MTV &gt; The Wanted"</a>. MTV UK<span class="reference-accessdate">. Retrieved 2 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=MTV+%3E+The+Wanted&amp;rft_id=http%3A%2F%2Fwww.mtv.co.uk%2Fartists%2Fthe-wanted&amp;rft.genre=book&amp;rft.pub=MTV+UK&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.voice21.co.uk/features/interview-with-the-wanted/">"Interview with The Wanted"</a>. Voice21<span class="reference-accessdate">. Retrieved 2 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Interview+with+The+Wanted&amp;rft_id=http%3A%2F%2Fwww.voice21.co.uk%2Ffeatures%2Finterview-with-the-wanted%2F&amp;rft.genre=book&amp;rft.pub=Voice21&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.digitalspy.co.uk/music/interviews/a299892/the-wanted.html">"Music - Interview - The Wanted"</a>. Digital Spy<span class="reference-accessdate">. Retrieved 3 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Music+-+Interview+-+The+Wanted&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fmusic%2Finterviews%2Fa299892%2Fthe-wanted.html&amp;rft.genre=book&amp;rft.pub=Digital+Spy&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/newsbeat/12415384">"The Wanted record official song for Comic Relief"</a>. BBC.co.uk<span class="reference-accessdate">. Retrieved 3 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted+record+official+song+for+Comic+Relief&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnewsbeat%2F12415384&amp;rft.genre=book&amp;rft.pub=BBC.co.uk&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.3news.co.nz/The-Wanted-coming-to-New-Zealand/tabid/418/articleID/259962/Default.aspx">"The Wanted coming to New Zealand - Story - Entertainment"</a>. 3 News.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted+coming+to+New+Zealand+-+Story+-+Entertainment&amp;rft_id=http%3A%2F%2Fwww.3news.co.nz%2FThe-Wanted-coming-to-New-Zealand%2Ftabid%2F418%2FarticleID%2F259962%2FDefault.aspx&amp;rft.genre=book&amp;rft.pub=3+News&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Robbie Daw (2012-09-07). <a rel="nofollow" class="external text" href="http://idolator.com/6887992/the-wanted-i-found-you">"The Wanted’s "I Found You": Hear Their New Single | Music News, Reviews, and Gossip on"</a>. Idolator.com<span class="reference-accessdate">. Retrieved 2012-11-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Robbie+Daw&amp;rft.pub=Idolator.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=2012-09-07&amp;rft_id=http%3A%2F%2Fidolator.com%2F6887992%2Fthe-wanted-i-found-you&amp;rft.btitle=The+Wanted%E2%80%99s+%22I+Found+You%22%3A+Hear+Their+New+Single+%26%23124%3B+Music+News%2C+Reviews%2C+and+Gossip+on&amp;rft.genre=book&amp;rft.au=Robbie+Daw&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/articles/1692284/the-wanted-lmfao-album-collabo.jhtml">"The Wanted Tease 'Insane' LMFAO Collabos - Music, Celebrity, Artist News"</a>. MTV.com. 2012-08-21<span class="reference-accessdate">. Retrieved 2012-11-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=MTV.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=2012-08-21&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2Farticles%2F1692284%2Fthe-wanted-lmfao-album-collabo.jhtml&amp;rft.btitle=The+Wanted+Tease+%27Insane%27+LMFAO+Collabos+-+Music%2C+Celebrity%2C+Artist+News&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Wilkinson, Sophie (2012-07-16). <a rel="nofollow" class="external text" href="http://www.heatworld.com/Entertainment/Music/2012/07/The-Wanted-Well-turn-down-Rita-Ora-songs-if-theyre-not-good-enough-/">"The Wanted "We’ll turn down Rita Ora songs if they’re not good enough""</a>. heatworld.com<span class="reference-accessdate">. Retrieved 2012-11-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Wilkinson&amp;rft.aufirst=Sophie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted+%22We%E2%80%99ll+turn+down+Rita+Ora+songs+if+they%E2%80%99re+not+good+enough%22&amp;rft_id=http%3A%2F%2Fwww.heatworld.com%2FEntertainment%2FMusic%2F2012%2F07%2FThe-Wanted-Well-turn-down-Rita-Ora-songs-if-theyre-not-good-enough-%2F&amp;rft.pub=heatworld.com&amp;rft.genre=book&amp;rft.date=2012-07-16&amp;rft.au=Wilkinson%2C+Sophie&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sugarscape.com/main-topics/music/767413/exclusive-dappy-wanted-nathan-sykes-collaboration">"EXCLUSIVE: Dappy reveals all the details about new The Wanted collaboration 'Bring It Home'"</a>. Sugarscape. 2011-11-30<span class="reference-accessdate">. Retrieved 2012-11-18</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Sugarscape&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=2011-11-30&amp;rft_id=http%3A%2F%2Fwww.sugarscape.com%2Fmain-topics%2Fmusic%2F767413%2Fexclusive-dappy-wanted-nathan-sykes-collaboration&amp;rft.btitle=EXCLUSIVE%3A+Dappy+reveals+all+the+details+about+new+The+Wanted+collaboration+%27Bring+It+Home%27&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.realitytvworld.com/news/the-wanted-star-in-the-wanted-life-reality-series-on-e!-1033233.php">http://www.realitytvworld.com/news/the-wanted-star-in-the-wanted-life-reality-series-on-e!-1033233.php</a></span></li>
+<li id="cite_note-STV-13"><span class="mw-cite-backlink">^ <a href="The_Wanted#cite_ref-STV_13-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-STV_13-1"><sup><i><b>b</b></i></sup></a> <a href="The_Wanted#cite_ref-STV_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://entertainment.stv.tv/music/205092-the-wanted-hit-scotland-and-release-their-debut-album/">"The Wanted hit Scotland and release their debut album"</a>. <a href="http://en.wikipedia.org/wiki/STV_(TV_network)" title="STV (TV network)">STV</a><span class="reference-accessdate">. Retrieved 3 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted+hit+Scotland+and+release+their+debut+album&amp;rft_id=http%3A%2F%2Fentertainment.stv.tv%2Fmusic%2F205092-the-wanted-hit-scotland-and-release-their-debut-album%2F&amp;rft.genre=book&amp;rft.pub=STV&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.metro.co.uk/showbiz/interviews/284119-louis-x-factor-boys-make-return">Metro "Louis' X-Factor boys make return"</a>. metro.co.uk<span class="reference-accessdate">. Retrieved 3 September 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Louis%27+X-Factor+boys+make+return&amp;rft_id=http%3A%2F%2Fwww.metro.co.uk%2Fshowbiz%2Finterviews%2F284119-louis-x-factor-boys-make-return+Metro&amp;rft.genre=book&amp;rft.pub=metro.co.uk&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span>]</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=lkriAjJePbk">"Avenue's audition including George to The X Factor in 2006"</a>. Youtube.com. 10 September 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Youtube.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=10+September+2006&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlkriAjJePbk&amp;rft.btitle=Avenue%27s+audition+including+George+to+The+X+Factor+in+2006&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation news">Nathan, Sara (9 September 2006). <a rel="nofollow" class="external text" href="http://www.thesun.co.uk/sol/homepage/showbiz/tv/x_factor/article62749.ece">"Band is Avenue all on..."</a>. <i><a href="http://en.wikipedia.org/wiki/The_Sun_(United_Kingdom)" title="The Sun (United Kingdom)">The Sun</a></i> (London)<span class="reference-accessdate">. Retrieved 8 December 2008</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.place=London&amp;rft_id=http%3A%2F%2Fwww.thesun.co.uk%2Fsol%2Fhomepage%2Fshowbiz%2Ftv%2Fx_factor%2Farticle62749.ece&amp;rft.atitle=Band+is+Avenue+all+on...&amp;rft.genre=book&amp;rft.aufirst=Sara&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.btitle=Band+is+Avenue+all+on...&amp;rft.jtitle=The+Sun&amp;rft.aulast=Nathan&amp;rft.date=9+September+2006&amp;rft.au=Nathan%2C+Sara&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web">Samson, Pete (7 October 2006). <a rel="nofollow" class="external text" href="http://www.mirror.co.uk/news/tm_headline=exclusive--avenue-axed-from-x-factor&amp;method=full&amp;objectid=17888038&amp;siteid=94762-name_page.html">"Exclusive: Avenue axed from X Factor"</a>. <i><a href="http://en.wikipedia.org/wiki/Daily_Mirror" title="Daily Mirror">Daily Mirror</a></i><span class="reference-accessdate">. Retrieved 8 December 2008</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Ftm_headline%3Dexclusive--avenue-axed-from-x-factor%26method%3Dfull%26objectid%3D17888038%26siteid%3D94762-name_page.html&amp;rft.atitle=Exclusive%3A+Avenue+axed+from+X+Factor&amp;rft.genre=book&amp;rft.aufirst=Pete&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=7+October+2006&amp;rft.jtitle=Daily+Mirror&amp;rft.aulast=Samson&amp;rft.btitle=Exclusive%3A+Avenue+axed+from+X+Factor&amp;rft.au=Samson%2C+Pete&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.realitytvworld.com/news/avenue-boy-band-kicked-off-simon-cowell-british-the-x-factor-show-1009953.php">"Avenue boy band kicked off Simon Cowell's British 'The X Factor' show"</a>. Reality TW World. 26 September 2006<span class="reference-accessdate">. Retrieved 8 December 2008</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Reality+TW+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=26+September+2006&amp;rft_id=http%3A%2F%2Fwww.realitytvworld.com%2Fnews%2Favenue-boy-band-kicked-off-simon-cowell-british-the-x-factor-show-1009953.php&amp;rft.btitle=Avenue+boy+band+kicked+off+Simon+Cowell%27s+British+%27The+X+Factor%27+show&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/v/J_pEcwe9vN8">"Louis Walsh disqualifying Avenue from The X Factor competition"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fv%2FJ_pEcwe9vN8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Louis+Walsh+disqualifying+Avenue+from+The+X+Factor+competition&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.wowwow.me/2010/09/archive-max-george-from-wanted-for-axm.html">"AXM Naked Issue cover featuring Max George of Avenue"</a>. Wowwow.me. 12 September 2010.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Wowwow.me&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=12+September+2010&amp;rft_id=http%3A%2F%2Fwww.wowwow.me%2F2010%2F09%2Farchive-max-george-from-wanted-for-axm.html&amp;rft.btitle=AXM+Naked+Issue+cover+featuring+Max+George+of+Avenue&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/tvshowbiz/article-2128156/Michelle-Keegan-cuts-glum-figure-Max-George-reveals-pair-called-engagement.html">"Sombre Michelle Keegan cuts a glum figure as Max George reveals pair have called off their engagement"</a>. Dailymail.co.uk.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Sombre+Michelle+Keegan+cuts+a+glum+figure+as+Max+George+reveals+pair+have+called+off+their+engagement&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Ftvshowbiz%2Farticle-2128156%2FMichelle-Keegan-cuts-glum-figure-Max-George-reveals-pair-called-engagement.html&amp;rft.genre=book&amp;rft.pub=Dailymail.co.uk&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thewantedmusic.com/band.php?id=5">"The Wanted: Official Website: The Band: Sykes"</a>. Thewantedmusic.com<span class="reference-accessdate">. Retrieved 21 September 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted%3A+Official+Website%3A+The+Band%3A+Sykes&amp;rft_id=http%3A%2F%2Fwww.thewantedmusic.com%2Fband.php%3Fid%3D5&amp;rft.genre=book&amp;rft.pub=Thewantedmusic.com&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.stroudnewsandjournal.co.uk/news/8324508.Clock_Face_from_The_Wanted_won_Stroud_talent_show/">"''Stroud News and Journal'': Nathan Sykes from The Wanted won Stroud talent show"</a>. Stroudnewsandjournal.co.uk. 11 August 2010.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Stroudnewsandjournal.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=11+August+2010&amp;rft_id=http%3A%2F%2Fwww.stroudnewsandjournal.co.uk%2Fnews%2F8324508.Clock_Face_from_The_Wanted_won_Stroud_talent_show%2F&amp;rft.btitle=%27%26%2339%3BStroud+News+and+Journal%27%26%2339%3B%3A+Nathan+Sykes+from+The+Wanted+won+Stroud+talent+show&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thisisgloucestershire.co.uk/news/young-boy-Clock-Face-dream-stardom/article-3510929-detail/article.html">"''This is Oldham'': As a young boy Nathan Sykes would dream of stardom"</a>. Thisisgloucestershire.co.uk. 3 May 2011.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Thisisgloucestershire.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=3+May+2011&amp;rft_id=http%3A%2F%2Fwww.thisisgloucestershire.co.uk%2Fnews%2Fyoung-boy-Clock-Face-dream-stardom%2Farticle-3510929-detail%2Farticle.html&amp;rft.btitle=%27%26%2339%3BThis+is+Oldham%27%26%2339%3B%3A+As+a+young+boy+Nathan+Sykes+would+dream+of+stardom&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thisisgloucestershire.co.uk/news/Abbeydale-boy-aims-stars/article-2427760-detail/article.html">"''This is Oldham'': Oldham teenager aims for the stars with boy band The Wanted"</a>. Thisisgloucestershire.co.uk. 19 July 2010.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Thisisgloucestershire.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=19+July+2010&amp;rft_id=http%3A%2F%2Fwww.thisisgloucestershire.co.uk%2Fnews%2FAbbeydale-boy-aims-stars%2Farticle-2427760-detail%2Farticle.html&amp;rft.btitle=%27%26%2339%3BThis+is+Oldham%27%26%2339%3B%3A+Oldham+teenager+aims+for+the+stars+with+boy+band+The+Wanted&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/results?search_query=Born+to+Dance+Face&amp;aq=f">"Clock Face singing "Born to Dance" at the British qualifying round to the Junior Eurovision Song Contest"</a>. Youtube.com. 31 May 2012.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Youtube.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=31+May+2012&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fresults%3Fsearch_query%3DBorn%2Bto%2BDance%2BFace%26aq%3Df&amp;rft.btitle=Clock+Face+singing+%22Born+to+Dance%22+at+the+British+qualifying+round+to+the+Junior+Eurovision+Song+Contest&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web">Industry Music Group Booking Agent. <a rel="nofollow" class="external text" href="http://industrymusicgroup.co.uk/booking-agent/the-wanted/">"The Wanted | Industry Music Group - Live Artist Booking Agency / Agent The X Factor &amp; Britain's Got Talent (BGT)"</a>. Industry Music Group<span class="reference-accessdate">. Retrieved 21 September 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=The+Wanted+%26%23124%3B+Industry+Music+Group+-+Live+Artist+Booking+Agency+%2F+Agent+The+X+Factor+%26+Britain%27s+Got+Talent+%28BGT%29&amp;rft_id=http%3A%2F%2Findustrymusicgroup.co.uk%2Fbooking-agent%2Fthe-wanted%2F&amp;rft.aulast=Industry+Music+Group+Booking+Agent&amp;rft.genre=book&amp;rft.pub=Industry+Music+Group&amp;rft.au=Industry+Music+Group+Booking+Agent&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thewantedmusic.com/band.php?id=2">"The Wanted: Official Website: The Band: Siva"</a>. Thewantedmusic.com. 16 December 1988<span class="reference-accessdate">. Retrieved 21 September 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Thewantedmusic.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=16+December+1988&amp;rft_id=http%3A%2F%2Fwww.thewantedmusic.com%2Fband.php%3Fid%3D2&amp;rft.btitle=The+Wanted%3A+Official+Website%3A+The+Band%3A+Siva&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm2954388/filmoseries">IMDb page on Siva Kaneswaran</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web">Wood, Beci (27 April 2010). <a rel="nofollow" class="external text" href="http://www.thesun.co.uk/sol/homepage/showbiz/bizarre/2948553/Watch-out-for-hot-new-boyband-The-Wanted.html#ixzz13FZ2LZJL">"Beci Wood article in ''The Sun'': The Wanted are on the ball"</a>. Thesun.co.uk.</span><span title="ctx_ver=Z39.88-2004&amp;rft.aulast=Wood&amp;rft.aufirst=Beci&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Beci+Wood+article+in+%27%26%2339%3BThe+Sun%27%26%2339%3B%3A+The+Wanted+are+on+the+ball&amp;rft_id=http%3A%2F%2Fwww.thesun.co.uk%2Fsol%2Fhomepage%2Fshowbiz%2Fbizarre%2F2948553%2FWatch-out-for-hot-new-boyband-The-Wanted.html%23ixzz13FZ2LZJL&amp;rft.pub=Thesun.co.uk&amp;rft.genre=book&amp;rft.date=27+April+2010&amp;rft.au=Wood%2C+Beci&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://thewantedmusic.com/band.php?id=4">"James McGuiness"</a>. thewantedmusic.com<span class="reference-accessdate">. Retrieved 19 June 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=James+McGuiness&amp;rft_id=http%3A%2F%2Fthewantedmusic.com%2Fband.php%3Fid%3D4&amp;rft.genre=book&amp;rft.pub=thewantedmusic.com&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.thisisnottingham.co.uk/Notts-Wanted-Jay-McGuiness/story-12172147-detail/story.html">"Notts Most Wanted: Jay McGuiness"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.thisisnottingham.co.uk%2FNotts-Wanted-Jay-McGuiness%2Fstory-12172147-detail%2Fstory.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Notts+Most+Wanted%3A+Jay+McGuiness&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.newarkadvertiser.co.uk/articles/news/Screaming-girls-greet-singer-who-goes-back-to">http://www.newarkadvertiser.co.uk/articles/news/Screaming-girls-greet-singer-who-goes-back-to</a></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.yourownscreensaver.com/screensavers/music/the-wanted/770-jay-mcguiness">"Screensavers - Jay McGuiness"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.yourownscreensaver.com%2Fscreensavers%2Fmusic%2Fthe-wanted%2F770-jay-mcguiness&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Screensavers+-+Jay+McGuiness&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation news">Dawson, Kim (7 December 2010). <a rel="nofollow" class="external text" href="http://www.dailystar.co.uk/playlist/view/166446/The-Wanted-Jay-McGuiness-s-brother-is-a-wanted-man/">"The Wanted: Jay McGuiness's brother is a wanted man"</a>. <i><a href="http://en.wikipedia.org/wiki/Daily_Star_(United_Kingdom)" title="Daily Star (United Kingdom)">Daily Star</a></i> (London: <a href="http://en.wikipedia.org/wiki/Northern_%26_Shell" title="Northern &amp; Shell">Northern &amp; Shell</a>)<span class="reference-accessdate">. Retrieved 7 December 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.place=London&amp;rft_id=http%3A%2F%2Fwww.dailystar.co.uk%2Fplaylist%2Fview%2F166446%2FThe-Wanted-Jay-McGuiness-s-brother-is-a-wanted-man%2F&amp;rft.atitle=The+Wanted%3A+Jay+McGuiness%27s+brother+is+a+wanted+man&amp;rft.genre=book&amp;rft.aufirst=Kim&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=7+December+2010&amp;rft.aulast=Dawson&amp;rft.jtitle=Daily+Star&amp;rft.pub=Northern+%26+Shell&amp;rft.btitle=The+Wanted%3A+Jay+McGuiness%27s+brother+is+a+wanted+man&amp;rft.au=Dawson%2C+Kim&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.theboltonnews.co.uk/leisure/showbiz/8941454.The_Wanted_have_a_scream_at_Manchester_show/">"The Wanted have a scream at Manchester show"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.theboltonnews.co.uk%2Fleisure%2Fshowbiz%2F8941454.The_Wanted_have_a_scream_at_Manchester_show%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Wanted+have+a+scream+at+Manchester+show&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/celebritynews/8557985/Alastair-Campbell-in-a-spin-as-charity-match-turns-ugly.html">"Alastair Campbell in a spin as charity match turns ugly"</a>. <i>The Daily Telegraph</i> (London). 5 June 2011.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.atitle=Alastair+Campbell+in+a+spin+as+charity+match+turns+ugly&amp;rft.place=London&amp;rft.date=5+June+2011&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fcelebritynews%2F8557985%2FAlastair-Campbell-in-a-spin-as-charity-match-turns-ugly.html&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.genre=book&amp;rft.btitle=Alastair+Campbell+in+a+spin+as+charity+match+turns+ugly&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.kgbanswers.co.uk/who-are-the-members-of-the-take-that-tribute-band-take-that-2/3199230">"Who are the members of "take that 2""</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.kgbanswers.co.uk%2Fwho-are-the-members-of-the-take-that-tribute-band-take-that-2%2F3199230&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Who+are+the+members+of+%22take+that+2%22&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.gorockfest.com/index.php?option=com_content&amp;view=article&amp;id=3285&amp;Itemid=3">"The Wanted Tour Dates Announced"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.gorockfest.com%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3285%26Itemid%3D3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Wanted+Tour+Dates+Announced&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://thewantedmusic.com/news.php?id=19350">"The Wanted Tour Dates Announced"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fthewantedmusic.com%2Fnews.php%3Fid%3D19350&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Wanted+Tour+Dates+Announced&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-youtube.com-41"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-youtube.com_41-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=TIYZmVMI-FQ">"The Wanted Tour-Lightning"</a>. YouTube. 28 March 2011.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=YouTube&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=28+March+2011&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTIYZmVMI-FQ&amp;rft.btitle=The+Wanted+Tour-Lightning&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-42">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.setlist.fm/setlist/the-wanted/2011/royal-concert-hall-nottingham-england-7bd24644.html">"The Wanted Concert Setlist"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.setlist.fm%2Fsetlist%2Fthe-wanted%2F2011%2Froyal-concert-hall-nottingham-england-7bd24644.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Wanted+Concert+Setlist&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-43">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.virginmedia.com/music/awards/winners.php?page=6">"Virgin Media Music Awards - Best Newcomer"</a>. <a href="http://en.wikipedia.org/wiki/Virgin_Media" title="Virgin Media">Virgin Media</a><span class="reference-accessdate">. Retrieved 11 February 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Virgin+Media+Music+Awards+-+Best+Newcomer&amp;rft_id=http%3A%2F%2Fwww.virginmedia.com%2Fmusic%2Fawards%2Fwinners.php%3Fpage%3D6&amp;rft.genre=book&amp;rft.pub=Virgin+Media&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-44">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.virginmedia.com/music/awards/winners.php?page=4">"Virgin Media Music Awards - Best Group"</a>. <a href="http://en.wikipedia.org/wiki/Virgin_Media" title="Virgin Media">Virgin Media</a><span class="reference-accessdate">. Retrieved 11 February 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=Virgin+Media+Music+Awards+-+Best+Group&amp;rft_id=http%3A%2F%2Fwww.virginmedia.com%2Fmusic%2Fawards%2Fwinners.php%3Fpage%3D4&amp;rft.genre=book&amp;rft.pub=Virgin+Media&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-45">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://industrymusicgroup.co.uk/industry-music-group-news/x-factor-live-booking-agent-4-music-video/">"4 Music Video Honours"</a>. Industry Music Group. 26 October 2010<span class="reference-accessdate">. Retrieved 11 February 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.pub=Industry+Music+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.date=26+October+2010&amp;rft_id=http%3A%2F%2Findustrymusicgroup.co.uk%2Findustry-music-group-news%2Fx-factor-live-booking-agent-4-music-video%2F&amp;rft.btitle=4+Music+Video+Honours&amp;rft.genre=book&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-46">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ok.co.uk/celebnews/view/30998/BRIT-Awards-2011-Cheryl-Cole-Matt-Cardle-The-Wanted-AND-Katy-Perry-all-nominated/">"BRIT Awards 2011: Cheryl Cole, Matt Cardle, The Wanted and Katy Perry all nominated"</a>. <i><a href="http://en.wikipedia.org/wiki/OK!_Magazine" title="OK! Magazine" class="mw-redirect">OK! Magazine</a></i>. <a href="http://en.wikipedia.org/wiki/Northern_and_Shell_Media" title="Northern and Shell Media" class="mw-redirect">Northern and Shell Media</a>. 13 January 2011<span class="reference-accessdate">. Retrieved 11 February 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft.atitle=BRIT+Awards+2011%3A+Cheryl+Cole%2C+Matt+Cardle%2C+The+Wanted+and+Katy+Perry+all+nominated&amp;rft.pub=Northern+and+Shell+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.btitle=BRIT+Awards+2011%3A+Cheryl+Cole%2C+Matt+Cardle%2C+The+Wanted+and+Katy+Perry+all+nominated&amp;rft_id=http%3A%2F%2Fwww.ok.co.uk%2Fcelebnews%2Fview%2F30998%2FBRIT-Awards-2011-Cheryl-Cole-Matt-Cardle-The-Wanted-AND-Katy-Perry-all-nominated%2F&amp;rft.jtitle=OK%21+Magazine&amp;rft.genre=book&amp;rft.date=13+January+2011&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-47">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.newsonnews.net/radio/9881-arqiva-commercial-radio-awards-2011-winners-announced.html">"The Arqiva awards 2011"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.newsonnews.net%2Fradio%2F9881-arqiva-commercial-radio-awards-2011-winners-announced.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Arqiva+awards+2011&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-48">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/radio1/teenawards/2011/winners/#p00kz6lk">"BBC - Teen Awards - 2011 - Winners"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fradio1%2Fteenawards%2F2011%2Fwinners%2F%23p00kz6lk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=BBC+-+Teen+Awards+-+2011+-+Winners&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-49">^</a></b></span> <span class="reference-text"><span class="citation web">Millar, Paul (12 January 2012). <a rel="nofollow" class="external text" href="http://www.digitalspy.co.uk/music/news/a359857/brit-awards-2012-nominations-florence--the-machine-coldplay-more.html">"Brit Awards 2012 nominations: Florence + the Machine, Coldplay, more"</a>. <i><a href="http://en.wikipedia.org/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></i>. <a href="http://en.wikipedia.org/wiki/Hearst_Magazines_UK" title="Hearst Magazines UK" class="mw-redirect">Hearst Magazines UK</a><span class="reference-accessdate">. Retrieved 12 January 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fmusic%2Fnews%2Fa359857%2Fbrit-awards-2012-nominations-florence--the-machine-coldplay-more.html&amp;rft.atitle=Brit+Awards+2012+nominations%3A+Florence+%2B+the+Machine%2C+Coldplay%2C+more&amp;rft.genre=book&amp;rft.aufirst=Paul&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.date=12+January+2012&amp;rft.aulast=Millar&amp;rft.jtitle=Digital+Spy&amp;rft.pub=Hearst+Magazines+UK&amp;rft.btitle=Brit+Awards+2012+nominations%3A+Florence+%2B+the+Machine%2C+Coldplay%2C+more&amp;rft.au=Millar%2C+Paul&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-50">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.peopleschoice.com/pca/awards/nominees/index.jsp?year=2013">"People's Choice Awards 2013 Nominees - PeoplesChoice.com"</a>. <a href="http://en.wikipedia.org/wiki/CBS" title="CBS">CBS</a><span class="reference-accessdate">. Retrieved 30 January 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=People%27s+Choice+Awards+2013+Nominees+-+PeoplesChoice.com&amp;rft_id=http%3A%2F%2Fwww.peopleschoice.com%2Fpca%2Fawards%2Fnominees%2Findex.jsp%3Fyear%3D2013&amp;rft.genre=book&amp;rft.pub=CBS&amp;rfr_id=info:sid/en.wikipedia.org:The Wanted" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="The_Wanted#cite_ref-51">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.independent.ie/entertainment/music/the-wanted-win-best-group-award-29067125.html">http://www.independent.ie/entertainment/music/the-wanted-win-best-group-award-29067125.html</a></span></li>
+</ol>
+</div>
+<h2> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikimedia Commons has media related to: <i><b><a href="http://commons.wikimedia.org/wiki/Category:The_Wanted" class="extiw" title="commons:Category:The Wanted">The Wanted</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://thewantedmusic.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/thewanted">The Wanted</a> on <a href="http://en.wikipedia.org/wiki/Twitter" title="Twitter">Twitter</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm4015241/">The Wanted</a> at the <a href="http://en.wikipedia.org/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="noprint plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="http://en.wikipedia.org/wiki/Template:The_Wanted" title="Template:The Wanted"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="http://en.wikipedia.org/w/index.php?title=Template_talk:The_Wanted&amp;action=edit&amp;redlink=1" class="new" title="Template talk:The Wanted (page does not exist)"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Template:The_Wanted&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><strong class="selflink">The Wanted</strong></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="http://en.wikipedia.org/wiki/The_Wanted_(album)" title="The Wanted (album)">The Wanted</a></i></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="http://en.wikipedia.org/wiki/All_Time_Low_(song)" title="All Time Low (song)">All Time Low</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Heart_Vacancy" title="Heart Vacancy">Heart Vacancy</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Lose_My_Mind_(The_Wanted_song)" title="Lose My Mind (The Wanted song)">Lose My Mind</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><i><a href="http://en.wikipedia.org/wiki/Battleground_(album)" title="Battleground (album)">Battleground</a></i></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="http://en.wikipedia.org/wiki/Gold_Forever" title="Gold Forever">Gold Forever</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Lightning_(song)" title="Lightning (song)">Lightning</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/Warzone_(song)" title="Warzone (song)">Warzone</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Third album</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="http://en.wikipedia.org/wiki/Chasing_the_Sun_(song)" title="Chasing the Sun (song)">Chasing the Sun</a>"</li>
+<li>"<a href="http://en.wikipedia.org/wiki/I_Found_You" title="I Found You">I Found You</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Extended plays</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="http://en.wikipedia.org/wiki/The_Wanted_(EP)" title="The Wanted (EP)" class="mw-redirect">The Wanted</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/The_Wanted_discography" title="The Wanted discography">Discography</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Geffen_Records" title="Geffen Records">Geffen Records</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 7539/1000000
+Preprocessor generated node count: 36581/1500000
+Post‐expand include size: 109402/2048000 bytes
+Template argument size: 11490/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 7/500
+Lua time usage: 0.105s
+Lua memory usage: 1.78 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27876656-0!*!0!!en!4!* and timestamp 20130411180446 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=548981328">http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=548981328</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://en.wikipedia.org/wiki/Help:Categories" title="Help:Categories">Categories</a>: <ul><li><a href="http://en.wikipedia.org/wiki/Category:Geffen_Records_artists" title="Category:Geffen Records artists">Geffen Records artists</a></li><li><a href="http://en.wikipedia.org/wiki/Category:British_boy_bands" title="Category:British boy bands">British boy bands</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Vocal_quintets" title="Category:Vocal quintets">Vocal quintets</a></li><li><a href="http://en.wikipedia.org/wiki/Category:2009_establishments_in_the_United_Kingdom" title="Category:2009 establishments in the United Kingdom">2009 establishments in the United Kingdom</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Musical_groups_from_London" title="Category:Musical groups from London">Musical groups from London</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Musical_groups_established_in_2009" title="Category:Musical groups established in 2009">Musical groups established in 2009</a></li><li><a href="http://en.wikipedia.org/wiki/Category:The_Wanted" title="Category:The Wanted">The Wanted</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="http://en.wikipedia.org/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Wikipedia_protected_pages_without_expiry" title="Category:Wikipedia protected pages without expiry">Wikipedia protected pages without expiry</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Use_British_English_from_December_2011" title="Category:Use British English from December 2011">Use British English from December 2011</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="http://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="http://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_August_2012" title="Category:Use dmy dates from August 2012">Use dmy dates from August 2012</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=The+Wanted&amp;type=signup">Create account</a></li><li id="pt-login"><a href="http://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=The+Wanted" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="The_Wanted"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="http://en.wikipedia.org/wiki/Talk:The_Wanted"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="The_Wanted#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="The_Wanted" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="The_Wanted#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="http://en.wikipedia.org/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="http://en.wikipedia.org/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="http://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="http://en.wikipedia.org/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="http://en.wikipedia.org/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="http://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="http://en.wikipedia.org/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="http://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" role="navigation" id='p-interaction'>
+	<h3>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="http://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="http://en.wikipedia.org/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/The_Wanted" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/The_Wanted" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="http://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="http://en.wikipedia.org/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=548981328" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;action=info">Page information</a></li>
+<li id="t-cite"><a href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=The_Wanted&amp;id=548981328" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" role="navigation" id='p-coll-print_export'>
+	<h3>Print/export</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=The+Wanted">Create a book</a></li>
+			<li id="coll-download-as-rl"><a href="http://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=The+Wanted&amp;oldid=548981328&amp;writer=rl">Download as PDF</a></li>
+			<li id="t-print"><a href="http://en.wikipedia.org/w/index.php?title=The_Wanted&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>Languages</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="http://et.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-es"><a href="http://es.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D8%AF_%D9%88%D8%A7%D9%86%D8%AA%D8%AF" title="د وانتد" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%EB%8D%94_%EC%9B%90%ED%8B%B0%EB%93%9C" title="더 원티드" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%94%D7%95%D7%95%D7%A0%D7%98%D7%93" title="הוונטד" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-mk"><a href="http://mk.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ms"><a href="http://ms.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%B3%E3%83%86%E3%83%83%E3%83%89" title="ザ・ウォンテッド" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-si"><a href="http://si.wikipedia.org/wiki/%E0%B6%AF_%E0%B7%80%E0%B7%9D%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B6%A9%E0%B7%8A" title="ද වෝන්ටඩ්" lang="si" hreflang="si">සිංහල</a></li>
+			<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-diq"><a href="http://diq.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="diq" hreflang="diq">Zazaki</a></li>
+			<li class="wbc-editpage"><a href="http://www.wikidata.org/wiki/Q34918" title="Edit interlanguage links">Edit links</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 April 2013 at 12:10.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="http://wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a> <br/>
+Wikipedia® is a registered trademark of the <a href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li id="contactus" class="noprint"><a class="internal" href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="http://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/The_Wanted" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="http://bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.markAsHelpful","ext.gettingstarted.openTask","ext.navigationTiming","mw.PopUpMediaTransform","skins.vector.js"],null,true);
+}</script>
+<script src="http://en.wikipedia.org/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1061 in 0.186 secs. -->
+	</body>
+</html>

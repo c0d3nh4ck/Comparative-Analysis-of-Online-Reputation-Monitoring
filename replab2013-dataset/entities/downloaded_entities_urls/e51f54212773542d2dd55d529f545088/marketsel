@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!-- Html served by live03 @ 12/04/13 05:33:05 -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="title" content="Jaguar International - Market selector page" />
+<meta http-equiv="last-modified" content="Fri Apr 12 05:33:05 BST 2013" />
+<title>Jaguar International - Market selector page</title>
+<script type="text/javascript">
+var sbPrintLabel = 'PRINT';
+var sbBackLabel = 'BACK';
+var sbPreviousLabel = 'Previous';
+var sbNextLabel = 'Next';
+var sbWatchVideoLabel = 'WATCH VIDEO';
+var sbLofiCloseLabel = 'CLOSE';
+var sbLofiFullviewCloseLabel = 'CLOSE X';
+var sbGalleryWallpaperLabel = 'WALLPAPER';
+var sbVideosLabel = 'VIDEOS';
+var sbPlayFilmLabel = 'PLAY FILM';
+var sbOfLabel = 'OF';
+var sbDwsToGwsLabel = 'You have left the <span class="dealer-name">Jaguar Dealer</span> Website.';
+var sbHideLabel = 'Hide';
+var sbReturnLabel = 'Return';
+var sbFindAnotherDealerLabel = 'Find Another Dealer';
+var sbDealerLocatorPath = 'null';
+var jsTrustedUrlsVar = 'accessories.jaguar.com,jaguar.co.uk,nextgen-technology.com,jlrext.com,jaguarheritage.org,jaguarclassicparts.com,www.navigation.com/is-bin/INTERSHOP.enfinity/WFS/Navteq-JaguarNorthAmerica-Site,jdht.com,jaguarcollection.com,jaguar-dealer.be,jaguarcollection.co.uk,mediajaguar.com,jaguarlandrovercareers.com,jaguar.tagworldwide.com,http://www.jaguar.com.cn/promo75,http://www.jaguar.com.cn/GZAS,http://member.myjaguarclub.com/dealer.php,www.jaguaroccasion.fr,http://member.myjaguarclub.com/contact.php,http://member.myjaguarclub.com/enews.php,http://member.myjaguarclub.com/booking.php,www.jaguartechinfo.com,http://www.jaguarjapan.com/a-car,http://www.jaguarjapan.com/news,http://www.jaguarjapan.com/dealer,www.jaguarcollection.jp,customer-jaguarjapan.com,landrover.com,dws.autotorq.com,www.jlr-connect.ru,www.jaguarselected.es,jaguar.bdasites.com,www.selectedition.jaguarusa.com,www.jaguarperformance.com,www.jaguarperformanceacademy.com,www.jaguarcredit.com,www.jaguar75.com,https://www.chase.com/online/auto-loan/jaguar.htm,https://tbe.taleo.net/NA4/ats/careers/jobSearch.jsp?org=JAGUARLANDROVER&cws=1,www.jaguaracademyofsport.co.uk,https://customer-jaguarjapan.com/jf/enews_letter/navi,http://www.jaguarjapan.com/campaign/index.html,www.jaguar.com.hk,www.jaguar.in,www.jaguarkorea.co.kr,www.jaguarcars.com.tw,www.jaguar.bg,www.jaguar.com.hr,www.jaguar.dk,www.jaguar.fi,www.jaguar.gr,www.jaguar.lu,www.jaguar.no,www.jaguar.pl,www.jaguar.ro,www.jaguarturkey.com,www.jaguar.ua,www.jaguarcars.com.mx,http://uat-jaguarusa-comp.autodatadirect.com,www.jaguarcars.md,http://ldti.syndication.kbb.com/popup/default.aspx?code=8B8FF38D-20F6-4AB3-A3E4-E955EC1DF309,compare.jaguarusa.com,jaguarfuture.com,configuator.jaguar.es,jaguarstockroom.es,jaguar45.nextgen-technology.net,jaguarusa.com,cars.selected.jaguar.ru,rules.config.jaguar.com,forms.jaguar.com,jaguarukforms.aplicor.net,jaguarusaforms.aplicor.net,*.jaguar.com,used.jaguar.co.uk,2012.jaguar.com.cn,aq.jaguar.com.cn,www.jaguar-cars.dk,member.jaguar.com.cn,13my.jaguar.com.cn,*.f-type.com,*.ftype.com,www.ftype.com,www.jaguarheritage.org,companycartaxcalculator.jaguar.co.uk,comparison.jaguar.co.uk,www.jaguar-taste-race.de,www.jaguar.co.za,approvedused.za.jaguar.com,approved.me.jaguar.com,usado.br.jaguar.com,approved.in.jaguar.com,selected.ru.jaguar.com,approved.lacro.jaguar.com,approved.subsahara.jaguar.com';
+var sbExternalWarnTitleLabel = 'WARNING';
+var sbExternalWarnMessageLabel = 'You are about to leave Jaguar.com. Please note that Jaguar cannot be held responsible for any content or validity outside of this domain. Please click on Accept to go ahead, or on Reject to close this window.';
+var sbExternalWarnContinueLabel = 'ACCEPT';
+var sbExternalWarnCancelLabel = 'REJECT';
+var sbRequestItemId = '3767918';
+var fp_flowplayer="/lofi/scripts/flowplayer.commercial-3.2.8.swf";
+var fp_controls="/lofi/scripts/flowplayer.controls-3.2.8.swf";
+var fp_content="/lofi/scripts/flowplayer.content-3.2.8.swf";
+var fp_captions="/lofi/scripts/flowplayer.captions-3.2.8.swf";
+var fp_key="#$5c17a79de46773c3d35";
+</script>
+<script type="text/javascript">
+var url = location.href.replace(location.protocol + '//', '').replace(location.host, '');
+if(url.substr(7,2) == '#/') { url = url.substr(0,7) + url.substr(9); document.location = url; };
+</script>
+<link href="http://www.jaguar.com/lofi/styles/global.css" rel="stylesheet" type="text/css" media="screen,projection" />
+<link href="http://www.jaguar.com/lofi/styles/shop-nav.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if IE]>
+<link href="/lofi/styles/ie.css" rel="stylesheet"x type="text/css" media="screen,projection,print" />
+<![endif]-->
+<!--[if !IE 6]><!-->
+<link type="text/css" href="http://www.jaguar.com/lofi/styles/jquery-ui-1.8.2.custom.css" rel="stylesheet" />
+<!--<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" href="/lofi/styles/jquery-ui-1.8.2.custom-ie6.css" rel="stylesheet" />
+<link type="text/css" href="/lofi/styles/ie-6.css" rel="stylesheet" />
+<![endif]-->
+<link href="http://www.jaguar.com/lofi/styles/print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript">
+var langDirection = 'ltr';
+</script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/cufon.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/jquery-ui-1.8.2.custom.min.js"></script>
+<!-- Tracking javascript -->
+<script type="text/javascript" src="http://www.jaguar.com/system/logging/jquery.google.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/AC_OETags.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/global.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/global-toptoolbar.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/linkchecker.js"></script>
+<link href="http://www.jaguar.com/lofi/styles/lang/gl/en/en.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="icon" href="http://www.jaguar.com/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://www.jaguar.com/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+<div id="my_flash">
+<div class="skip-links">
+<a name="top-page" id="top-page"><span>Top of page.</span></a>
+<ul>
+<li><a href="marketsel#main-nav">Skip to main menu.</a></li>
+<li><a href="marketsel#search">Skip to search.</a></li>
+<li><a href="marketsel#shop-nav">Skip to shopping tools.</a></li>
+<li><a href="marketsel#main-content">Skip to main contents.</a></li>
+<li><a href="marketsel#footer">Skip to footer.</a></li>
+</ul>
+</div>
+<div class="ci2012">
+<div class="wrapper clearfix mrkt-select">
+<div class="col-one">
+<a href="http://www.jaguar.com/gl/en/" accesskey="1" class="logo logoFull"><img src="http://www.jaguar.com/lofi/images/interface/logo.gif" width="110" height="18" alt="Back to Jaguar homepage" /></a>
+</div>
+<div class="col-two">
+<!-- Main content -->
+<div class="main" style="background:url(/content/global/assets_13my/Nameplate/ftype/3714511/FT_013_042_GEE-838x435.jpg) 0 0 no-repeat;">
+<div class="countries">
+<h3>Asia Pacific</h3>
+<div>
+<ul>
+<li><a href="http://www.jaguar.com/au/en/" id="au">Australia</a></li>
+<li><a href="http://www.jaguar.com/cn/zh/" id="cn">China</a></li>
+<li><a href="http://www.jaguar.com/hk/en/" id="hk">Hong Kong</a></li>
+<li><a href="http://www.jaguar.in" id="in">India</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="id">Indonesia</a></li>
+<li><a href="http://www.jaguar.com/jp/ja/" id="jp">Japan</a></li>
+<li><a href="http://www.jaguarkorea.co.kr" id="kr">Korea</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="my">Malaysia</a></li>
+<li><a href="http://www.jaguar.com/nz/en/" id="nz">New Zealand</a></li>
+</ul>
+<ul class="last">
+<li><a href="http://www.jaguar.com/gl/en/" id="ph">Philippines</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="sg">Singapore</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="sr">Sri Lanka</a></li>
+<li><a href="http://www.jaguarcars.com.tw" id="tw">Taiwan</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="th">Thailand</a></li>
+<li class="intnl"><a href="http://www.jaguar.com/gl/en/" id="gl">International</a></li>
+</ul>
+</div>
+<h3>Europe</h3>
+<div>
+<ul>
+<li><a href="http://www.jaguar.com/at/de/" id="at">Austria</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=europe&amp;country=be" id="be">Belgium</a></li>
+<li><a href="http://www.jaguar.bg" id="bg">Bulgaria</a></li>
+<li><a href="http://www.jaguar.com.hr" id="hr">Croatia</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="cy">Cyprus</a></li>
+<li><a href="http://www.jaguar.com/cz/cs/" id="cz">Czech Republic</a></li>
+<li><a href="http://www.jaguar.dk" id="dk">Denmark</a></li>
+<li><a href="http://www.jaguar.fi/ee" id="ee">Estonia</a></li>
+<li><a href="http://www.jaguar.fi" id="fi">Finland</a></li>
+</ul>
+<ul>
+<li><a href="http://www.jaguar.com/fr/fr/" id="fr">France</a></li>
+<li><a href="http://www.jaguar.com/de/de/" id="de">Germany</a></li>
+<li><a href="http://www.jaguar.gr" id="gr">Greece</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="hu">Hungary</a></li>
+<li><a href="http://www.jaguar.com/ie/en/" id="ie">Ireland</a></li>
+<li><a href="http://www.jaguar.com/it/it/" id="it">Italy</a></li>
+<li><a href="http://www.jaguar.fi/lv" id="lv">Latvia</a></li>
+<li><a href="http://www.jaguar.fi/lt" id="lt">Lithuania</a></li>
+<li><a href="http://www.jaguar.lu" id="lu">Luxembourg</a></li>
+</ul>
+<ul>
+<li><a href="http://www.jaguar.com/gl/en/" id="mt">Malta</a></li>
+<li><a href="http://www.jaguarcars.md" id="md">Moldova</a></li>
+<li><a href="http://www.jaguar.com/nl/nl/" id="nl">Netherlands</a></li>
+<li><a href="http://www.jaguar.no" id="no">Norway</a></li>
+<li><a href="http://www.jaguar.pl" id="pl">Poland</a></li>
+<li><a href="http://www.jaguar.com/pt/pt/" id="pt">Portugal</a></li>
+<li><a href="http://www.jaguar.ro" id="ro">Romania</a></li>
+<li><a href="http://www.jaguar.com/ru/ru/" id="ru">Russia</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="sk">Slovakia</a></li>
+</ul>
+<ul class="last">
+<li><a href="http://www.jaguar.com/gl/en/" id="sl">Slovenia</a></li>
+<li><a href="http://www.jaguar.com/es/es/" id="es">Spain</a></li>
+<li><a href="http://www.jaguar.com/se/sv/" id="se">Sweden</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=europe&amp;country=ch" id="ch">Switzerland</a></li>
+<li><a href="http://www.jaguarturkey.com" id="tr">Turkey</a></li>
+<li><a href="http://www.jaguar.ua" id="ua">Ukraine</a></li>
+<li><a href="http://www.jaguar.com/gb/en/" id="gb">United Kingdom</a></li>
+<li class="intnl"><a href="http://www.jaguar.com/gl/en/" id="gl">International</a></li>
+</ul>
+</div>
+<h3>Middle East/Africa</h3>
+<div>
+<ul>
+<li><a href="http://www.jaguar.az/" id="az">Azerbaijan</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=bh" id="bh">Bahrain</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=eg" id="eg">Egypt</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="gh">Ghana</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=iq" id="iq">Iraq</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="il">Israel</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=jo" id="jo">Jordan</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=kw" id="kw">Kuwait</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=lb" id="lb">Lebanon</a></li>
+</ul>
+<ul>
+<li><a href="http://www.jaguar.com/gl/en/" id="mu">Mauritius</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=ma" id="ma">Morocco</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=om" id="om">Oman</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=qa" id="qa">Qatar</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=sa" id="sa">Saudi Arabia</a></li>
+<li><a href="http://www.jaguar.com/za/en/" id="za">South Africa</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=sy" id="sy">Syria</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=tn" id="tn">Tunisia</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=meast&amp;country=ae" id="ae">United Arab Emirates</a></li>
+</ul>
+<ul class="last">
+<li class="intnl"><a href="http://www.jaguar.com/gl/en/" id="gl">International</a></li>
+</ul>
+</div>
+<h3>North/Central America</h3>
+<div>
+<ul>
+<li><a href="http://www.jaguar.com/gl/en/" id="ag">Antigua and Barbuda</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="bs">Bahamas</a></li>
+<li><a href="http://www.jaguar.com/gl/en/marketsel?region=na&amp;country=ca" id="ca">Canada</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="ky">Cayman Islands</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="cr">Costa Rica</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="do">Dominican Republic</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="gd">Grenada</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="gt">Guatemala</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="hn">Honduras</a></li>
+</ul>
+<ul class="last">
+<li><a href="http://www.jaguar.com/gl/en/" id="jm">Jamaica</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="mx">Mexico</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="an">Netherlands Antilles</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="pa">Panama</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="pr">Puerto Rico</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="tt">Trinidad and Tobago</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="tc">Turks and Caicos Islands</a></li>
+<li><a href="http://www.jaguarusa.com/" id="us">United States of America</a></li>
+<li class="intnl"><a href="http://www.jaguar.com/gl/en/" id="gl">International</a></li>
+</ul>
+</div>
+<h3>South America</h3>
+<div>
+<ul class="last">
+<li><a href="http://www.jaguar.com/gl/en/" id="ar">Argentina</a></li>
+<li><a href="http://www.jaguar.com/br/pt/" id="br">Brazil</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="cl">Chile</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="co">Colombia</a></li>
+<li><a href="http://www.jaguar.com/gl/en/" id="uy">Uruguay</a></li>
+<li class="intnl"><a href="http://www.jaguar.com/gl/en/" id="gl">International</a></li>
+</ul>
+</div>
+</div>
+<!-- Promotions -->
+<ul class="carousel_ul">
+</ul>
+</div>
+</div>
+</div>
+<div class="bottom-nav">
+<p>Jaguar Land Rover Limited. Registered Office: Abbey Road, Whitley, Coventry CV3 4LF. Registered in England No: 1672070</p>
+<p class="flash-reqrd">
+You need <a href="http://www.adobe.com/go/getflashplayer">Flash Player 9</a> <noscript>and Javascript enabled </noscript>for the best website experience
+</p>
+</div>
+<div class="bottom-nav"></div>
+</div>
+</div>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/cufon-jaguar.font.js"></script>
+<script type="text/javascript" src="http://www.jaguar.com/lofi/scripts/cufon-config-newci.js"></script>
+</body>
+</html>

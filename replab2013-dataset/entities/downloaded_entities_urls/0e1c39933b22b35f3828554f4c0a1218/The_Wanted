@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" class="client-nojs">
+<head>
+<title>The Wanted - Wikipedia, la enciclopedia libre</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.22wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Editar" href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit" />
+<link rel="edit" title="Editar" href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit" />
+<link rel="apple-touch-icon" href="http://es.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="http://bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://es.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (es)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://es.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Feed Atom de Wikipedia" href="http://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=ext.gadget.a-commons-directo%2Cimagenesinfobox%2CrefToolbar%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eswiki:resourceloader:filter:minify-css:7:46f5d86c0a2c010a163d06c77b1a31b8 */</style>
+
+<script src="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Wanted","wgTitle":"The Wanted","wgCurRevisionId":66166188,"wgArticleId":5003191,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Wikificar","Wikipedia:Wikificar música","The Wanted","Boy bands","Grupos de pop de Inglaterra","Quintetos musicales","Grupos de música de los años 2010"],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRelevantPageName":"The_Wanted","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgMFPhotoUploadEndpoint":"//commons.wikimedia.org/w/api.php","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"es.wikipedia.org"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":30,"domain":".wikipedia.org","path":"/"},"wgMFPhotoUploadAppendToDesc":"{{Uploaded from Mobile|platform=Web|version=}}\n{{subst:unc}}","wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":true,"wgPreferredVariant":"es","wgMFLoginHandshakeUrl":"//commons.wikimedia.org/wiki/Special:LoginHandshake?useformat=mobile","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"es","language":"es","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs104":true,"searchNs105":false,"searchNs828":false,"searchNs829":false,"gadget-a-commons-directo":1,"gadget-refToolbar":1,"gadget-imagenesinfobox":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":false});},{},{});
+/* cache key: eswiki:resourceloader:filter:minify-js:7:82efbd47f4cf9ee73a4163fccb30bb96 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.postEdit","wikibase.client.init","ext.centralNotice.bannerController"]);
+}</script>
+<script src="http://bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="http://meta.wikimedia.org/" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf1/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-The_Wanted skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="es"><span dir="auto">The Wanted</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">De Wikipedia, la enciclopedia libre</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Saltar a:					<a href="The_Wanted#mw-navigation">navegación</a>, 					<a href="The_Wanted#p-search">búsqueda</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><table style="" class="noprint plainlinks ambox ambox-style">
+<tr>
+<td class="ambox-image">
+<div style="width:50px;"><img alt="Spanish Language Wiki.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/42px-Spanish_Language_Wiki.svg.png" width="42" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/63px-Spanish_Language_Wiki.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/84px-Spanish_Language_Wiki.svg.png 2x" /></div>
+</td>
+<td class="ambox-text"><b>Este artículo o sección sobre <a href="http://es.wikipedia.org/wiki/M%C3%BAsica" title="Música">música</a> necesita ser <a href="http://es.wikipedia.org/wiki/Ayuda:Wikificar" title="Ayuda:Wikificar">wikificado</a> con un formato acorde a las <a href="http://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">convenciones de estilo</a>.</b><br />
+<span style="font-size:88%">Por favor, <a class="external text" href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit">edítalo</a> para que las cumpla. Mientras tanto, no elimines este aviso puesto el 28 de febrero de 2012.<br />
+También puedes ayudar <a href="http://es.wikipedia.org/wiki/Wikiproyecto:Wikificar" title="Wikiproyecto:Wikificar">wikificando otros artículos</a>.</span></td>
+</tr>
+</table>
+<table class="infobox_v2" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;">
+<tr>
+<th class="cabecera música" colspan="2" style="text-align:center; background-color:#b0c4de;">The Wanted</th>
+</tr>
+<tr>
+<td class="" colspan="2" style="text-align:center;"><a href="http://es.wikipedia.org/wiki/Archivo:The_Wanted_2012.jpg" class="image"><img alt="The Wanted 2012.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/250px-The_Wanted_2012.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/375px-The_Wanted_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Wanted_2012.jpg/500px-The_Wanted_2012.jpg 2x" /></a><br />
+<span style=""><small>The Wanted en el <a href="http://es.wikipedia.org/wiki/Edificio_Empire_State" title="Edificio Empire State">Edificio Empire State</a> en 2012.</small></span></td>
+</tr>
+<tr>
+<th class="" colspan="2" style="text-align:center; background-color:#d8e2ee">Datos&#160;generales</th>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; width:30%">Origen</th>
+<td class="" style="width:70%"><a href="http://es.wikipedia.org/wiki/Londres" title="Londres">Londres</a>, <span class="flagicon"><img alt="Bandera del Reino Unido" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" />&#160;</span><a href="http://es.wikipedia.org/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a></td>
+</tr>
+<tr>
+<th class="" colspan="2" style="text-align:center; background-color:#d8e2ee">Información&#160;artística</th>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; width:30%"><a href="http://es.wikipedia.org/wiki/G%C3%A9nero_musical" title="Género musical">Género(s)</a></th>
+<td class="" style="width:70%"><a href="http://es.wikipedia.org/wiki/Dance-pop" title="Dance-pop" class="mw-redirect">Dance-pop</a>, <a href="http://es.wikipedia.org/wiki/Pop" title="Pop">pop</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; width:30%">Período de actividad</th>
+<td class="" style="width:70%"><a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> – Presente</td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; width:30%"><a href="http://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_discogr%C3%A1fica" title="Compañía discográfica">Discográfica(s)</a></th>
+<td class="" style="width:70%"><a href="http://es.wikipedia.org/wiki/Geffen_Records" title="Geffen Records">Geffen</a>, <a href="http://es.wikipedia.org/wiki/Island_Records" title="Island Records">Island</a>, <a href="http://es.wikipedia.org/wiki/Mercury_Records" title="Mercury Records">Mercury</a></td>
+</tr>
+<tr>
+<th class="" colspan="2" style="text-align:center; background-color:#d8e2ee">Web</th>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; width:30%">Sitio web</th>
+<td class="" style="width:70%"><a rel="nofollow" class="external text" href="http://www.thewantedmusic.com">thewantedmusic.com</a></td>
+</tr>
+<tr>
+<th class="" colspan="2" style="text-align:center; background-color:#d8e2ee">Miembros</th>
+</tr>
+<tr class="">
+<td colspan="2" class="" style="text-align:center; width:70%">Max George<br />
+Jay McGuiness<br />
+Siva Kaneswaran<br />
+Thomas Parker<br />
+Nathan Sykes<br /></td>
+</tr>
+</table>
+<p><b>The Wanted</b> es una <i><a href="http://es.wikipedia.org/wiki/Boy_band" title="Boy band">boy band</a></i> británica-irlandesa formada por <i>Max George, Siva Kaneswaran, Jay McGuiness, Tom Parker y Nathan James Sykes.</i> El sencillo más popular del grupo por mucho tiempo fue "<a href="http://es.wikipedia.org/w/index.php?title=All_Time_Low_(canci%C3%B3n)&amp;action=edit&amp;redlink=1" class="new" title="All Time Low (canción) (aún no redactado)">All Time Low</a>" que salió a la venta en <a href="http://es.wikipedia.org/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a> en julio de 2010 y con el cual se convirtieron en número uno durante una semana. Su álbum más importante, <i>The Wanted</i>, fue puesto en venta por primera vez el <a href="http://es.wikipedia.org/wiki/25_de_octubre" title="25 de octubre">25 de octubre</a> de 2011, y subió puestos hasta alcanzar el número tres de la lista del <a href="http://es.wikipedia.org/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a>.</p>
+<p>Su primer sencillo de su segundo álbum, "Gold Forever" ("Siempre de oro"), salió a la venta con la colaboración de "<i>Comic Relief</i>" (Un programa anual dedicado a recaudar fondos para los más necesitados de Reino Unido) y alcanzó el puesto cuatro en la <i><a href="http://es.wikipedia.org/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a></i>. El segundo éxito número uno de la banda, "<a href="http://es.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>" ("Me alegro de que vinieras"), se mantuvo como número uno de la lista en <a href="http://es.wikipedia.org/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a> durante dos semanas, y en <a href="http://es.wikipedia.org/wiki/Irlanda" title="Irlanda">Irlanda</a> durante cinco semanas. Su segundo álbum, <i>Battleground</i> (<i>Campo de batalla</i>), se publicó el 7 de noviembre de 2012. Con el single "Glad You Came" la banda consiguió la certificación de <i>Triple Disco de platino</i> en Estados Unidos, con más de un millón de ventas y se mantiene entre los veinte primeros en la lista 'Billboard".</p>
+<p>En 2012 la banda alcanzó éxito internacional con la canción "<a href="http://es.wikipedia.org/wiki/Chasing_the_Sun" title="Chasing the Sun">Chasing the Sun</a>", incluida en la banda sonora de la película <i><a href="http://es.wikipedia.org/wiki/Ice_Age:_Continental_Drift" title="Ice Age: Continental Drift">Ice Age: Continental Drift</a></i> y que además es un anticipo de su siguiente álbum, que será publicado en 2013. Antes de 2013 sale su nuevo single <i>I found you</i> el nuevo sencillo de su álbum.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="The_Wanted#Historia"><span class="tocnumber">1</span> <span class="toctext">Historia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="The_Wanted#2009.E2.80.9310"><span class="tocnumber">1.1</span> <span class="toctext">2009–10</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="The_Wanted#2011-presente:_Battleground_y_.22Chasing_the_Sun.22"><span class="tocnumber">1.2</span> <span class="toctext">2011-presente: <i>Battleground</i> y "Chasing the Sun"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="The_Wanted#Discograf.C3.ADa"><span class="tocnumber">2</span> <span class="toctext">Discografía</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="The_Wanted#.C3.81lbumes_de_estudio"><span class="tocnumber">2.1</span> <span class="toctext">Álbumes de estudio</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="The_Wanted#Reproducci.C3.B3n_Extendidas_.28EP.29"><span class="tocnumber">2.2</span> <span class="toctext">Reproducción Extendidas (EP)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="The_Wanted#Sencillos"><span class="tocnumber">2.3</span> <span class="toctext">Sencillos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="The_Wanted#Nominaciones_y_premios"><span class="tocnumber">3</span> <span class="toctext">Nominaciones y premios</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="The_Wanted#Referencias"><span class="tocnumber">4</span> <span class="toctext">Referencias</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=1" title="Editar sección: Historia">editar</a>]</span> <span class="mw-headline" id="Historia">Historia</span></h2>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=2" title="Editar sección: 2009–10">editar</a>]</span> <span class="mw-headline" id="2009.E2.80.9310">2009–10</span></h3>
+<p>The Wanted apareció en 2009 a través de audiciones propuestas por Jayne Collins, donde el grupo participó en una gala benéfica. Ella es la misma mujer que reunió a <a href="http://es.wikipedia.org/wiki/The_Saturdays" title="The Saturdays">The Saturdays</a> y <a href="http://es.wikipedia.org/wiki/Parade" title="Parade">Parade</a>.<sup id="cite_ref-mtv_1-0" class="reference"><a href="The_Wanted#cite_note-mtv-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup> <sup id="cite_ref-2" class="reference"><a href="The_Wanted#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup> En poco tiempo empezaron a trabajar en su debut con los productores <a href="http://es.wikipedia.org/wiki/Guy_Chambers" title="Guy Chambers">Guy Chambers</a>, <a href="http://es.wikipedia.org/wiki/Taio_Cruz" title="Taio Cruz">Taio Cruz</a> y <a href="http://es.wikipedia.org/w/index.php?title=Steve_Mac&amp;action=edit&amp;redlink=1" class="new" title="Steve Mac (aún no redactado)">Steve Mac</a>.<sup id="cite_ref-mtv_1-1" class="reference"><a href="The_Wanted#cite_note-mtv-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup> Su sencillo, "<a href="http://es.wikipedia.org/w/index.php?title=All_Time_Low_(canci%C3%B3n)&amp;action=edit&amp;redlink=1" class="new" title="All Time Low (canción) (aún no redactado)">All Time Low</a>", fue producido por Mac, y coescrito por <a href="http://es.wikipedia.org/w/index.php?title=Wayne_Hector&amp;action=edit&amp;redlink=1" class="new" title="Wayne Hector (aún no redactado)">Wayne Hector</a> y <a href="http://es.wikipedia.org/w/index.php?title=Ed_Drewett&amp;action=edit&amp;redlink=1" class="new" title="Ed Drewett (aún no redactado)">Ed Drewett</a>. Fue sacado a la venta en el verano de 2010 y se mantuvo como número uno de Reino Unido una semana, durando 17 semanas en las listas. El segundo single de la banda, "<a href="http://es.wikipedia.org/w/index.php?title=Heart_Vacancy&amp;action=edit&amp;redlink=1" class="new" title="Heart Vacancy (aún no redactado)">Heart Vacancy</a>" ("Vacante en el corazón"), fue de nuevo escrito por Wayne Hector y salió a la venta un poco más tarde, el 17 de octubre de 2010, colocándose en el número cuatro en la lista de ventas de álbumes de Reino Unido. Su tercer single del álbum, "<a href="http://es.wikipedia.org/w/index.php?title=Lose_My_Mind&amp;action=edit&amp;redlink=1" class="new" title="Lose My Mind (aún no redactado)">Lose My Mind</a>" ("Volviéndome loco"), fue presentando en el programa <i><a href="http://es.wikipedia.org/w/index.php?title=The_X_Factor_(programa_de_televisi%C3%B3n_como_Operaci%C3%B3n_Triunfo)&amp;action=edit&amp;redlink=1" class="new" title="The X Factor (programa de televisión como Operación Triunfo) (aún no redactado)">The X Factor</a></i> de Reino Unido para posteriormente alcanzar el número 34 de la lista de los cuarenta principales de Reino Unido.</p>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=3" title="Editar sección: 2011-presente: Battleground y &quot;Chasing the Sun&quot;">editar</a>]</span> <span class="mw-headline" id="2011-presente:_Battleground_y_.22Chasing_the_Sun.22">2011-presente: <i>Battleground</i> y "Chasing the Sun"</span></h3>
+<p>En marzo de 2011, este grupo se embarcó en su primera gira nacional. Llamada "Behind Bars" ("Entre rejas"), fue en apoyo de su álbum debut <i>The Wanted</i>, con 16 fechas celebradas en marzo y abril de 2011.</p>
+<p>La banda no quiso comenzar a trabajar en su segundo álbum de estudio en enero de 2011. El mismo año se querían separar. Los créditos del álbum incluyen en la escritura de las canciones, así como a Steve Mac, Wayne Hector, Drewett Ed, Diane Warren y Guy Chambers. El primer sencillo, "Gold Forever", fue lanzado en ayuda del programa benéfico "Comic Relief", el 13 de marzo de 2011 y llegó al número tres en la lista de sencillos de Reino Unido. En julio de 2011, el grupo lanzó el segundo sencillo "Glad You Came" ("Me alegro de que viniste"), que se convirtió en su segundo número 1 en Reino Unido, permaneciendo allí durante una semana ya que el arrollador éxito de la nueva Boy Band One Direction desde ahí se empezó a ver rivalidad entre ambos grupos y en la parte superior de las listas del Reino Unido diez por seis semanas. También llegó al número 1 en Irlanda y se mantuvo allí durante dos semanas. [2] La canción también sonó en algunos territorios europeos y Australia, y más tarde entró en la lista de EE.UU. "Billboard Hot 100". La banda hizo su primera gira americana a principios de 2012.</p>
+<p>El tercer sencillo, del álbum, "Lightning" ("Relámpago"), fue lanzado el 16 de octubre de 2011, alcanzó el Nº2 en Reino Unido y Nº5 en Irlanda. El 7 de noviembre de 2011 se lanzó en el Reino Unido el segundo álbum del grupo: <i>Battleground</i> (<i>Campo de batalla</i>). Debutó en el Nº5 en el Reino Unido y Nº4 en Irlanda. El cuarto sencillo, "Warzone" ("Zona de guerra") salió a la venta el 26 de diciembre de 2011, con el video musical y el debut de radio adelantados a principios de noviembre de <a href="http://es.wikipedia.org/wiki/2011" title="2011">2011</a>.</p>
+<p>Además de participar en los espectáculos del <a href="http://es.wikipedia.org/wiki/Reino_Unido" title="Reino Unido">Reino Unido</a> <i>T4 en la playa</i> en <i>iTunesFestival</i>, el grupo fue telonero del cantante canadiense <a href="http://es.wikipedia.org/wiki/Justin_Bieber" title="Justin Bieber">Justin Bieber</a> en <a href="http://es.wikipedia.org/wiki/Brasil" title="Brasil">Brasil</a> los días 8 y 9 de octubre y también acompañó a <a href="http://es.wikipedia.org/wiki/Britney_Spears" title="Britney Spears">Britney Spears</a> en su tour <i>Femme Fatale</i> en el "Manchester Evening News Arena" el 6 de noviembre. El 9 de noviembre de 2011, fue revelado por el grupo que tenían previsto volver a lanzar el álbum, incluyendo una nueva canción llamada "Starlight" ("Luz de estrellas") y un dueto llamado "Jealousy" ("Celos") con la cantante femenina <a href="http://es.wikipedia.org/wiki/Rihanna" title="Rihanna">Rihanna</a>.</p>
+<p>En 2012 la banda alcanzó un gran éxito con su canción bailable "<a href="http://es.wikipedia.org/wiki/Chasing_the_Sun" title="Chasing the Sun">Chasing the Sun</a>", en parte gracias a su inclusión en la película de animación <i><a href="http://es.wikipedia.org/wiki/Ice_Age:_Continental_Drift" title="Ice Age: Continental Drift">Ice Age: Continental Drift</a></i> y a un <a href="http://es.wikipedia.org/wiki/Video_musical" title="Video musical">video musical</a> donde los miembros de la banda son atacados por <a href="http://es.wikipedia.org/wiki/Vampiresa" title="Vampiresa" class="mw-redirect">vampiresas</a>. Esta canción es un anticipo de un nuevo álbum que saldrá a la venta en 2013.</p>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=4" title="Editar sección: Discografía">editar</a>]</span> <span class="mw-headline" id="Discograf.C3.ADa">Discografía</span></h2>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=5" title="Editar sección: Álbumes de estudio">editar</a>]</span> <span class="mw-headline" id=".C3.81lbumes_de_estudio">Álbumes de estudio</span></h3>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th rowspan="2">Título</th>
+<th rowspan="2">Datos del álbum</th>
+<th colspan="6">Mejor posición en listas</th>
+<th rowspan="2">Ventas</th>
+<th rowspan="2"><a href="http://es.wikipedia.org/wiki/Anexo:Certificaci%C3%B3n_de_ventas_discogr%C3%A1ficas#.C3.81lbumes" title="Anexo:Certificación de ventas discográficas">Certificaciones</a></th>
+</tr>
+<tr>
+<th><span class="flagicon"><img alt="Bandera del Reino Unido" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" /></span><br />
+<sup id="cite_ref-uk_3-0" class="reference"><a href="The_Wanted#cite_note-uk-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Francia" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/20px-Flag_of_France.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png 2x" /></span><br />
+<sup id="cite_ref-fra_4-0" class="reference"><a href="The_Wanted#cite_note-fra-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Irlanda" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/30px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png 2x" /></span><br />
+<sup id="cite_ref-ire_5-0" class="reference"><a href="The_Wanted#cite_note-ire-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Escocia" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/20px-Flag_of_Scotland.svg.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/30px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png 2x" /></span><br />
+<sup id="cite_ref-6" class="reference"><a href="The_Wanted#cite_note-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de España" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x" /></span><br />
+<sup id="cite_ref-spa_7-0" class="reference"><a href="The_Wanted#cite_note-spa-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Nueva Zelanda" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/20px-Flag_of_New_Zealand.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/30px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/40px-Flag_of_New_Zealand.svg.png 2x" /></span><br />
+<sup id="cite_ref-nz_8-0" class="reference"><a href="The_Wanted#cite_note-nz-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup></th>
+</tr>
+<tr>
+<th><i>The Wanted</i></th>
+<td>
+<center><i><a href="http://es.wikipedia.org/wiki/%C3%81lbum_debut" title="Álbum debut" class="mw-redirect">Álbum debut</a></i></center>
+<ul>
+<li>Lanzamiento: 22 de octubre de 2010</li>
+<li>Certificación: <a href="http://es.wikipedia.org/wiki/Geffen_Records" title="Geffen Records">Geffen</a> <small>{#2741607)</small></li>
+<li>Formatos: <a href="http://es.wikipedia.org/wiki/Compact_Disc" title="Compact Disc" class="mw-redirect">CD</a>, <a href="http://es.wikipedia.org/wiki/Descarga_digital" title="Descarga digital" class="mw-redirect">descarga digital</a></li>
+</ul>
+</td>
+<td>4</td>
+<td>—</td>
+<td>11</td>
+<td>4</td>
+<td>—</td>
+<td>40</td>
+<td>
+<ul>
+<li><small><span class="flagicon"><img alt="Bandera del Reino Unido" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" /></span>: 300.000</small></li>
+</ul>
+</td>
+<td><br />
+<a href="http://es.wikipedia.org/wiki/British_Phonographic_Industry" title="British Phonographic Industry" class="mw-redirect">UK</a>: <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-bpi_9-0" class="reference"><a href="The_Wanted#cite_note-bpi-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<th><i>Battleground</i></th>
+<td>
+<center><i>2° álbum de estudio</i></center>
+<ul>
+<li>Lanzamiento: 4 de noviembre de 2011</li>
+<li>Certificación: Geffen</li>
+<li>Formatos: CD, descarga digital</li>
+</ul>
+</td>
+<td>5</td>
+<td>129</td>
+<td>4</td>
+<td>3</td>
+<td>56</td>
+<td>—</td>
+<td>
+<ul>
+<li><small><span class="flagicon"><img alt="Bandera del Reino Unido" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" /></span>: 300.000</small></li>
+<li><small><span class="flagicon"><img alt="Bandera de Irlanda" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/30px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png 2x" /></span>: 7.500</small></li>
+</ul>
+</td>
+<td><br />
+UK: <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-bpi_9-1" class="reference"><a href="The_Wanted#cite_note-bpi-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup><br />
+<a href="http://es.wikipedia.org/wiki/Irish_Recorded_Music_Association" title="Irish Recorded Music Association">IRL</a>: <a href="http://es.wikipedia.org/wiki/Archivo:Gold.png" class="image"><img alt="Gold.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/16px-Gold.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/24px-Gold.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/32px-Gold.png 2x" /></a></td>
+</tr>
+<tr>
+<th><i>TBA</i></th>
+<td>
+<center><i>3° álbum de estudio</i></center>
+<ul>
+<li>Lanzamiento: septiembre de 2013</li>
+<li>Certificación: <a href="http://es.wikipedia.org/wiki/Island_Records" title="Island Records">Island</a></li>
+<li>Formatos: CD, descarga digital</li>
+</ul>
+</td>
+<td colspan="8">TBA</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=6" title="Editar sección: Reproducción Extendidas (EP)">editar</a>]</span> <span class="mw-headline" id="Reproducci.C3.B3n_Extendidas_.28EP.29">Reproducción Extendidas (EP)</span></h3>
+<table class="wikitable" style="text-align:center">
+<tr>
+<th rowspan="2">Título</th>
+<th rowspan="2">Datos de EP</th>
+<th colspan="3">Mejor posición en listas</th>
+<th rowspan="2">Ventas</th>
+</tr>
+<tr>
+<th><span class="flagicon"><img alt="Bandera de Canadá" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/30px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/40px-Flag_of_Canada.svg.png 2x" /></span><br />
+<sup id="cite_ref-can_10-0" class="reference"><a href="The_Wanted#cite_note-can-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de México" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/20px-Flag_of_Mexico.svg.png" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/30px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png 2x" /></span><br />
+<sup id="cite_ref-mex_11-0" class="reference"><a href="The_Wanted#cite_note-mex-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de los Estados Unidos" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" /></span><br />
+<sup id="cite_ref-usa_12-0" class="reference"><a href="The_Wanted#cite_note-usa-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup></th>
+</tr>
+<tr>
+<th><i>iTunes Festival: London 2011</i></th>
+<td>
+<ul>
+<li>Lanzamiento: 22 de julio de 2011</li>
+<li>Certificación: <a href="http://es.wikipedia.org/wiki/Island_Records" title="Island Records">Island</a></li>
+<li>Formatos: <a href="http://es.wikipedia.org/wiki/Descarga_digital" title="Descarga digital" class="mw-redirect">descarga digital</a></li>
+</ul>
+</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr>
+<th><i>The Wanted EP</i></th>
+<td>
+<ul>
+<li>Lanzamiento: 24 de abril de 2012</li>
+<li>Certificación: <a href="http://es.wikipedia.org/wiki/Mercury_Records" title="Mercury Records">Mercury</a></li>
+<li>Formatos: <a href="http://es.wikipedia.org/wiki/Compact_Disc" title="Compact Disc" class="mw-redirect">CD</a>, <a href="http://es.wikipedia.org/wiki/Descarga_digital" title="Descarga digital" class="mw-redirect">descarga digital</a></li>
+</ul>
+</td>
+<td>8</td>
+<td>—</td>
+<td>7</td>
+<td>
+<ul>
+<li><small><span class="flagicon"><img alt="Bandera de los Estados Unidos" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" /></span>: 170.000+</small></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=7" title="Editar sección: Sencillos">editar</a>]</span> <span class="mw-headline" id="Sencillos">Sencillos</span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center;">
+<tr>
+<th scope="col" rowspan="2">Año</th>
+<th scope="col" rowspan="2" style="width:10em;">Título</th>
+<th scope="col" colspan="9">Mejor posición en listas</th>
+<th scope="col" rowspan="2" style="width:8em;"><a href="http://es.wikipedia.org/wiki/Anexo:Certificaci%C3%B3n_de_ventas_discogr%C3%A1ficas#Sencillos" title="Anexo:Certificación de ventas discográficas">Certificaciones</a></th>
+<th scope="col" rowspan="2" style="width:8em;">Álbum</th>
+</tr>
+<tr>
+<th><span class="flagicon"><img alt="Bandera del Reino Unido" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" /></span><br />
+<sup id="cite_ref-uk_3-1" class="reference"><a href="The_Wanted#cite_note-uk-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Australia" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/20px-Flag_of_Australia.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/30px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/40px-Flag_of_Australia.svg.png 2x" /></span><br />
+<sup id="cite_ref-13" class="reference"><a href="The_Wanted#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Canadá" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/20px-Flag_of_Canada.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/30px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/40px-Flag_of_Canada.svg.png 2x" /></span><br />
+<sup id="cite_ref-14" class="reference"><a href="The_Wanted#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Irlanda" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/20px-Flag_of_Ireland.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/30px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png 2x" /></span><br />
+<sup id="cite_ref-ire_5-1" class="reference"><a href="The_Wanted#cite_note-ire-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de los Países Bajos" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" /></span><br />
+<sup id="cite_ref-dt40_15-0" class="reference"><a href="The_Wanted#cite_note-dt40-15"><span class="corchete-llamada">[</span>15<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Nueva Zelanda" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/20px-Flag_of_New_Zealand.svg.png" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/30px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/40px-Flag_of_New_Zealand.svg.png 2x" /></span><br />
+<sup id="cite_ref-nz_8-1" class="reference"><a href="The_Wanted#cite_note-nz-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de Escocia" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/20px-Flag_of_Scotland.svg.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/30px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/40px-Flag_of_Scotland.svg.png 2x" /></span><br />
+<sup id="cite_ref-16" class="reference"><a href="The_Wanted#cite_note-16"><span class="corchete-llamada">[</span>16<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de España" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x" /></span><br />
+<sup id="cite_ref-spa_7-1" class="reference"><a href="The_Wanted#cite_note-spa-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup></th>
+<th><span class="flagicon"><img alt="Bandera de los Estados Unidos" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" /></span><br />
+<sup id="cite_ref-us_17-0" class="reference"><a href="The_Wanted#cite_note-us-17"><span class="corchete-llamada">[</span>17<span class="corchete-llamada">]</span></a></sup></th>
+</tr>
+<tr>
+<td rowspan="3">2010</td>
+<td align="left">«All Time Low»</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>13</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+<td rowspan="3"><i>The Wanted</i></td>
+</tr>
+<tr>
+<td align="left">«Heart Vacancy»</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>18</td>
+<td>—</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">«Lose My Mind»</td>
+<td>19</td>
+<td>—</td>
+<td>—</td>
+<td>30</td>
+<td>—</td>
+<td>—</td>
+<td>24</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">2011</td>
+<td align="left">«Gold Forever»</td>
+<td>3</td>
+<td>—</td>
+<td>86</td>
+<td>13</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+<td rowspan="4"><i>Battleground</i></td>
+</tr>
+<tr>
+<td align="left">«<a href="http://es.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>»</td>
+<td>3</td>
+<td>20</td>
+<td>2</td>
+<td>1</td>
+<td>12</td>
+<td>13</td>
+<td>3</td>
+<td>34</td>
+<td>3</td>
+<td>
+<ul>
+<li>UK: <a href="http://es.wikipedia.org/wiki/Archivo:Gold.png" class="image"><img alt="Gold.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/16px-Gold.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/24px-Gold.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/32px-Gold.png 2x" /></a><sup id="cite_ref-bpi_9-2" class="reference"><a href="The_Wanted#cite_note-bpi-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup></li>
+<li><a href="http://es.wikipedia.org/wiki/RIANZ" title="RIANZ" class="mw-redirect">NZ</a>: <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-18" class="reference"><a href="The_Wanted#cite_note-18"><span class="corchete-llamada">[</span>18<span class="corchete-llamada">]</span></a></sup></li>
+<li><a href="http://es.wikipedia.org/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">AUS</a>: <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-19" class="reference"><a href="The_Wanted#cite_note-19"><span class="corchete-llamada">[</span>19<span class="corchete-llamada">]</span></a></sup></li>
+<li><a href="http://es.wikipedia.org/wiki/RIAA" title="RIAA" class="mw-redirect">US</a>: 3× <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-20" class="reference"><a href="The_Wanted#cite_note-20"><span class="corchete-llamada">[</span>20<span class="corchete-llamada">]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left">«Lightning»</td>
+<td>2</td>
+<td>51</td>
+<td>84</td>
+<td>5</td>
+<td>—</td>
+<td>23</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>
+<ul>
+<li>UK: <a href="http://es.wikipedia.org/wiki/Archivo:Silver.png" class="image"><img alt="Silver.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Silver.png/16px-Silver.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Silver.png/24px-Silver.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Silver.png/32px-Silver.png 2x" /></a><sup id="cite_ref-bpi_9-3" class="reference"><a href="The_Wanted#cite_note-bpi-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="left">«Warzone»</td>
+<td>21</td>
+<td>—</td>
+<td>—</td>
+<td>27</td>
+<td>—</td>
+<td>—</td>
+<td>18</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">2012</td>
+<td align="left">«<a href="http://es.wikipedia.org/wiki/Chasing_the_Sun" title="Chasing the Sun">Chasing the Sun</a>»</td>
+<td>2</td>
+<td>18</td>
+<td>18</td>
+<td>4</td>
+<td>86</td>
+<td>18</td>
+<td>1</td>
+<td>33</td>
+<td>50</td>
+<td>
+<ul>
+<li>AUS: <a href="http://es.wikipedia.org/wiki/Archivo:Platinum.png" class="image"><img alt="Platinum.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/16px-Platinum.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/24px-Platinum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Platinum.png/32px-Platinum.png 2x" /></a><sup id="cite_ref-ariacert_21-0" class="reference"><a href="The_Wanted#cite_note-ariacert-21"><span class="corchete-llamada">[</span>21<span class="corchete-llamada">]</span></a></sup></li>
+<li>NZ: <a href="http://es.wikipedia.org/wiki/Archivo:Gold.png" class="image"><img alt="Gold.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/16px-Gold.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/24px-Gold.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/32px-Gold.png 2x" /></a></li>
+<li>US: <a href="http://es.wikipedia.org/wiki/Archivo:Gold.png" class="image"><img alt="Gold.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/16px-Gold.png" width="16" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/24px-Gold.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Gold.png/32px-Gold.png 2x" /></a></li>
+</ul>
+</td>
+<td rowspan="1"><i>The Wanted</i> (EP)</td>
+</tr>
+<tr>
+<td align="left">«I Found You»</td>
+<td>3</td>
+<td>—</td>
+<td>55</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>89</td>
+<td></td>
+<td><i>TBA</i></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=8" title="Editar sección: Nominaciones y premios">editar</a>]</span> <span class="mw-headline" id="Nominaciones_y_premios">Nominaciones y premios</span></h2>
+<table class="wikitable">
+<tr>
+<th>Año</th>
+<th style="width:190px;">Nominación</th>
+<th style="widdxgsfjth:210px;">Premio</th>
+<th style="width:210px;">Categoría</th>
+<th width="70">Resultado</th>
+</tr>
+<tr>
+<td rowspan="5">2010</td>
+<td>The Wanted</td>
+<td>Virgin Media Music Awards</td>
+<td>Mejor Artista Revelación</td>
+<td style="background: #ffdddd">Nominados</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>Virgin Media Music Awards</td>
+<td>Mejor grupo</td>
+<td style="background: #ffdddd">Nominados</td>
+<td><sup id="cite_ref-22" class="reference"><a href="The_Wanted#cite_note-22"><span class="corchete-llamada">[</span>22<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>4Music Awards</td>
+<td>Chicos Más Sexy</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>4Music Awards</td>
+<td>Mejor Artista Revelación</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td></td>
+</tr>
+<tr>
+<td>"<a href="http://es.wikipedia.org/w/index.php?title=All_Time_Low_(canci%C3%B3n)&amp;action=edit&amp;redlink=1" class="new" title="All Time Low (canción) (aún no redactado)">All Time Low</a>"</td>
+<td>4Music Awards</td>
+<td>Mejor Video</td>
+<td style="background: #ffdddd">Nominados</td>
+<td><sup id="cite_ref-23" class="reference"><a href="The_Wanted#cite_note-23"><span class="corchete-llamada">[</span>23<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td rowspan="3">2011</td>
+<td>"All Time Low"</td>
+<td><a href="http://es.wikipedia.org/w/index.php?title=Brit_Awards_2011&amp;action=edit&amp;redlink=1" class="new" title="Brit Awards 2011 (aún no redactado)">Brit Awards</a></td>
+<td>Mejor Sencillo Británico</td>
+<td style="background: #ffdddd">Nominados</td>
+<td><sup id="cite_ref-24" class="reference"><a href="The_Wanted#cite_note-24"><span class="corchete-llamada">[</span>24<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td><a href="http://es.wikipedia.org/w/index.php?title=Arqiva&amp;action=edit&amp;redlink=1" class="new" title="Arqiva (aún no redactado)">Arqiva</a> Awards</td>
+<td>Mejor Artista Revelación</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td><sup id="cite_ref-25" class="reference"><a href="The_Wanted#cite_note-25"><span class="corchete-llamada">[</span>25<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td>The Wanted</td>
+<td>BBC Radio 1 Teen Awards</td>
+<td>Mejor Actuación de un Artista Británico</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td><sup id="cite_ref-26" class="reference"><a href="The_Wanted#cite_note-26"><span class="corchete-llamada">[</span>26<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td>2012</td>
+<td>"<a href="http://es.wikipedia.org/wiki/Glad_You_Came" title="Glad You Came">Glad You Came</a>"</td>
+<td><a href="http://es.wikipedia.org/wiki/Brit_Awards_2012" title="Brit Awards 2012" class="mw-redirect">Brit Awards</a></td>
+<td>Mejor Sencillo Británico</td>
+<td style="background: #ffdddd">Nominados</td>
+<td><sup id="cite_ref-27" class="reference"><a href="The_Wanted#cite_note-27"><span class="corchete-llamada">[</span>27<span class="corchete-llamada">]</span></a></sup></td>
+</tr>
+<tr>
+<td>2013</td>
+<td>The Wanted</td>
+<td>People's Choice Awards</td>
+<td>Best Breakout Artist</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td></td>
+</tr>
+<tr>
+<td>2013</td>
+<td>The Wanted</td>
+<td>Virgin Media Awards</td>
+<td>Best Group</td>
+<td style="background: #ddffdd">Ganadores</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit&amp;section=9" title="Editar sección: Referencias">editar</a>]</span> <span class="mw-headline" id="Referencias">Referencias</span></h2>
+<div class="listaref" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mtv-1"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-mtv_1-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-mtv_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.mtv.co.uk/artists/the-wanted">MTV &gt; The Wanted</a>».  MTV UK. Consultado el 2 de septiembre de 2011.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-2">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.voice21.co.uk/features/interview-with-the-wanted/">Interview with The Wanted</a>».  Voice21. Consultado el 2 de septiembre de 2011.</span></li>
+<li id="cite_note-uk-3"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-uk_3-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-uk_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/wanted/">UK Charts &gt; The Wanted</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 23-03-2011.</span></li>
+<li id="cite_note-fra-4"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-fra_4-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://lescharts.com/showinterpret.asp?interpret=The+Wanted">French Charts &gt; The Wanted</a>».  lescharts.com Hung Medien. Consultado el 23-03-2012.</span></li>
+<li id="cite_note-ire-5"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-ire_5-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-ire_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://irish-charts.com/showinterpret.asp?interpret=The+Wanted">Irish Charts &gt; The Wanted</a>».  irish-charts.com Hung Medien. Consultado el 23-03-2011.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-6">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/23/2010-11-06/">Archive Chart &gt; Scottish Albums &gt; 6 November 2010</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+<li id="cite_note-spa-7"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-spa_7-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-spa_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://spanishcharts.com/showitem.asp?interpret=The+Wanted&amp;titel=Battleground&amp;cat=a">Spanish Charts &gt; The Wanted</a>».  spanishcharts.com Hung Medien. Consultado el 08-11-2011.</span></li>
+<li id="cite_note-nz-8"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-nz_8-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-nz_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">«[charts.org.nz/showitem.asp?interpret=The+Wanted&amp;titel=The+Wanted&amp;cat=a New Zeland Charts &gt; The Wanted]».  charts.org. Consultado el 02-01-2013.</span></li>
+<li id="cite_note-bpi-9"><span class="mw-cite-backlink">↑ <a href="The_Wanted#cite_ref-bpi_9-0"><sup><i><b>a</b></i></sup></a> <a href="The_Wanted#cite_ref-bpi_9-1"><sup><i><b>b</b></i></sup></a> <a href="The_Wanted#cite_ref-bpi_9-2"><sup><i><b>c</b></i></sup></a> <a href="The_Wanted#cite_ref-bpi_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.bpi.co.uk/certifiedawards/search.aspx">BPI Certified Awards</a>».  <a href="http://es.wikipedia.org/wiki/British_Phonographic_Industry" title="British Phonographic Industry" class="mw-redirect">British Phonographic Industry</a>. Consultado el 04-01-2012.</span></li>
+<li id="cite_note-can-10"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-can_10-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/the-wanted/166020#/artist/the-wanted/chart-history/166020?f=309&amp;g=Albums">Canadian Charts &gt; The Wanted</a>».  <a href="http://es.wikipedia.org/wiki/Billboard" title="Billboard">Billboard</a>. Consultado el 23-03-2011.</span></li>
+<li id="cite_note-mex-11"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-mex_11-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.amprofon.com.mx/top100.php?item=menuTop100&amp;contenido=lista">Mexican Charts &gt; The Wanted</a>».  <a href="http://es.wikipedia.org/wiki/Amprofon" title="Amprofon" class="mw-redirect">Amprofon</a>. Consultado el 23-03-2012.</span></li>
+<li id="cite_note-usa-12"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-usa_12-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/the-wanted/166020#/artist/the-wanted/chart-history/166020?f=305&amp;g=Albums">USA Charts &gt; The Wanted</a>».  <a href="http://es.wikipedia.org/wiki/Billboard" title="Billboard">Billboard</a>. Consultado el 23-03-2011.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-13">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://australian-charts.com/showinterpret.asp?interpret=The+Wanted">Australian Charts &gt; The Wanted</a>».  australian-charts.com Hung Medien. Consultado el 28-08-2011.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-14">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.billboard.com/charts/canadian-hot-100#/charts/canadian-hot-100">Canadian Hot 100</a>».  Billboard.com (11-08-2012). Consultado el 15-08-2012.</span></li>
+<li id="cite_note-dt40-15"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-dt40_15-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.top40.nl/search.aspx?keyword=the%20wanted">Dutch Top 40 &gt; The Wanted</a>» <span style="color:#555;">(en dutch)</span>.  Stichting Nederlandse Top 40. Consultado el 15-09-2011.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-16">↑</a></span> <span class="reference-text">Mejor posiciones de singles en Escocia:</span>
+<ul>
+<li><span class="reference-text">Para "All Time Low": «<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/22/2010-08-07">Chart Archive &gt; Scottish Singles &gt; 7 August 2010</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+<li><span class="reference-text">Para "Heart Vacancy": «<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/22/2010-10-30">Chart Archive &gt; Scottish Singles &gt; 30 October 2010</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+<li><span class="reference-text">Para "Lose My Mind": «<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/22/2010-12-11">Chart Archive &gt; Scottish Singles &gt; 11 December 2010</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+<li><span class="reference-text">Para "Gold Forever": «<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/22/2011-03-26">Chart Archive &gt; Scottish Singles &gt; 26 March 2011</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+<li><span class="reference-text">Para "Glad You Came": «<a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/archive-chart/_/22/2011-07-23">Chart Archive &gt; Scottish Singles &gt; 23 July 2011</a>».  <a href="http://es.wikipedia.org/w/index.php?title=Official_Charts_Company&amp;action=edit&amp;redlink=1" class="new" title="Official Charts Company (aún no redactado)">Official Charts Company</a>. Consultado el 03-09-2011.</span></li>
+</ul>
+</li>
+<li id="cite_note-us-17"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-us_17-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.billboard.com/artist/the-wanted/166020#/artist/the-wanted/chart-history/166020">The Wanted Music News &amp; Info</a>».  Billboard.com. Consultado el 15-08-2012.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-18">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nztop40.co.nz/chart/singles?chart=1789">NZ Top 40 Singles Chart</a> The Official New Zealand Music Charts. www.nztop40.com. Retrieved on 2 January 2012.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-19">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://nztop40.co.nz/">NZ Top 40 Singles Chart | The Official New Zealand Music Chart</a>».  Nztop40.co.nz. Consultado el 15-08-2012.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-20">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://riaa.com/newsitem.php?content_selector=riaa-news-gold-and-platinum&amp;news_month_filter=4&amp;news_year_filter=2012&amp;id=593A3BE7-F153-753B-A504-E2B600DDD3F2">Recording Industry Association of America</a>».  RIAA. Consultado el 15-08-2012.</span></li>
+<li id="cite_note-ariacert-21"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-ariacert_21-0">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.aria.com.au/pages/httpwww.aria.com.aupagesSINGLEaccreds2012.htm">ARIA Charts - Accreditations - 2012 Singles</a>». <i><a href="http://es.wikipedia.org/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">Australian Recording Industry Association</a></i>.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-22">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.virginmedia.com/music/awards/winners.php?page=4">Virgin Media Music Awards - Best Group</a>».  <a href="http://es.wikipedia.org/wiki/Virgin_Media" title="Virgin Media">Virgin Media</a>. Consultado el 11 de febrero de 2011.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-23">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://industrymusicgroup.co.uk/industry-music-group-news/x-factor-live-booking-agent-4-music-video/">4 Music Video Honours</a>».  Industry Music Group (26 de octubre de 2010). Consultado el 11 de febrero de 2011.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-24">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.ok.co.uk/celebnews/view/30998/BRIT-Awards-2011-Cheryl-Cole-Matt-Cardle-The-Wanted-AND-Katy-Perry-all-nominated/">BRIT Awards 2011: Cheryl Cole, Matt Cardle, The Wanted and Katy Perry all nominated</a>». <i><a href="http://es.wikipedia.org/w/index.php?title=OK!_Magazine&amp;action=edit&amp;redlink=1" class="new" title="OK! Magazine (aún no redactado)">OK! Magazine</a></i>.  <a href="http://es.wikipedia.org/w/index.php?title=Northern_and_Shell_Media&amp;action=edit&amp;redlink=1" class="new" title="Northern and Shell Media (aún no redactado)">Northern and Shell Media</a> (13 de enero de 2011). Consultado el 11 de febrero de 2011.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-25">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.newsonnews.net/radio/9881-arqiva-commercial-radio-awards-2011-winners-announced.html">The Arqiva awards 2011</a>».</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-26">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.bbc.co.uk/radio1/teenawards/2011/winners/#p00kz6lk">BBC - Teen Awards - 2011 - Winners</a>».</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="The_Wanted#cite_ref-27">↑</a></span> <span class="reference-text">Millar, Paul (12 de enero de 2012). «<a rel="nofollow" class="external text" href="http://www.digitalspy.co.uk/music/news/a359857/brit-awards-2012-nominations-florence--the-machine-coldplay-more.html">Brit Awards 2012 nominations: Florence + the Machine, Coldplay, more</a>». <i><a href="http://es.wikipedia.org/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></i>.  <a href="http://es.wikipedia.org/w/index.php?title=Hearst_Magazines_UK&amp;action=edit&amp;redlink=1" class="new" title="Hearst Magazines UK (aún no redactado)">Hearst Magazines UK</a>. Consultado el 12 de enero de 2012.</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 8799/1000000
+Preprocessor generated node count: 27273/1500000
+Post‐expand include size: 42247/2048000 bytes
+Template argument size: 19137/2048000 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:5003191-0!*!0!!es!4!* and timestamp 20130411182859 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Obtenido de «<a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=66166188">http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=66166188</a>»				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://es.wikipedia.org/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:The_Wanted" title="Categoría:The Wanted">The Wanted</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Boy_bands" title="Categoría:Boy bands">Boy bands</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Grupos_de_pop_de_Inglaterra" title="Categoría:Grupos de pop de Inglaterra">Grupos de pop de Inglaterra</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Quintetos_musicales" title="Categoría:Quintetos musicales">Quintetos musicales</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Grupos_de_m%C3%BAsica_de_los_a%C3%B1os_2010" title="Categoría:Grupos de música de los años 2010">Grupos de música de los años 2010</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Wikipedia:Wikificar" title="Categoría:Wikipedia:Wikificar">Wikipedia:Wikificar</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Wikipedia:Wikificar_m%C3%BAsica" title="Categoría:Wikipedia:Wikificar música">Wikipedia:Wikificar música</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Menú de navegación</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Herramientas personales</h3>
+	<ul>
+<li id="pt-createaccount"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Entrar&amp;returnto=The+Wanted&amp;type=signup">Crear una cuenta</a></li><li id="pt-login"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Entrar&amp;returnto=The+Wanted" title="Te recomendamos iniciar sesión, sin embargo no es obligatorio [o]" accesskey="o">Ingresar</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Espacios de nombres</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="The_Wanted"  title="Ver el artículo [c]" accesskey="c">Artículo</a></span></li>
+					<li  id="ca-talk"><span><a href="http://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Wanted"  title="Discusión acerca del artículo [t]" accesskey="t">Discusión</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variantes</span><a href="The_Wanted#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Vistas</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="The_Wanted" >Leer</a></span></li>
+					<li id="ca-edit"><span><a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=edit"  title="Puedes editar esta página. Utiliza el botón de previsualización antes de guardar [e]" accesskey="e">Editar</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=history"  title="Versiones anteriores de esta página y sus autores [h]" accesskey="h">Ver historial</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Acciones</span><a href="The_Wanted#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Buscar</label></h3>
+	<form action="http://es.wikipedia.org/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Buscar en este wiki [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Busca páginas con este texto." id="searchButton"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/vector/images/search-ltr.png?303-4" alt="Buscar" width="12" height="13" /></button>								<input type='hidden' name="title" value="Especial:Buscar"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/8/8c/Wikipedia-logo-v2-es.png);" href="http://es.wikipedia.org/wiki/Wikipedia:Portada"  title="Visitar la página principal"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navegación</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="http://es.wikipedia.org/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li>
+			<li id="n-portal"><a href="http://es.wikipedia.org/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li>
+			<li id="n-currentevents"><a href="http://es.wikipedia.org/wiki/Portal:Actualidad" title="Información de contexto sobre acontecimientos actuales">Actualidad</a></li>
+			<li id="n-recentchanges"><a href="http://es.wikipedia.org/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li>
+			<li id="n-newpages"><a href="http://es.wikipedia.org/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li>
+			<li id="n-randompage"><a href="http://es.wikipedia.org/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li>
+			<li id="n-help"><a href="http://es.wikipedia.org/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li>
+			<li id="n-sitesupport"><a href="http://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li>
+			<li id="n-bug_in_article"><a href="http://es.wikipedia.org/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- coll-print_export -->
+<div class="portal" role="navigation" id='p-coll-print_export'>
+	<h3>Imprimir/exportar</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=The+Wanted">Crear un libro</a></li>
+			<li id="coll-download-as-rl"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Libro&amp;bookcmd=render_article&amp;arttitle=The+Wanted&amp;oldid=66166188&amp;writer=rl">Descargar como PDF</a></li>
+			<li id="t-print"><a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Herramientas</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="http://es.wikipedia.org/wiki/Especial:LoQueEnlazaAqu%C3%AD/The_Wanted" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li>
+			<li id="t-recentchangeslinked"><a href="http://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/The_Wanted" title="Cambios recientes en las páginas que enlazan con ésta [k]" accesskey="k">Cambios en enlazadas</a></li>
+			<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir imágenes o archivos multimedia [u]" accesskey="u">Subir un archivo</a></li>
+			<li id="t-specialpages"><a href="http://es.wikipedia.org/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li>
+			<li id="t-permalink"><a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;oldid=66166188" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li>
+			<li id="t-info"><a href="http://es.wikipedia.org/w/index.php?title=The_Wanted&amp;action=info">Información de la página</a></li>
+<li id="t-cite"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Citar&amp;page=The_Wanted&amp;id=66166188" title="Información de como citar esta página">Citar este artículo</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>En otros idiomas</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-diq"><a href="http://diq.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="diq" hreflang="diq">Zazaki</a></li>
+			<li class="interwiki-en"><a href="http://en.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-et"><a href="http://et.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="et" hreflang="et">Eesti</a></li>
+			<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D8%AF_%D9%88%D8%A7%D9%86%D8%AA%D8%AF" title="د وانتد" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%94%D7%95%D7%95%D7%A0%D7%98%D7%93" title="הוונטד" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%B3%E3%83%86%E3%83%83%E3%83%89" title="ザ・ウォンテッド" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%EB%8D%94_%EC%9B%90%ED%8B%B0%EB%93%9C" title="더 원티드" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-mk"><a href="http://mk.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="mk" hreflang="mk">Македонски</a></li>
+			<li class="interwiki-ms"><a href="http://ms.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-si"><a href="http://si.wikipedia.org/wiki/%E0%B6%AF_%E0%B7%80%E0%B7%9D%E0%B6%B1%E0%B7%8A%E0%B6%A7%E0%B6%A9%E0%B7%8A" title="ද වෝන්ටඩ්" lang="si" hreflang="si">සිංහල</a></li>
+			<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/The_Wanted" title="The Wanted" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="wbc-editpage"><a href="http://www.wikidata.org/wiki/Q34918" title="Editar enlaces de interlengua">Editar los enlaces</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Esta página fue modificada por última vez el 11 abr 2013, a las 18:28.</li>
+											<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="http://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+podrían ser aplicables cláusulas adicionales.
+Léanse los <a href="http://wikimediafoundation.org/wiki/T%C3%A9rminos_de_Uso">términos de uso</a> para más información.<br />
+Wikipedia&reg; es una marca registrada de la <a href="http://www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.<br /></li><li class="noprint"><a class="internal" href="http://es.wikipedia.org/wiki/Wikipedia:Contacto">Contacto</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Pol%C3%ADtica_de_protecci%C3%B3n_de_datos_(es)" title="wikimedia:Política de protección de datos (es)">Política de privacidad</a></li>
+											<li id="footer-places-about"><a href="http://es.wikipedia.org/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://es.wikipedia.org/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+											<li id="footer-places-mobileview"><a href="http://es.m.wikipedia.org/wiki/The_Wanted" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="http://bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.a-commons-directo","ext.gadget.refToolbar","ext.gadget.imagenesinfobox","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.articleFeedback.startup","ext.navigationTiming","mw.PopUpMediaTransform","skins.vector.js"],null,true);
+}</script>
+<script src="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1179 in 0.130 secs. -->
+	</body>
+</html>

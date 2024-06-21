@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+<title>BBVA</title>
+
+
+<script type="text/javascript">
+idx_def = "http://www.bbva.com/index_default.html";
+rec_sol = document.location.host + document.location.pathname.substring(0,document.location.pathname.lastIndexOf("/"));
+</script>
+
+<script type="text/javascript" src="http://www.bbva.com/productoV3.js"></script>
+</head>
+
+
+<body>
+
+<script type="text/javascript">
+
+rec_sol = noese(document.location.href);
+
+for (var x = 0; x < Producto.length ; x++)
+{
+   if ( rec_sol.indexOf(Producto[x].rop) != -1 ) break;
+}
+lia="";
+if ( x != Producto.length ) lia = Producto[x].lia;
+if (lia == ""  || !lia) lia = idx_def;
+top.location.href = lia;
+</script>
+
+</body>
+</html>
+

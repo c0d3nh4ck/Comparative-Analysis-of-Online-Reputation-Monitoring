@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr" class="client-nojs">
+<head>
+<title>Porsche - Wikipedia, la enciclopedia libre</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.22wmf1" />
+<link rel="alternate" type="application/x-wiki" title="Editar" href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit" />
+<link rel="edit" title="Editar" href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit" />
+<link rel="apple-touch-icon" href="http://es.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="http://bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://es.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (es)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://es.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Feed Atom de Wikipedia" href="http://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=ext.gadget.a-commons-directo%2Cimagenesinfobox%2CrefToolbar%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: eswiki:resourceloader:filter:minify-css:7:46f5d86c0a2c010a163d06c77b1a31b8 */</style>
+
+<script src="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Porsche","wgTitle":"Porsche","wgCurRevisionId":66164594,"wgArticleId":203456,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Empresas fundadas en 1931","Fabricantes de automóviles de Alemania"],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRelevantPageName":"Porsche","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgMFPhotoUploadEndpoint":"//commons.wikimedia.org/w/api.php","wgUseFormatCookie":{"name":"mf_mobileFormat","duration":-1,"path":"/","domain":"es.wikipedia.org"},"wgStopMobileRedirectCookie":{"name":"stopMobileRedirect","duration":30,"domain":".wikipedia.org","path":"/"},"wgMFPhotoUploadAppendToDesc":"{{Uploaded from Mobile|platform=Web|version=}}\n{{subst:unc}}","wgImagesDisabled":false,"wgMFMode":"stable","wgIsPageEditable":true,"wgPreferredVariant":"es","wgMFLoginHandshakeUrl":"//commons.wikimedia.org/wiki/Special:LoginHandshake?useformat=mobile","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"es","language":"es","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs104":true,"searchNs105":false,"searchNs828":false,"searchNs829":false,"gadget-a-commons-directo":1,"gadget-refToolbar":1,"gadget-imagenesinfobox":1});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":false});},{},{});
+/* cache key: eswiki:resourceloader:filter:minify-js:7:82efbd47f4cf9ee73a4163fccb30bb96 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.postEdit","wikibase.client.init","ext.centralNotice.bannerController"]);
+}</script>
+<script src="http://bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="http://meta.wikimedia.org/" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.22wmf1/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Porsche skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="es"><span dir="auto">Porsche</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">De Wikipedia, la enciclopedia libre</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Saltar a:					<a href="Porsche#mw-navigation">navegación</a>, 					<a href="Porsche#p-search">búsqueda</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><table class="infobox_v2" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;">
+<tr>
+<th class="cabecera humano" colspan="2" style="text-align:center; background-color:#C0C0C0;">Porsche</th>
+</tr>
+<tr class="">
+<td colspan="2" class="" style="text-align:center;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_wordmark.png" class="image" title="Porsche Font"><img alt="Porsche Font" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Porsche_wordmark.png/250px-Porsche_wordmark.png" width="250" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Porsche_wordmark.png/375px-Porsche_wordmark.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Porsche_wordmark.png/500px-Porsche_wordmark.png 2x" /></a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Lema</th>
+<td class="" style=""><i>There is no substitute</i></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Tipo</th>
+<td class="" style="">Sociedad Anónima<br />
+(Xetra: <a rel="nofollow" class="external text" href="http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/home?module=InOverview_Equi&amp;wp=DE0006937733&amp;foldertype=_Equi&amp;wplist=DE0006937733&amp;active=overview&amp;wpbpl=">POR3</a>)<br />
+(FWB: <a rel="nofollow" class="external text" href="http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/home?module=InOverview_Equi&amp;wp=DE0006937733&amp;wpbpl=FSE&amp;foldertype=_Equi&amp;lang=en&amp;wplist=DE0006937733&amp;timespan=1d&amp;view=InOverview_Equii">POR3</a>)</td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Fundación</th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/1931" title="1931">1931</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;"><a href="http://es.wikipedia.org/wiki/Emprendedor" title="Emprendedor">Fundador(es)</a></th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/Ferdinand_Porsche" title="Ferdinand Porsche">Ferdinand Porsche</a><br />
+<a href="http://es.wikipedia.org/wiki/Ferry_Porsche" title="Ferry Porsche" class="mw-redirect">Ferry Porsche</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Sede</th>
+<td class="" style=""><span class="flagicon"><img alt="Bandera de Alemania" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x" /></span> <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>, <a href="http://es.wikipedia.org/wiki/Alemania" title="Alemania">Alemania</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Ámbito</th>
+<td class="" style="">Mundial</td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;"><a href="http://es.wikipedia.org/wiki/Industria" title="Industria">Industria</a></th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/Industria_automovil%C3%ADstica" title="Industria automovilística">Automotriz</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Productos</th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/Autom%C3%B3vil" title="Automóvil">Automóviles</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Ingresos</th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/Euro" title="Euro">€</a>17.273 millones <small>(2010)</small>,<br />
+<a href="http://es.wikipedia.org/wiki/Euro" title="Euro">€</a>16.570 millones <small>(2009)</small></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;">Empleados</th>
+<td class="" style="">11.910</td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;"><a href="http://es.wikipedia.org/wiki/Holding" title="Holding">Matriz</a></th>
+<td class="" style=""><a href="http://es.wikipedia.org/wiki/Grupo_Volkswagen" title="Grupo Volkswagen">Grupo Volkswagen</a></td>
+</tr>
+<tr class="">
+<th class="" scope="row" style="text-align:left; background:#F0F0F0;"><a href="http://es.wikipedia.org/wiki/Sitio_web" title="Sitio web">Sitio web</a></th>
+<td class="" style=""><a rel="nofollow" class="external text" href="http://www.porsche.com/">www.porsche.com</a></td>
+</tr>
+</table>
+<p><b>Porsche AG</b>, también conocida como <b>Porsche SE</b> o <b>Porsche</b>, es una empresa automovilística <a href="http://es.wikipedia.org/wiki/Alemana" title="Alemana" class="mw-redirect">alemana</a> que fabrica <a href="http://es.wikipedia.org/wiki/Autom%C3%B3vil_deportivo" title="Automóvil deportivo">automóviles deportivos</a> de alta gama. Es el principal accionista con derecho a voto del <a href="http://es.wikipedia.org/wiki/Grupo_Volkswagen" title="Grupo Volkswagen">Grupo Volkswagen</a>,<sup id="cite_ref-1" class="reference"><a href="Porsche#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup> con el que en 2009 planteó su posible fusión.<sup id="cite_ref-2" class="reference"><a href="Porsche#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup> Fue fundada en <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a> en <a href="http://es.wikipedia.org/wiki/1931" title="1931">1931</a> por <a href="http://es.wikipedia.org/wiki/Ferdinand_Porsche" title="Ferdinand Porsche">Ferdinand Porsche</a> y su hijo <a href="http://es.wikipedia.org/w/index.php?title=Ferdinand_Anton_Ernst_Porsche&amp;action=edit&amp;redlink=1" class="new" title="Ferdinand Anton Ernst Porsche (aún no redactado)">Ferry Porsche</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Índice</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="Porsche#Historia"><span class="tocnumber">1</span> <span class="toctext">Historia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="Porsche#Ferdinand_Porsche"><span class="tocnumber">1.1</span> <span class="toctext">Ferdinand Porsche</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="Porsche#La_oficina_de_proyectos"><span class="tocnumber">1.1.1</span> <span class="toctext">La oficina de proyectos</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="Porsche#La_2.C2.AA_Guerra_Mundial"><span class="tocnumber">1.1.2</span> <span class="toctext">La 2ª Guerra Mundial</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="Porsche#Ferry_Porsche"><span class="tocnumber">1.2</span> <span class="toctext">Ferry Porsche</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="Porsche#Vuelta_a_Stuttgart"><span class="tocnumber">1.2.1</span> <span class="toctext">Vuelta a Stuttgart</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="Porsche#El_911_y_consolidaci.C3.B3n"><span class="tocnumber">1.3</span> <span class="toctext">El 911 y consolidación</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="Porsche#La_crisis_y_el_nuevo_despegue"><span class="tocnumber">1.4</span> <span class="toctext">La crisis y el nuevo despegue</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="Porsche#Modelos"><span class="tocnumber">2</span> <span class="toctext">Modelos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="Porsche#Serie_de_autos_deportivos_con_motor_b.C3.B3xer"><span class="tocnumber">2.1</span> <span class="toctext">Serie de autos deportivos con motor bóxer</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="Porsche#Serie_de_autos_deportivos_con_motor_en_l.C3.ADnea"><span class="tocnumber">2.2</span> <span class="toctext">Serie de autos deportivos con motor en línea</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="Porsche#Serie_de_autos_deportivos_con_motor_en_V"><span class="tocnumber">2.3</span> <span class="toctext">Serie de autos deportivos con motor en V</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="Porsche#Serie_de_berlina_de_lujo_con_motor_en_V"><span class="tocnumber">2.4</span> <span class="toctext">Serie de berlina de lujo con motor en V</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="Porsche#Veh.C3.ADculo_deportivo_utilitario"><span class="tocnumber">2.5</span> <span class="toctext">Vehículo deportivo utilitario</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="Porsche#Competici.C3.B3n"><span class="tocnumber">3</span> <span class="toctext">Competición</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="Porsche#Porsche_en_los_rallyes"><span class="tocnumber">3.1</span> <span class="toctext">Porsche en los rallyes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="Porsche#Porsche_356"><span class="tocnumber">3.1.1</span> <span class="toctext"><i>Porsche 356</i></span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="Porsche#Porsche_911_2.0"><span class="tocnumber">3.1.2</span> <span class="toctext"><i>Porsche 911 2.0</i></span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="Porsche#Porsche_911S_2.2_y_2.5"><span class="tocnumber">3.1.3</span> <span class="toctext"><i>Porsche 911S 2.2 y 2.5</i></span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="Porsche#Porsche_SC_y_911_RS"><span class="tocnumber">3.1.4</span> <span class="toctext"><i>Porsche SC y 911 RS</i></span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="Porsche#Porsche_911SC_RS"><span class="tocnumber">3.1.5</span> <span class="toctext"><i>Porsche 911SC RS</i></span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="Porsche#Porsche_959"><span class="tocnumber">3.1.6</span> <span class="toctext"><i>Porsche 959</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="Porsche#Porsche_en_los_circuitos"><span class="tocnumber">3.2</span> <span class="toctext">Porsche en los circuitos</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="Porsche#Porsche_935"><span class="tocnumber">3.2.1</span> <span class="toctext"><i>Porsche 935</i></span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="Porsche#Porsche_917"><span class="tocnumber">3.2.2</span> <span class="toctext"><i>Porsche 917</i></span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="Porsche#L.C3.ADnea_de_producci.C3.B3n"><span class="tocnumber">4</span> <span class="toctext">Línea de producción</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="Porsche#L.C3.ADnea_de_tiempo"><span class="tocnumber">4.1</span> <span class="toctext">Línea de tiempo</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="Porsche#Modelos_actuales"><span class="tocnumber">4.2</span> <span class="toctext">Modelos actuales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="Porsche#V.C3.A9ase_tambi.C3.A9n"><span class="tocnumber">5</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="Porsche#Referencias"><span class="tocnumber">6</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="Porsche#Enlaces_externos"><span class="tocnumber">7</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=1" title="Editar sección: Historia">editar</a>]</span> <span class="mw-headline" id="Historia">Historia</span></h2>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=2" title="Editar sección: Ferdinand Porsche">editar</a>]</span> <span class="mw-headline" id="Ferdinand_Porsche">Ferdinand Porsche</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="http://es.wikipedia.org/wiki/Ferdinand_Porsche" title="Ferdinand Porsche">Ferdinand Porsche</a></i>.</div>
+<p>Nació en <a href="http://es.wikipedia.org/w/index.php?title=Maffesdorf&amp;action=edit&amp;redlink=1" class="new" title="Maffesdorf (aún no redactado)">Maffesdorf</a> (entonces en <a href="http://es.wikipedia.org/wiki/Austria" title="Austria">Austria</a>, hoy en la <a href="http://es.wikipedia.org/wiki/Rep%C3%BAblica_Checa" title="República Checa">República Checa</a>), el <a href="http://es.wikipedia.org/wiki/3_de_septiembre" title="3 de septiembre">3 de septiembre</a> de <a href="http://es.wikipedia.org/wiki/1875" title="1875">1875</a> y fue el tercero de los 5 hijos de Anton Porsche, ingeniero y empresario. Desde adolescente se interesó por experimentar con la energía eléctrica. En <a href="http://es.wikipedia.org/wiki/1893" title="1893">1893</a> entró a trabajar en Brown Boveri, <a href="http://es.wikipedia.org/wiki/Viena" title="Viena">Viena</a>, una empresa del sector eléctrico. Demostró ser un gran profesional y ascendió rápidamente. Hacia <a href="http://es.wikipedia.org/wiki/1898" title="1898">1898</a> pasó a formar parte de la división de automóviles de Jacob Hans Bonza Lohner, también en Viena. En la exposición universal de <a href="http://es.wikipedia.org/wiki/1900" title="1900">1900</a>, en <a href="http://es.wikipedia.org/wiki/Par%C3%ADs" title="París">París</a>, se presentó el coche eléctrico Daimler-Porsche, propulsado por 4 motores eléctricos integrados en las ruedas del automóvil.</p>
+<p>Ferdinand pilotó sus propios diseños en carreras a principio del <a href="http://es.wikipedia.org/wiki/Siglo_XX" title="Siglo XX">s.XX</a> obteniendo algunas victorias. En <a href="http://es.wikipedia.org/wiki/1906" title="1906">1906</a> se convierte en director técnico de Austro-Daimler. Porsche ganó en <a href="http://es.wikipedia.org/wiki/1910" title="1910">1910</a> la <i>Prinz-Heinrich Farht</i> con un Austro-Daimler, ocupando otro de sus coches la 2ª plaza. Posteriormente es ascendido hasta director general. En <a href="http://es.wikipedia.org/wiki/1922" title="1922">1922</a> el Sascha gana la famosa Targa Florio en su clase (motor de 4 <a href="http://es.wikipedia.org/wiki/Cilindro_(motor)" title="Cilindro (motor)">cilindros</a> y 1.1 litros).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:1930_Mercedes-Benz_SSK_34_left.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1930_Mercedes-Benz_SSK_34_left.jpg/175px-1930_Mercedes-Benz_SSK_34_left.jpg" width="175" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/1930_Mercedes-Benz_SSK_34_left.jpg/263px-1930_Mercedes-Benz_SSK_34_left.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/1930_Mercedes-Benz_SSK_34_left.jpg/350px-1930_Mercedes-Benz_SSK_34_left.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:1930_Mercedes-Benz_SSK_34_left.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Mercedes-Benz SSK.</div>
+</div>
+</div>
+<p>En <a href="http://es.wikipedia.org/wiki/1923" title="1923">1923</a> es contratado por <a href="http://es.wikipedia.org/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes</a> como director técnico. Allí se encarga de desarrollar los motores con compresor de la marca, ganando en <a href="http://es.wikipedia.org/wiki/1924" title="1924">1924</a> la Targa Florio en la clasificación absoluta. Méritos que le hicieron ser nombrado doctor honoris causa en ingeniería por el <i>Technische Hochschule de <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a></i>. Porsche dejó su impronta en <a href="http://es.wikipedia.org/wiki/Mercedes-Benz" title="Mercedes-Benz">Mercedes-Benz</a> para toda la historia, ya que se encargó del diseño de los magníficos Mercedes-Benz S, SS y SSK.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=3" title="Editar sección: La oficina de proyectos">editar</a>]</span> <span class="mw-headline" id="La_oficina_de_proyectos">La oficina de proyectos</span></h4>
+<p>Tras un breve paso por <a href="http://es.wikipedia.org/wiki/Steyr-Daimler-Puch" title="Steyr-Daimler-Puch">Steyr</a>, creó su oficina de ingeniería y diseño el <a href="http://es.wikipedia.org/wiki/25_de_abril" title="25 de abril">25 de abril</a> de <a href="http://es.wikipedia.org/wiki/1931" title="1931">1931</a> en <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>. El primer proyecto se denominó nº 7 porque no querían que se supiese que era el primero. Su primer encargo relevante fue el de <a href="http://es.wikipedia.org/wiki/Auto_Union" title="Auto Union">Auto Union</a> para un monoplaza de gran premio con motor de 16 cilindros: el Auto Union P-Wagen (Porsche tipo 22), que ganó una de cada dos carreras en las que participó.</p>
+<p>Porsche pensaba desde hacía tiempo la construcción de un automóvil de calidad y popular, que no fuese una versión de juguete de las berlinas tradicionales. Este deseo pudo materializarse gracias al encargo recibido por parte de la administración <a href="http://es.wikipedia.org/wiki/Nazi" title="Nazi" class="mw-redirect">nazi</a> durante el año 1934. De esta forma en el taller de proyectos de Zuffenhausen (Stuttgart) nace el primer prototipo de prueba <a href="http://es.wikipedia.org/wiki/Volkswagen" title="Volkswagen">Volkswagen</a> denominado "V 1", a este le siguieron otros prototipos como el "V 3" y finalmente el "VW 30". Entonces corría el año <a href="http://es.wikipedia.org/wiki/1938" title="1938">1938</a> y la guerra estaba a punto de estallar, con lo que los planes para producir en masa el <a href="http://es.wikipedia.org/wiki/Volkswagen_Tipo_1" title="Volkswagen Tipo 1" class="mw-redirect">Volkswagen Tipo 1</a> quedaron aparcados, fabricándose en 1940 una versión militar del mismo.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=4" title="Editar sección: La 2ª Guerra Mundial">editar</a>]</span> <span class="mw-headline" id="La_2.C2.AA_Guerra_Mundial">La 2ª Guerra Mundial</span></h4>
+<p>Durante la <a href="http://es.wikipedia.org/wiki/Segunda_Guerra_Mundial" title="Segunda Guerra Mundial">guerra</a> el estudio de Porsche se ocupó del diseño de material bélico tanto como el <a href="http://es.wikipedia.org/wiki/Tanque" title="Tanque" class="mw-redirect">tanque</a> Mouse o la versión anfibia y todo-terreno del Volkswagen (<a href="http://es.wikipedia.org/wiki/Kubelwagen" title="Kubelwagen" class="mw-redirect">Kubelwagen</a>).</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Vwkybelwagen2.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vwkybelwagen2.jpg/175px-Vwkybelwagen2.jpg" width="175" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vwkybelwagen2.jpg/263px-Vwkybelwagen2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Vwkybelwagen2.jpg/350px-Vwkybelwagen2.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Vwkybelwagen2.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Volkswagen Kübelwagen.</div>
+</div>
+</div>
+<p>Los bombardeos aliados forzaron al traslado de la Porsche desde sus instalaciones de Zuffenhausen a Gmünd, Austria, en 1944. En 1945, tras la guerra, como parte de las reparaciones de guerra, VW fue ofrecida a los franceses. Sin embargo, las objeciones de la industria francesa hicieron que no se llevara a cabo el traslado. Ferdinand Porsche, junto con su hijo Ferry y su yerno Anton Piëch (abuelo de Ferdinand Piëch, futuro presidente de VW), fueron arrestados y encarcelados en un presidio medieval en Dijon, Francia, por haber utilizado mano de obra esclava en su fábrica Nibelungenwerke donde producía vehículos militares para los nazis. Ferry se libraría pronto de la condena, pero Ferdinand y Piëch estuvieron condenados 2 años sin juicio previo. Durante ese confinamiento, fue forzado a trabajar en diseños para Renault, del que saldría el futuro modelo 4CV.</p>
+<p>Su hijo Ferry Porsche trató de recuperar la compañía, arreglando además otros vehículos y motores, y haciendo prototipos para terceros, como el 360 Cisitalia de competición, con 4 ruedas motrices y un motor 1.5 sobrealimentado para el industrial italiano Piero Dusio, proyecto que fue revisado por Ferdinand a su salida de prisión y que le llenó de orgullo por lo bien realizado que estaba el trabajo de su hijo.</p>
+<p>Ferry presentaría el primer modelo de la actual marca Porsche, el 356, en junio de 1948, basado en el VW. Los primeros beneficios del vehículo se utilizaron para librar a su padre de la prisión. El 356 inicialmente se fabricaría artesanalmente en la localidad austríaca de Gmünd, y más tarde, en 1949, se trasladarían la familia Porsche y la producción a Stuttgart.</p>
+<p>Ferdinand Porsche fue contratado también por VW como consultor, y recibió un royalty por cada "Volkswagen Tipo 1 " producido, lo que proporcionó notables ingresos a la familia, dado el éxito del modelo que tenía su tapiceria de seda.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:PorscheNo1.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PorscheNo1.jpg/175px-PorscheNo1.jpg" width="175" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PorscheNo1.jpg/263px-PorscheNo1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/PorscheNo1.jpg/350px-PorscheNo1.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:PorscheNo1.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+El primer Porsche, el 356 original de 1948.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_550_Spyder.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/175px-Porsche_550_Spyder.jpg" width="175" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/263px-Porsche_550_Spyder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/350px-Porsche_550_Spyder.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_550_Spyder.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 550 Spyder, famoso por el accidente mortal de <a href="http://es.wikipedia.org/wiki/James_Dean" title="James Dean">James Dean</a>.</div>
+</div>
+</div>
+<p>A finales de 1950, sufrió un accidente cerebrovascular, del cual no se recuperaría, y moriría semanas más tarde, el 30 de enero de 1951, viendo circular por la carretera los deportivos con su nombre.</p>
+<p>En 1999, póstumamente, fue nombrado Ingeniero Automovilístico del Siglo XX.</p>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=5" title="Editar sección: Ferry Porsche">editar</a>]</span> <span class="mw-headline" id="Ferry_Porsche">Ferry Porsche</span></h3>
+<p>Ferry Porsche nació el <a href="http://es.wikipedia.org/wiki/19_de_septiembre" title="19 de septiembre">19 de septiembre</a> de <a href="http://es.wikipedia.org/wiki/1909" title="1909">1909</a>, fue colaborador de su padre desde que en <a href="http://es.wikipedia.org/wiki/1931" title="1931">1931</a> abriese su propia oficina de proyectos y fue adquiriendo responsabilidades. Ferry fue el responsable del departamento de investigación y desarrollo en el proyecto Volkswagen. Ferry junto a Karl Rabe y <a href="http://es.wikipedia.org/wiki/Erwin_Komenda" title="Erwin Komenda">Erwin Komenda</a> comienzan en <a href="http://es.wikipedia.org/wiki/1947" title="1947">1947</a> el estudio de un deportivo biplaza sobre el Volkswagen, el proyecto nº356 que se convertiría en el primer Porsche 356, el primero de la historia de la marca. El Porsche original es un roadster biplaza con motor central y carrocería de <a href="http://es.wikipedia.org/wiki/Aluminio" title="Aluminio">aluminio</a>. El motor era de Volkswagen, pero modificado para dar 35CV a 4000 <a href="http://es.wikipedia.org/wiki/Revoluciones_por_minuto" title="Revoluciones por minuto">rpm</a>. Este primer 356 era muy diferente de los posteriores 356 de serie. Este prototipo salió del taller de Porsche en Gmünd (una vieja serrería).</p>
+<p>Por motivos de costes y practicidad, el prototipo se fue modificando para dar el 356 coupé con motor trasero, marcando una tradición en Porsche hasta hoy. En <a href="http://es.wikipedia.org/wiki/1948" title="1948">1948</a> la producción del 356 en Austria fue lenta porque faltaba de todo. A partir de <a href="http://es.wikipedia.org/wiki/1949" title="1949">1949</a>, y tras la vuelta a Stuttgart, mejoró el ritmo de producción, por lo que pidió la participación del carrocero alemán Reutter, 14 años después Porsche compraría todas las acciones de Reutter Gmbh. En el <a href="http://es.wikipedia.org/wiki/Sal%C3%B3n_del_Autom%C3%B3vil_de_Ginebra" title="Salón del Automóvil de Ginebra">Salón del Automóvil de Ginebra</a> de 1949 se presentaron por primera vez los Porsche 356 coupé y cabrio.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=6" title="Editar sección: Vuelta a Stuttgart">editar</a>]</span> <span class="mw-headline" id="Vuelta_a_Stuttgart">Vuelta a Stuttgart</span></h4>
+<p>En el verano de 1949 se preparan para el traslado de la producción a Stuttgart, ya que sabían que el ejército estadounidense dejaría libre las instalaciones de Zuffenhausen al cabo de un año. A comienzos de <a href="http://es.wikipedia.org/wiki/A%C3%B1os_1950" title="Años 1950">los 50</a> se firma un acuerdo entre Volkswagen y Porsche por el que el primero suministrara componentes al segundo.</p>
+<p>El último Porsche austriaco se fabrica el <a href="http://es.wikipedia.org/wiki/20_de_marzo" title="20 de marzo">20 de marzo</a> de <a href="http://es.wikipedia.org/wiki/1951" title="1951">1951</a>, tras haber producido unos sesenta coupés con carrocería de aluminio. Los nuevos 356 alemanes serán con carrocería de <a href="http://es.wikipedia.org/wiki/Acero" title="Acero">acero</a>. El primero de estos sale en marzo de <a href="http://es.wikipedia.org/wiki/1950" title="1950">1950</a>. En 1951, Porsche debuta oficialmente en competición, ganando las <a href="http://es.wikipedia.org/wiki/24_Horas_de_Le_Mans" title="24 Horas de Le Mans">24 Horas de Le Mans</a> en la categoría hasta 1100cc.</p>
+<p>En el año <a href="http://es.wikipedia.org/wiki/1952" title="1952">1952</a> es creado el emblema actual de Porsche, compuesto por tres patrones. El primer patrón es el nombre de la compañía, ubicado en la parte superior del emblema. El segundo es el escudo de armas del antiguo Estado del Pueblo Libre de <a href="http://es.wikipedia.org/wiki/W%C3%BCrttemberg" title="Württemberg" class="mw-redirect">Württemberg</a> del cual <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a> era capital y que luego pasó a hacer parte del actual <a href="http://es.wikipedia.org/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg" class="mw-redirect">Baden-Württemberg</a> en la consolidación política de la <a href="http://es.wikipedia.org/wiki/Rep%C3%BAblica_Federal_de_Alemania" title="República Federal de Alemania" class="mw-redirect">República Federal de Alemania</a> en 1949. Este patrón se ubica en la parte posterior del emblema y está conformado por dos recuadros con franjas negras y rojas y otros dos recuadros con cuernos, símbolos del estado. El tercer patrón que se ubica en frente del emblema es el escudo de armas de la ciudad de <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a> y se caracteriza por el caballo negro sobre fondo amarillo.</p>
+<p><br />
+En <a href="http://es.wikipedia.org/wiki/1955" title="1955">1955</a> se presenta el 356A. Coincidiendo con el 25 aniversario de la fundación de la oficina de diseño Porsche, sale de la cadena de producción el Porsche nº 10000, un 356A coupé. Poco a poco los Porsche van perdiendo su herencia Volkswagen con motores cada vez más potentes y de mayor cilindrada, como lo demuestra el 356A Carrera 1500 de <a href="http://es.wikipedia.org/wiki/1956" title="1956">1956</a> que desarrollaba 100 CV y alcanzaba los 200km/h. También en la década de los 50 se incorpora la segunda fábrica en Zuffenhausen. En el <a href="http://es.wikipedia.org/wiki/Sal%C3%B3n_del_Autom%C3%B3vil_de_Frankfurt" title="Salón del Automóvil de Frankfurt" class="mw-redirect">Salón del Automóvil de Frankfurt</a> de <a href="http://es.wikipedia.org/wiki/1959" title="1959">1959</a> se presenta el 356B. El <a href="http://es.wikipedia.org/wiki/1_de_noviembre" title="1 de noviembre">1 de noviembre</a> de <a href="http://es.wikipedia.org/wiki/1960" title="1960">1960</a> entró en funcionamiento la fábrica nº3 y dos meses más tarde sale el Porsche 356 nº 40000.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:127px;"><a href="http://es.wikipedia.org/wiki/Archivo:Austria_Gmuend_Porsche_Museum09.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Austria_Gmuend_Porsche_Museum09.jpg/125px-Austria_Gmuend_Porsche_Museum09.jpg" width="125" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Austria_Gmuend_Porsche_Museum09.jpg/188px-Austria_Gmuend_Porsche_Museum09.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Austria_Gmuend_Porsche_Museum09.jpg/250px-Austria_Gmuend_Porsche_Museum09.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Austria_Gmuend_Porsche_Museum09.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche RSK Spyder, 1959.</div>
+</div>
+</div>
+<p>La última generación del primer modelo de la marca salió al mercado en <a href="http://es.wikipedia.org/wiki/1963" title="1963">1963</a> bajo la denominación 356C, que permaneció en producción hasta el <a href="http://es.wikipedia.org/wiki/28_de_abril" title="28 de abril">28 de abril</a> de <a href="http://es.wikipedia.org/wiki/1965" title="1965">1965</a>, después de 17 años de éxitos y 76.302 unidades fabricadas. Para entonces ya había cientos de 911 rodando por las carreteras.</p>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=7" title="Editar sección: El 911 y consolidación">editar</a>]</span> <span class="mw-headline" id="El_911_y_consolidaci.C3.B3n">El 911 y consolidación</span></h3>
+<p>A mediados de los 50, en Porsche se pensaba en la necesidad de crear un sustituto del 356. Tenía que ser un coche nuevo porque el margen de evolución del 356 ya era muy limitado por su origen Volkswagen. Este nuevo modelo se convirtió en la prioridad de los ingenieros y diseñadores de la marca. Para su concepción había sólo dos premisas básicas: el <a href="http://es.wikipedia.org/wiki/Motor" title="Motor">motor</a> debía ser trasero y estar refrigerado por aire (como en el 356). En las posteriores reuniones entre Ferry y sus colaboradores se fueron concretando características del vehículo: se prefería un motor <i>boxer</i>, debía ser más largo que su predecesor para dejar más espacio a los pasajeros y la cola del coche tenía que ser tipo <i>fastback</i>. Al final se decidió sacrificar el espacio destinado a los pasajeros traseros, dejándolo como un 2+2.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_911E_ca_1969.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_911E_ca_1969.jpg/175px-Porsche_911E_ca_1969.jpg" width="175" height="105" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_911E_ca_1969.jpg/263px-Porsche_911E_ca_1969.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_911E_ca_1969.jpg/350px-Porsche_911E_ca_1969.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_911E_ca_1969.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 911.</div>
+</div>
+</div>
+<p>El diseño elegido para el nuevo modelo fue obra de Butzi Porsche, hijo de Ferry, cuyas formas básicas han perdurado por 40 años. Para el motor, la decisión final fue optar por un nuevo 6 cilindros boxer, refrigerado por aire, 1991 <a href="http://es.wikipedia.org/wiki/Cent%C3%ADmetro_c%C3%BAbico" title="Centímetro cúbico">cc</a>. y 130 CV, obra del ingeniero Hans Mezger, cuya base se a utilizado en el 911 hasta la generación 997, que data de finales de 2011, y en cuyo impresionante palmarés figuran victorias en rallyes como el Monte Carlo, Le Mans, CanAm, Dakar, F1, etc. En el desarrollo del motor también intervino un joven <a href="http://es.wikipedia.org/wiki/Ferdinand_Pi%C3%ABch" title="Ferdinand Piëch">Ferdinand Piëch</a> Porsche, el ingeniero que creó el <a href="http://es.wikipedia.org/wiki/Audi" title="Audi">Audi</a> Quattro y que llegó a ser presidente del grupo Volkswagen.</p>
+<p>Así, en el Salón del Automóvil de Frankfurt de <a href="http://es.wikipedia.org/wiki/1963" title="1963">1963</a> se presentaba el nuevo Porsche 901. <a href="http://es.wikipedia.org/wiki/Peugeot" title="Peugeot">Peugeot</a> reclamó el derecho exclusivo de utilizar nombres de tres cifras con un cero en medio por lo que, para evitar problemas, Porsche cedió y el <a href="http://es.wikipedia.org/wiki/10_de_noviembre" title="10 de noviembre">10 de noviembre</a> de <a href="http://es.wikipedia.org/wiki/1964" title="1964">1964</a> nace la denominación <b><a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">911</a></b>.</p>
+<p>Según la gama 911 se diversificaba con versiones más potentes, también se encarecía. Esto alejaba al 911 de muchos compradores potenciales. Por eso, y para dar un sustituto de 4 cilindros al 356, salió una versión económica del 911, equipado con un motor 1600 y equipamiento reducido. El 911 de 4 cilindros se denominó 912, era un 25% más barato y con 90 CV, aunque renunciaba a las altas prestaciones. El 912 tuvo un gran éxito tanto en <a href="http://es.wikipedia.org/wiki/Europa" title="Europa">Europa</a> como en <a href="http://es.wikipedia.org/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a> y en tres años se vendieron más de 30000 unidades.</p>
+<p><a href="http://es.wikipedia.org/wiki/1969" title="1969">1969</a> fue un año importante: se renueva el 911, que pasa de 2.0 a 2.2 (en versiones T, E y S con 125, 155 y 180 CV respectivamente) y el 912 es sustituido por el 914, modelo muy criticado pero que se vendió bien. Durante los 70 el 911 siguió evolucionando y aumentando de cilindrada y potencia. En <a href="http://es.wikipedia.org/wiki/1973" title="1973">1973</a> aparece el 911 Carrera RS, versión deportiva pensada para la homologación para la competición y con 210 CV que en su versión de calle se vendió mejor de lo esperado. En <a href="http://es.wikipedia.org/wiki/1975" title="1975">1975</a> se retira el 914 tras casi 120.000 coches vendidos. En <a href="http://es.wikipedia.org/wiki/1974" title="1974">1974</a>, el 911 sufre sus primeras modificaciones estéticas de relevancia con la llegada del 911 2.7.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Carrera_RS_white_-_blue.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Porsche_Carrera_RS_white_-_blue.jpg/175px-Porsche_Carrera_RS_white_-_blue.jpg" width="175" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Porsche_Carrera_RS_white_-_blue.jpg/263px-Porsche_Carrera_RS_white_-_blue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Porsche_Carrera_RS_white_-_blue.jpg/350px-Porsche_Carrera_RS_white_-_blue.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Carrera_RS_white_-_blue.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+1972 Porsche Carrera RS.</div>
+</div>
+</div>
+<p>En la segunda mitad de <a href="http://es.wikipedia.org/wiki/A%C3%B1os_1970" title="Años 1970">los 70</a> la gama se fue enriqueciendo y ampliando con nuevos modelos: el 930/911 Turbo, el 912E, el 924 y el 928. Este último se había ideado como sustituto del 911 y era radicalmente distinto: motor V8 delantero, refrigerado por agua y un equipamiento abundante y lujoso. En <a href="http://es.wikipedia.org/wiki/1978" title="1978">1978</a>, al 928 se le otorgó el título de coche del año en <a href="http://es.wikipedia.org/wiki/Europa" title="Europa">Europa</a>, siendo el único gran turismo en alzarse con este galardón. Siguiendo la línea iniciada con el 924 y el 928, en <a href="http://es.wikipedia.org/wiki/1981" title="1981">1981</a> se les une el 944.</p>
+<p>Cuando el 911 debería haber concluido sus días bajo el peso del 944 y el 928, no fue así, y en <a href="http://es.wikipedia.org/wiki/1983" title="1983">1983</a> se le añade una versión cabrio al 911SC. El 911, en vez de ir al cementerio, renace en <a href="http://es.wikipedia.org/wiki/1984" title="1984">1984</a>. Recibió un rediseño profundo y se convierte en el 911 Carrera 3.2 con 231 CV, que terminó siendo una de las gamas más amplias de este modelo: coupé, targa, cabrio, speedster, más la opción turbo look y el propio 911 Turbo 3.3 de 300 CV.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_(22).jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg/175px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg" width="175" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg/263px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg/350px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2822%29.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_(22).jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+1987 <a href="http://es.wikipedia.org/wiki/Porsche_928" title="Porsche 928">Porsche 928</a> S4.</div>
+</div>
+</div>
+<p>Pensado para competir en el grupo B, aparece el primer Porsche 4x4, el 959, presentado como prototipo en <a href="http://es.wikipedia.org/wiki/1984" title="1984">1984</a>. Debutó en competición en el <a href="http://es.wikipedia.org/wiki/Par%C3%ADs-Dakar" title="París-Dakar" class="mw-redirect">París-Dakar</a> 1985. Los retrasos en la producción supusieron que no pudiese ser homologado antes de la prohibición del grupo B en <a href="http://es.wikipedia.org/wiki/1987" title="1987">1987</a>, por lo que el Super-Porsche no pudo llegar al <a href="http://es.wikipedia.org/wiki/Campeonato_Mundial_de_Rally" title="Campeonato Mundial de Rally">mundial de rally</a>. Los 250 ejemplares fabricados se convirtieron, junto al <a href="http://es.wikipedia.org/wiki/Ferrari_F40" title="Ferrari F40">Ferrari F40</a> y al <a href="http://es.wikipedia.org/wiki/Lamborghini_Countach" title="Lamborghini Countach">Lamborghini Countach</a>, en los <a href="http://es.wikipedia.org/wiki/Superdeportivo" title="Superdeportivo" class="mw-redirect">superdeportivos</a> por excelencia de <a href="http://es.wikipedia.org/wiki/A%C3%B1os_1980" title="Años 1980">los 80</a>. Actualmente el 911 es el "Buque insignia" de la marca.</p>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=8" title="Editar sección: La crisis y el nuevo despegue">editar</a>]</span> <span class="mw-headline" id="La_crisis_y_el_nuevo_despegue">La crisis y el nuevo despegue</span></h3>
+<p>Desde finales de los 1980 los resultados y las ventas de la empresa se resienten y se empiezan a acumular fracasos. Se estaba cocinando una crisis que llegó a poner en entredicho la supervivencia de Porsche a principios de <a href="http://es.wikipedia.org/wiki/A%C3%B1os_1990" title="Años 1990">los 1990</a>. En 1984, las ventas de Porsche eran de 50.000 coches; a principios de la nueva década eran la mitad. Especialmente alarmante fue la caída de ventas en <a href="http://es.wikipedia.org/wiki/Estados_Unidos" title="Estados Unidos">Estados Unidos</a>: en <a href="http://es.wikipedia.org/wiki/1984" title="1984">1984</a> absorbía el 50% de la producción mientras que en <a href="http://es.wikipedia.org/wiki/1991" title="1991">1991</a> sólo se consiguió vender 6.000 Porsches.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:2009-07-05_red_Porsche_997_GT3_(MY_2010)_Goodwood.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg/175px-2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg" width="175" height="117" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg/263px-2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg/350px-2009-07-05_red_Porsche_997_GT3_%28MY_2010%29_Goodwood.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:2009-07-05_red_Porsche_997_GT3_(MY_2010)_Goodwood.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+2009 <a href="http://es.wikipedia.org/wiki/Porsche_911_GT3_RS" title="Porsche 911 GT3 RS">Porsche 997 GT3</a>.</div>
+</div>
+</div>
+<p>Esto se reflejó en la gama de modelos. En <a href="http://es.wikipedia.org/wiki/1988" title="1988">1988</a> se retira el 924, sin ser sustituido. En <a href="http://es.wikipedia.org/wiki/1991" title="1991">1991</a> aparece la última versión del 928, el 928GTS que sería retirado sin pena ni gloria en <a href="http://es.wikipedia.org/wiki/1995" title="1995">1995</a>. También en 1991 se presentó el 968 como sustituto del 944, que fue un rotundo fracaso. Se dejó de fabricar en <a href="http://es.wikipedia.org/wiki/1995" title="1995">1995</a> después de 11.602 unidades ensambladas, muchas menos de lo previsto. El 911 estaba envejeciendo frente a la competencia, debía cambiar y en <a href="http://es.wikipedia.org/wiki/1989" title="1989">1989</a> se presenta el 911/964 con un motor que ofrecía 250 CV, que tenía la misión de ser el sostén de Porsche para los siguientes años. Fue el primer modelo de Porsche en llevar tracción a las cuatro ruedas, con lo que se formaba el primer <i>Carrera 4</i>. El nuevo 911 fue incapaz de cumplir con su misión. Además, la construcción del 911/964 resultó ser muy cara.</p>
+<p>Con este panorama, Porsche entró en la década de los 90 con una enorme preocupación. Sólo les quedaba una carta y no podían equivocarse. Se tenía que simplificar la gama para recortar gastos y había que concentrar los recursos financieros en la creación de un 911 de éxito. Se encargó a un veterano de la marca, Peter Falk, la elaboración de un amplio dossier sobre el que se definirían las pautas de desarrollo del futuro 911/993. En este dossier se antepone ante todo la agilidad. Así el nuevo modelo debía girar en torno a agilidad, comportamiento y juventud. Para mejorar la agilidad se decidió rediseñar por completo el tren trasero. Al final el 911/993 no heredó nada del 964 a excepción de la línea del techo. Por otro lado, la simplificación de la gama fue radical, quedando el 911/993 como único modelo durante algunos meses en 1995-1996.</p>
+<p>El 911 Carrera coupé (993) debutó en diciembre de <a href="http://es.wikipedia.org/wiki/1993" title="1993">1993</a>, con un nuevo motor que ofrecía 272 CV. El 993, a diferencia de su antecesor, sí fue un éxito; se recuperaron las ventas y fue rentable. Esto hizo que con el tiempo el 993 fuese ampliando el número de carrocerías y recibiese un ligero aumento de potencia hasta 282 CV. A la gama 993 se le añade el nuevo Turbo de 408 CV en <a href="http://es.wikipedia.org/wiki/1995" title="1995">1995</a>, y más tarde, llegó el Turbo S de 450 CV. en edición limitada.</p>
+<p>Al conseguir superar el bache económico, la marca se animó a producir el Boxster en primavera del 96, aunque el prototipo había sido presentado tres años antes. El Boxster se había desarrollado en conjunto con el futuro 911/996 que saldría en 1997. El objetivo era que ambos vehículos compartiesen el mayor número de piezas posible para contener los costes y mejorar la productividad (dos causas de los problemas económicos antes mencionados).</p>
+<p><a href="http://es.wikipedia.org/wiki/1997" title="1997">1997</a> fue un buen año para Porsche. Se había dejado atrás las dificultades, el 993 era un éxito, el Boxster se vendía bien, se empezaba a recuperar su imagen y la gestión realizada por el nuevo presidente, Wendelin Wiedeking, parecía eficiente. Además, salía al mercado el nuevo 911, el primero con motor refrigerado por agua. Este fue el último modelo de la marca a cuya presentación acudió Ferry Porsche, que murió el <a href="http://es.wikipedia.org/wiki/27_de_marzo" title="27 de marzo">27 de marzo</a> de <a href="http://es.wikipedia.org/wiki/1998" title="1998">1998</a>. En <a href="http://es.wikipedia.org/wiki/2003" title="2003">2003</a>, Porsche celebra el 40 aniversario del 911 de la mejor forma posible porque el 911/996 se convirtió en uno de los mejor vendidos de esta longeva saga, y lo hizo con una edición limitada de 1963 ejemplares del 911, con un diseño mezcla del 911 básico y el Carrera 4S, y una evolución del motor hasta 345 CV.</p>
+<p>En <a href="http://es.wikipedia.org/wiki/2002" title="2002">2002</a>, Porsche inaugura su nueva fábrica en <a href="http://es.wikipedia.org/wiki/Leipzig" title="Leipzig">Leipzig</a>, de donde salen los nuevos Cayenne, el primer Porsche todo-terreno y el primero en poder ser utilizado para viajar con la familia. El Cayenne suponía entrar en un segmento mucho más grande que el de los deportivos, como lo demuestra su nivel de ventas, en torno a 30.000 unidades anuales. Fue un éxito rotundo. En <a href="http://es.wikipedia.org/wiki/2003" title="2003">2003</a>, se añade el <a href="http://es.wikipedia.org/wiki/Superdeportivo" title="Superdeportivo" class="mw-redirect">superdeportivo</a> Carrera GT de 612 CV. Al año siguiente se renuevan el Boxster (987) y el 911 (997), y en 2005 aparece un quinto modelo, el Cayman derivado del 987 y el 997. En el año 2008, Porsche presenta el nuevo 997 MkII. Esta renovación hace cambiar los faros delanteros y traseros, incorporándose a las últimas modas de los LED. Una de las grandes incorporaciones al 997 MkII es la nueva caja automática de Porsche (PDK), dejando atrás a la caja Tiptronic. Una de las características de esta nueva caja de cambios es la de incorporar unas levas en el volante, con las que al accionarlas, se cambia de marcha. Los siguientes modelos de Porsche incorporarán la PDK. También ha anunciado su intención de comercializar una berlina de 4 puertas para 2009 con el nombre de <a href="http://es.wikipedia.org/wiki/Porsche_Panamera" title="Porsche Panamera">Panamera</a>, y recientemente también se rumora acerca de un supercoupé derivado de esa berlina.</p>
+<p>En la actualidad el hijo de Volkswagen vuelve a casa y, Porsche vuelve a estar bajo la tutela de VW, al ser esta la propietaria mayoritaria de la misma.</p>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=9" title="Editar sección: Modelos">editar</a>]</span> <span class="mw-headline" id="Modelos">Modelos</span></h2>
+<table class="wikitable">
+<tr style="background:#CCCCCC">
+<th>Años</th>
+<th>Modelo</th>
+<th>Observación</th>
+<th>Imagen</th>
+</tr>
+<tr style="background:#EEEEEE">
+<th colspan="4">
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=10" title="Editar sección: Serie de autos deportivos con motor bóxer">editar</a>]</span> <span class="mw-headline" id="Serie_de_autos_deportivos_con_motor_b.C3.B3xer">Serie de autos deportivos con <a href="http://es.wikipedia.org/wiki/Motor_b%C3%B3xer" title="Motor bóxer">motor bóxer</a></span></h4>
+</th>
+</tr>
+<tr>
+<td><b>1948 – 1965</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_356" title="Porsche 356">Porsche 356</a></td>
+<td>El primer coche de producción de Porsche y un antepasado directo del Porsche 911. Fue vendido como 356, 356 A, 356 B, 356 C</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_356A-1600_AH-85-54.JPG" class="image"><img alt="Porsche 356A-1600 AH-85-54.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Porsche_356A-1600_AH-85-54.JPG/100px-Porsche_356A-1600_AH-85-54.JPG" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Porsche_356A-1600_AH-85-54.JPG/150px-Porsche_356A-1600_AH-85-54.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Porsche_356A-1600_AH-85-54.JPG/200px-Porsche_356A-1600_AH-85-54.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1954 – 1956</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_550" title="Porsche 550">Porsche 550</a></td>
+<td>Uno de los coches de carreras Porsche 356 desarrollado, se vendió en pequeños cantidades a los clientes</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_550_Spyder.jpg" class="image"><img alt="Porsche 550 Spyder.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/100px-Porsche_550_Spyder.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/150px-Porsche_550_Spyder.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_550_Spyder.jpg/200px-Porsche_550_Spyder.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1964 – 1989</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">Porsche 911</a></td>
+<td>El clásico y el más conocido de la producción de automóviles deportivos de Porsche. Fue introducido en el <a href="http://es.wikipedia.org/wiki/Sal%C3%B3n_del_Autom%C3%B3vil_de_Fr%C3%A1ncfort" title="Salón del Automóvil de Fráncfort">Salón del Automóvil de Fráncfort</a> en 1963, por primera vez como un Porsche 901. El nuevo Porsche 901 al final pasó a llamarse 911 debido a que Peugeot tenía reservados los números de tres cifras con un cero en medio para nombrar a sus modelos.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg" class="image"><img alt="1969 silver Porsche 911E coupé Auto Salon Singen Germany.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg/100px-1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg" width="100" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg/150px-1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg/200px-1969_silver_Porsche_911E_coup%C3%A9_Auto_Salon_Singen_Germany.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1965 – 1969 y 1976</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_912_.281965-1969_y_1976.29" title="Porsche 911">Porsche 912</a></td>
+<td>Una versión más económica de la 911 con un motor de cuatro cilindros del 356 SC. El 912 fue sustituido por el 914 en 1970</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_912_1966.jpg" class="image"><img alt="Porsche 912 1966.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Porsche_912_1966.jpg/100px-Porsche_912_1966.jpg" width="100" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Porsche_912_1966.jpg/150px-Porsche_912_1966.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Porsche_912_1966.jpg/200px-Porsche_912_1966.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1970 – 1976</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_914" title="Porsche 914">Porsche 914</a></td>
+<td>El VW-Porsche 914 fue desarrollado en colaboración con Volkswagen. Se ofreció el 914/4 con cuatro cilindros, o bajo el nombre de 914/6 con el motor de seis cilindros del 911 T. Se construyeron un total de 115.646 unidades del 914/4 y 3.360 unidades del 914/6</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:VW-Porsche-914.jpg" class="image"><img alt="VW-Porsche-914.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/VW-Porsche-914.jpg/100px-VW-Porsche-914.jpg" width="100" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/VW-Porsche-914.jpg/150px-VW-Porsche-914.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/VW-Porsche-914.jpg/200px-VW-Porsche-914.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1971</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_914" title="Porsche 914">Porsche 916</a></td>
+<td>El Porsche 916 se basa en el 914/6 con motor de seis cilindros del 911S o el 2.7 del Carrera RS. Se construyeron solamente un total de 11 vehículos 916</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche916-rear.jpg" class="image"><img alt="Porsche916-rear.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Porsche916-rear.jpg/100px-Porsche916-rear.jpg" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Porsche916-rear.jpg/150px-Porsche916-rear.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Porsche916-rear.jpg/200px-Porsche916-rear.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1975 – 1989</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_930_.281975-1989.29" title="Porsche 911">Porsche 930</a></td>
+<td>Mejor conocido como «911 Turbo» fue el primer modelo Porsche con motor <a href="http://es.wikipedia.org/wiki/Turbocompresor" title="Turbocompresor">turbo</a>. Se ofrecio en <a href="http://es.wikipedia.org/wiki/Cup%C3%A9" title="Cupé">cupé</a>, <a href="http://es.wikipedia.org/wiki/Descapotable" title="Descapotable">cabriolé</a> y <a href="http://es.wikipedia.org/wiki/Descapotable#Techo_targa_.28Targa_Top.29" title="Descapotable">targa</a></td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:12-01-03-autostadtl-by-RalfR-79.jpg" class="image"><img alt="12-01-03-autostadtl-by-RalfR-79.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/12-01-03-autostadtl-by-RalfR-79.jpg/100px-12-01-03-autostadtl-by-RalfR-79.jpg" width="100" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/12-01-03-autostadtl-by-RalfR-79.jpg/150px-12-01-03-autostadtl-by-RalfR-79.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/12-01-03-autostadtl-by-RalfR-79.jpg/200px-12-01-03-autostadtl-by-RalfR-79.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1987 – 1988</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_959" title="Porsche 959">Porsche 959</a></td>
+<td>Basado en el 911 y del <i>Gruppe-B-Studie</i> a partir de 1983. El primer <a href="http://es.wikipedia.org/wiki/Autom%C3%B3vil_superdeportivo" title="Automóvil superdeportivo">superdeportivo</a> de Porsche surgió a partir de aplicaciones de carreras. 337 unidades son fabricadas al precio exclusivo de 560.000 <a href="http://es.wikipedia.org/wiki/Marco_alem%C3%A1n" title="Marco alemán">marcos alemánes</a>, ($200.000 dólares).</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:PAG959.JPG" class="image"><img alt="PAG959.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/PAG959.JPG/100px-PAG959.JPG" width="100" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/PAG959.JPG/150px-PAG959.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/PAG959.JPG/200px-PAG959.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1988 – 1993</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_964_.281988-1994.29" title="Porsche 911">Porsche 964</a></td>
+<td>Contenía muchos elementos del Porsche 959. Por primera vez, hubo un 911 de cuatro ruedas motrices, el Carrera 4, con tecnología también del resultado del 959. El 964 tuvo numerosas variantes de carrocería.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_964_front_20080515.jpg" class="image"><img alt="Porsche 964 front 20080515.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_964_front_20080515.jpg/100px-Porsche_964_front_20080515.jpg" width="100" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_964_front_20080515.jpg/150px-Porsche_964_front_20080515.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Porsche_964_front_20080515.jpg/200px-Porsche_964_front_20080515.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1993 – 1998</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_993_.281993-1998.29" title="Porsche 911">Porsche 993</a></td>
+<td>El Porsche 993 es la última versión del 911 con <a href="http://es.wikipedia.org/wiki/Motor_b%C3%B3xer" title="Motor bóxer">motor bóxer</a> refrigerado por aire. El cierre de su producción marcó el final de los Porsche refrigerado por aire, dándole un lugar especial en las mentes y los corazones de los fans. Siguiendo la tradición, Porsche construyó el coche en diversas variaciones de carrocería y modelos. Los espartanos Carrera RS y <a href="http://es.wikipedia.org/wiki/Porsche_911_GT2" title="Porsche 911 GT2">GT2</a> fueron específicamente para la competición.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:White_Porsche_993_turbo_coup%C3%A9.jpg" class="image"><img alt="White Porsche 993 turbo coupé.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/White_Porsche_993_turbo_coup%C3%A9.jpg/100px-White_Porsche_993_turbo_coup%C3%A9.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/White_Porsche_993_turbo_coup%C3%A9.jpg/150px-White_Porsche_993_turbo_coup%C3%A9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/White_Porsche_993_turbo_coup%C3%A9.jpg/200px-White_Porsche_993_turbo_coup%C3%A9.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1997 – 2006</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_996_.281997.E2.80.932006.29" title="Porsche 911">Porsche 996</a></td>
+<td>Ena carrocería totalmente nueva de los «911» ahora con un motor refrigerado por agua fue instalado. Los modelos son: Carrera, Carrera 4 y Carrera 4S y las versiones cabriolé y Targa, así como Turbo, Turbo S (ambos modelos en cabriolé) y <a href="http://es.wikipedia.org/wiki/Porsche_911_GT2" title="Porsche 911 GT2">911 GT2</a> <a href="http://es.wikipedia.org/wiki/Porsche_911_GT3_RS" title="Porsche 911 GT3 RS">911 GT3</a>, así como una homologación limitada del 911 GT3 RS, que se vendieron cerca de 300 unidades</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:1999C4SCab.JPG" class="image"><img alt="1999C4SCab.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1999C4SCab.JPG/100px-1999C4SCab.JPG" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1999C4SCab.JPG/150px-1999C4SCab.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1999C4SCab.JPG/200px-1999C4SCab.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2004 – 2012</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_997_.282004.E2.80.932012.29" title="Porsche 911">Porsche 997</a></td>
+<td>El actual Porsche 911. Disponible en Carrera, Carrera S, Carrera 4, Carrera 4S, Targa 4, Targa 4S, Turbo GT3, GT3 RS, GT2 y GT2 RS. Todos los modelos excepto el GT3, GT3 RS, GT2 RS y GT2, y los modelos Targa están también disponibles como cabriolé.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche911997.jpg" class="image"><img alt="Porsche911997.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche911997.jpg/100px-Porsche911997.jpg" width="100" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche911997.jpg/150px-Porsche911997.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche911997.jpg/200px-Porsche911997.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2011 – presente</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_911#Porsche_991_.282011.E2.80.93presente.29" title="Porsche 911">Porsche 991</a></td>
+<td>La séptima generación del 911 se presentó en septiembre de 2011 en el <a href="http://es.wikipedia.org/wiki/Sal%C3%B3n_del_Autom%C3%B3vil_de_Fr%C3%A1ncfort" title="Salón del Automóvil de Fráncfort">Salón del Automóvil de Fráncfort</a>.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_991_silver_IAA.jpg" class="image"><img alt="Porsche 991 silver IAA.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Porsche_991_silver_IAA.jpg/100px-Porsche_991_silver_IAA.jpg" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Porsche_991_silver_IAA.jpg/150px-Porsche_991_silver_IAA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Porsche_991_silver_IAA.jpg/200px-Porsche_991_silver_IAA.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1996 – 2004</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Boxster" title="Porsche Boxster">Boxster<br />
+Tipo 986</a></td>
+<td>La primera versión del <a href="http://es.wikipedia.org/wiki/Porsche_Boxster" title="Porsche Boxster">Porsche Boxster</a>. El coche tenía un <a href="http://es.wikipedia.org/wiki/Configuraci%C3%B3n_automotriz#Posicionamiento_del_motor_2" title="Configuración automotriz">motor central-trasero</a> tipo <a href="http://es.wikipedia.org/wiki/Motor_b%C3%B3xer" title="Motor bóxer">bóxer</a> con 6 cilindros, se lo ofreció sólo como un <a href="http://es.wikipedia.org/wiki/Descapotable#Roadster" title="Descapotable">roadster</a>.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Boxster_986.jpg" class="image"><img alt="Boxster 986.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boxster_986.jpg/100px-Boxster_986.jpg" width="100" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boxster_986.jpg/150px-Boxster_986.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Boxster_986.jpg/200px-Boxster_986.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2004 – presente</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Boxster" title="Porsche Boxster">Boxster<br />
+Tipo 987</a></td>
+<td>La versión más reciente del <a href="http://es.wikipedia.org/wiki/Porsche_Boxster" title="Porsche Boxster">Boxster</a>, salió al mercado el 27 de noviembre de 2004.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_(3).jpg" class="image"><img alt="Porsche Boxster S - Flickr - The Car Spy (3).jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg/100px-Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg/150px-Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg/200px-Porsche_Boxster_S_-_Flickr_-_The_Car_Spy_%283%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2005 – presente</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Cayman" title="Porsche Cayman">Porsche Cayman</a></td>
+<td>Está basado en el Porsche Boxster y esta en el mercado desde noviembre de 2005 como un Cayman S. A diferencia de la 911 el Cayman es un cupé biplaza puramente deportivo. Desde el otoño de 2006, se ofrece el Caimán de nivel de entrada.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Cayman_S.jpg" class="image"><img alt="Porsche Cayman S.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_Cayman_S.jpg/100px-Porsche_Cayman_S.jpg" width="100" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_Cayman_S.jpg/150px-Porsche_Cayman_S.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_Cayman_S.jpg/200px-Porsche_Cayman_S.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td style="background:#EEEEEE;text-align:center" colspan="4">
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=11" title="Editar sección: Serie de autos deportivos con motor en línea">editar</a>]</span> <span class="mw-headline" id="Serie_de_autos_deportivos_con_motor_en_l.C3.ADnea">Serie de autos deportivos con <a href="http://es.wikipedia.org/wiki/Motor_en_l%C3%ADnea" title="Motor en línea">motor en línea</a></span></h4>
+</td>
+</tr>
+<tr>
+<td><b>1976 – 1988</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_924" title="Porsche 924">Porsche 924</a></td>
+<td>El coche fue diseñado originalmente como el sucesor del <a href="http://es.wikipedia.org/wiki/Porsche_914" title="Porsche 914">VW-Porsche 914</a> desarrollado para Volkswagen y Audi lo proporcionó inicialmente con un motor modificado.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:924_S.JPG" class="image"><img alt="924 S.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/924_S.JPG/100px-924_S.JPG" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/924_S.JPG/150px-924_S.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/924_S.JPG/200px-924_S.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1979 – 1982</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_924" title="Porsche 924">Porsche 931</a></td>
+<td>El Porsche 931 fue vendido bajo el nombre de «Porsche 924 Turbo» en la década de 1980.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_932_and_924_S.jpg" class="image"><img alt="Porsche 932 and 924 S.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Porsche_932_and_924_S.jpg/100px-Porsche_932_and_924_S.jpg" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Porsche_932_and_924_S.jpg/150px-Porsche_932_and_924_S.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Porsche_932_and_924_S.jpg/200px-Porsche_932_and_924_S.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1981</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_924" title="Porsche 924">Porsche 937</a></td>
+<td>Se mercadea como «Porsche 924 Carrera GT», que encarna la versión de carreras homologadas para la circulación del Porsche 924 Carrera GTR. Este coche fue homologado para carreras Grupo B</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_2009_49_(RaBoe).jpg" class="image"><img alt="Porsche 2009 49 (RaBoe).jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Porsche_2009_49_%28RaBoe%29.jpg/100px-Porsche_2009_49_%28RaBoe%29.jpg" width="100" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Porsche_2009_49_%28RaBoe%29.jpg/150px-Porsche_2009_49_%28RaBoe%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Porsche_2009_49_%28RaBoe%29.jpg/200px-Porsche_2009_49_%28RaBoe%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1981 – 1991</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_944" title="Porsche 944">Porsche 944</a></td>
+<td>Este modelo, con el 911 en la década de 1980 generó más ingresos. La carrocería llega del Porsche 924, pero los guardabarros se ampliaron para que se parecía al 924 Carrera GT.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_944s.jpg" class="image"><img alt="Porsche 944s.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_944s.jpg/100px-Porsche_944s.jpg" width="100" height="66" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_944s.jpg/150px-Porsche_944s.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Porsche_944s.jpg/200px-Porsche_944s.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1985 – 1991</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_944#944_Turbo_.28951.2F952.29" title="Porsche 944">Porsche 951</a></td>
+<td>El Porsche 951 se comercializó como un «Porsche 944 Turbo». Este coche fue el modelo tope de la serie 944.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:1987_Porsche_944_Turbo.JPG" class="image"><img alt="1987 Porsche 944 Turbo.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/1987_Porsche_944_Turbo.JPG/100px-1987_Porsche_944_Turbo.JPG" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/1987_Porsche_944_Turbo.JPG/150px-1987_Porsche_944_Turbo.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/1987_Porsche_944_Turbo.JPG/200px-1987_Porsche_944_Turbo.JPG 2x" /></a></td>
+</tr>
+<tr>
+<td><b>1992 – 1995</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_968" title="Porsche 968">Porsche 968</a></td>
+<td>El 968 se convirtió en el modelo final de una línea de evolución de casi 20 años con la introducción del Porsche 924 y terminando con el Turbo S, RS Turbo y Turbo RS Lemans, que son tres versiones distintas del 968.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_968_front_20071004.jpg" class="image"><img alt="Porsche 968 front 20071004.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_968_front_20071004.jpg/100px-Porsche_968_front_20071004.jpg" width="100" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_968_front_20071004.jpg/150px-Porsche_968_front_20071004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Porsche_968_front_20071004.jpg/200px-Porsche_968_front_20071004.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td style="background:#EEEEEE;text-align:center" colspan="4">
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=12" title="Editar sección: Serie de autos deportivos con motor en V">editar</a>]</span> <span class="mw-headline" id="Serie_de_autos_deportivos_con_motor_en_V">Serie de autos deportivos con <a href="http://es.wikipedia.org/wiki/Motor_en_V#En_V" title="Motor en V">motor en V</a></span></h4>
+</td>
+</tr>
+<tr>
+<td><b>1977 – 1995</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_928" title="Porsche 928">Porsche 928</a></td>
+<td>El modelo de Porsche que debió sustituir a la 911. Este coche es uno de los de Gran Turismo. Tenía un motor V8 y fue construido hasta 1995. El primer modelo tope de gama fue el 928 GTS.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_(21).jpg" class="image"><img alt="1987 Porsche 928 S4 - Flickr - The Car Spy (21).jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg/100px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg" width="100" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg/150px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg/200px-1987_Porsche_928_S4_-_Flickr_-_The_Car_Spy_%2821%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2003 – 2006</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Carrera_GT" title="Porsche Carrera GT">Porsche Carrera GT</a></td>
+<td>El Porsche Carrera GT es un <a href="http://es.wikipedia.org/wiki/Autom%C3%B3vil_superdeportivo" title="Automóvil superdeportivo">automóvil superdeportivo</a> con <a href="http://es.wikipedia.org/wiki/Configuraci%C3%B3n_automotriz#Posicionamiento_del_motor_2" title="Configuración automotriz">motor central-trasero</a> / <a href="http://es.wikipedia.org/wiki/Tracci%C3%B3n_trasera" title="Tracción trasera">tracción trasera</a> y carrocería <a href="http://es.wikipedia.org/wiki/Descapotable" title="Descapotable">descapotable</a> de dos puertas y dos plazas. El Carrera GT fue designado como el coche más rápido del año 2005.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:2007-06-15_07_Porsche_Carrera_GT_(kl).jpg" class="image"><img alt="2007-06-15 07 Porsche Carrera GT (kl).jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg/100px-2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg/150px-2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg/200px-2007-06-15_07_Porsche_Carrera_GT_%28kl%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2013 →</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_918" title="Porsche 918">Porsche 918</a></td>
+<td>El prototipo de <a href="http://es.wikipedia.org/wiki/Autom%C3%B3vil_deportivo" title="Automóvil deportivo">automóvil deportivo</a> del 918 Spyder fue mostrado por primera vez en la edición número 80 del <a href="http://es.wikipedia.org/wiki/Sal%C3%B3n_del_Autom%C3%B3vil_de_Ginebra" title="Salón del Automóvil de Ginebra">Salón del Automóvil de Ginebra</a> en marzo de 2010. El lanzamiento está previsto para 2013 con el nivel de precios del <a href="http://es.wikipedia.org/wiki/Porsche_Carrera_GT" title="Porsche Carrera GT">Porsche Carrera GT</a> (450.000 euros) al que sustituye.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg" class="image"><img alt="Porsche 198 RSR - Flickr - J.Smith831.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg/100px-Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg/150px-Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg/200px-Porsche_198_RSR_-_Flickr_-_J.Smith831.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td style="background:#EEEEEE;text-align:center" colspan="4">
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=13" title="Editar sección: Serie de berlina de lujo con motor en V">editar</a>]</span> <span class="mw-headline" id="Serie_de_berlina_de_lujo_con_motor_en_V">Serie de berlina de lujo con motor en V</span></h4>
+</td>
+</tr>
+<tr>
+<td><b>2009 – presente</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Panamera" title="Porsche Panamera">Porsche Panamera</a></td>
+<td>Esta berlina de lujo deportiva de cuatro puertas está disponible desde el año 2009. El montaje final de los vehículos se lleva a cabo en <a href="http://es.wikipedia.org/wiki/Leipzig" title="Leipzig">Leipzig</a>. Los motores se montan en <a href="http://es.wikipedia.org/wiki/Stuttgart" title="Stuttgart">Stuttgart</a>, y el pintado de la carrocería en las instalaciones de Volkswagen en <a href="http://es.wikipedia.org/wiki/Hannover" title="Hannover">Hannover</a>.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Panamera_4S_front_20100428.jpg" class="image"><img alt="Porsche Panamera 4S front 20100428.jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_Panamera_4S_front_20100428.jpg/100px-Porsche_Panamera_4S_front_20100428.jpg" width="100" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_Panamera_4S_front_20100428.jpg/150px-Porsche_Panamera_4S_front_20100428.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Porsche_Panamera_4S_front_20100428.jpg/200px-Porsche_Panamera_4S_front_20100428.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td style="background:#EEEEEE;text-align:center" colspan="4">
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=14" title="Editar sección: Vehículo deportivo utilitario">editar</a>]</span> <span class="mw-headline" id="Veh.C3.ADculo_deportivo_utilitario">Vehículo deportivo utilitario</span></h4>
+</td>
+</tr>
+<tr>
+<td><b>2002 – 2010</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Cayenne" title="Porsche Cayenne">Porsche Cayenne I</a></td>
+<td>El primer modelo <a href="http://es.wikipedia.org/wiki/Veh%C3%ADculo_deportivo_utilitario" title="Vehículo deportivo utilitario">SUV</a> de Porsche en producción en serie. Disponible en Cayenne, Cayenne Diesel, Cayenne S, Cayenne S Hybrid, Cayenne Turbo y el Cayenne GTS (Presentado en el 2007). Basado en una plataforma común con el los actuales <a href="http://es.wikipedia.org/wiki/Audi_Q7" title="Audi Q7">Audi Q7</a> y <a href="http://es.wikipedia.org/wiki/Volkswagen_Touareg" title="Volkswagen Touareg">Volkswagen Touareg</a>.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_(24).jpg" class="image"><img alt="Porsche Cayenne 3.2 V6 - Flickr - The Car Spy (24).jpg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg/100px-Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg" width="100" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg/150px-Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg/200px-Porsche_Cayenne_3.2_V6_-_Flickr_-_The_Car_Spy_%2824%29.jpg 2x" /></a></td>
+</tr>
+<tr>
+<td><b>2010 – presente</b></td>
+<td><a href="http://es.wikipedia.org/wiki/Porsche_Cayenne" title="Porsche Cayenne">Porsche Cayenne II</a></td>
+<td>El sucesor del Cayenne I. Disponible en cinco motorizaciones: 3.6 litros V6, un V8 de 4.8 litros, un V8 de 4.8 litros en el Cayenne Turbo, un diésel de 3 litros y la versión híbrida para el Cayenne S tendrá un motor 3.0 V6 de 333 cv acompañado de un motor eléctrico de 52 cv.</td>
+<td><a href="http://es.wikipedia.org/wiki/Archivo:Cayenne_Hybrid.JPG" class="image"><img alt="Cayenne Hybrid.JPG" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cayenne_Hybrid.JPG/100px-Cayenne_Hybrid.JPG" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cayenne_Hybrid.JPG/150px-Cayenne_Hybrid.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cayenne_Hybrid.JPG/200px-Cayenne_Hybrid.JPG 2x" /></a></td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=15" title="Editar sección: Competición">editar</a>]</span> <span class="mw-headline" id="Competici.C3.B3n">Competición</span></h2>
+<p>El éxito de Porsche en competición ha sido inmenso, sumando más de 25.000 victorias en todo tipo de categorías. Porsche ha sido capaz de ganar al más alto nivel de <a href="http://es.wikipedia.org/wiki/Carrera_de_resistencia" title="Carrera de resistencia">resistencia</a>, <a href="http://es.wikipedia.org/wiki/Gran_turismo_(autom%C3%B3vil)" title="Gran turismo (automóvil)">gran turismo</a>, <a href="http://es.wikipedia.org/wiki/Rally" title="Rally">rally</a>, raids y <a href="http://es.wikipedia.org/wiki/Monoplaza" title="Monoplaza">monoplazas</a>. De esta enorme variedad de victorias no pueden presumir otros constructores con multitud de victorias como <a href="http://es.wikipedia.org/wiki/BMW" title="BMW">BMW</a> o <a href="http://es.wikipedia.org/wiki/Ferrari" title="Ferrari">Ferrari</a>. En los primeros años, debido a que Porsche ofrecía motores de pequeña cilindrada, las victorias eran dentro de su clase. A partir de los 60 llegaron las victorias absolutas (mientras seguían acumulando las victorias de clase). Porsche también se ha caracterizado porque en muchas ocasiones ha delegado la responsabilidad sobre equipos semioficiales y privados.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Austria_Gmuend_Porsche_Museum13.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Austria_Gmuend_Porsche_Museum13.jpg/175px-Austria_Gmuend_Porsche_Museum13.jpg" width="175" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Austria_Gmuend_Porsche_Museum13.jpg/263px-Austria_Gmuend_Porsche_Museum13.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Austria_Gmuend_Porsche_Museum13.jpg/350px-Austria_Gmuend_Porsche_Museum13.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Austria_Gmuend_Porsche_Museum13.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 962 IMSA de Mario Andretti.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Circuit_de_la_Sarthe_track_map.svg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Circuit_de_la_Sarthe_track_map.svg/175px-Circuit_de_la_Sarthe_track_map.svg.png" width="175" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Circuit_de_la_Sarthe_track_map.svg/263px-Circuit_de_la_Sarthe_track_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Circuit_de_la_Sarthe_track_map.svg/350px-Circuit_de_la_Sarthe_track_map.svg.png 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Circuit_de_la_Sarthe_track_map.svg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Circuito de La Sarthe, donde se celebran las 24h de Le Mans.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Daytona-International-Speedway-June-30-2005-Night.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Daytona-International-Speedway-June-30-2005-Night.jpg/175px-Daytona-International-Speedway-June-30-2005-Night.jpg" width="175" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Daytona-International-Speedway-June-30-2005-Night.jpg/263px-Daytona-International-Speedway-June-30-2005-Night.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Daytona-International-Speedway-June-30-2005-Night.jpg/350px-Daytona-International-Speedway-June-30-2005-Night.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Daytona-International-Speedway-June-30-2005-Night.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Vista nocturna del circuito de Daytona, donde el 935 ganó 6 veces consecutivas las 24h de Daytona.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche917PinkPig.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Porsche917PinkPig.jpg/175px-Porsche917PinkPig.jpg" width="175" height="118" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Porsche917PinkPig.jpg/263px-Porsche917PinkPig.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Porsche917PinkPig.jpg/350px-Porsche917PinkPig.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche917PinkPig.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 917/20 "Pink Pig".</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche917-30.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Porsche917-30.jpg/175px-Porsche917-30.jpg" width="175" height="119" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Porsche917-30.jpg/263px-Porsche917-30.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Porsche917-30.jpg/350px-Porsche917-30.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche917-30.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 917/30 Can-Am, 1100CV, 1973.</div>
+</div>
+</div>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=16" title="Editar sección: Porsche en los rallyes">editar</a>]</span> <span class="mw-headline" id="Porsche_en_los_rallyes">Porsche en los rallyes</span></h3>
+<p>Las victorias más importantes en el mundo de los rally han sido el título por marcas en el mundial de rallyes de <a href="http://es.wikipedia.org/wiki/1970" title="1970">1970</a> (entonces campeonato internacional) y las victorias en el París-Dakar de 1984 y 1986. También ha conseguido 20 campeonatos europeos de montaña y ha ganado 11 Targa Florio. Además de 16 victorias absolutas en las 24 Horas de Le Mans, siendo el fabricante con más victorias absolutas en el circuito francés.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=17" title="Editar sección: Porsche 356">editar</a>]</span> <span class="mw-headline" id="Porsche_356"><i>Porsche 356</i></span></h4>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="http://es.wikipedia.org/wiki/Porsche_356" title="Porsche 356">Porsche 356</a></i>.</div>
+<p>El <a href="http://es.wikipedia.org/wiki/Porsche_356" title="Porsche 356">Porsche 356</a>, al ser el primer modelo fabricado en serie de la marca, lógicamente también fue el primero en competir en rally, siempre en manos privadas y mostrándose muy competitivo. La primera victoria llegó en 1952 en el "Rally del sol de medianoche" (<a href="http://es.wikipedia.org/wiki/Suecia" title="Suecia">Suecia</a>), prueba que dominó a la perfección, pues volvió a ganar en 1953, 1954, 1955 y 1963. El otro rally en el que el 356 se desempeñó notablemente fue el <a href="http://es.wikipedia.org/wiki/Lieja" title="Lieja">Lieja</a>-<a href="http://es.wikipedia.org/wiki/Roma" title="Roma">Roma</a>-Lieja, donde, debido a la gran cantidad de kilómetros de recorrido, la fiabilidad era muy importante. Este rally lo ganó en cuatro ocasiones: <a href="http://es.wikipedia.org/wiki/1952" title="1952">1952</a>, <a href="http://es.wikipedia.org/wiki/1954" title="1954">1954</a>, <a href="http://es.wikipedia.org/wiki/1957" title="1957">1957</a> y <a href="http://es.wikipedia.org/wiki/1959" title="1959">1959</a>. A los mandos de un 356 se proclamaron campeón de Europa <a href="http://es.wikipedia.org/w/index.php?title=Helmuth_Polensky&amp;action=edit&amp;redlink=1" class="new" title="Helmuth Polensky (aún no redactado)">Helmuth Polensky</a> en <a href="http://es.wikipedia.org/wiki/1953" title="1953">1953</a> y <a href="http://es.wikipedia.org/w/index.php?title=Hans-Joachim_Walter&amp;action=edit&amp;redlink=1" class="new" title="Hans-Joachim Walter (aún no redactado)">Hans-Joachim Walter</a> en <a href="http://es.wikipedia.org/wiki/1961" title="1961">1961</a>.</p>
+<p>Fuera de <a href="http://es.wikipedia.org/wiki/Europa" title="Europa">Europa</a> el 356 consiguió ganar dentro de su categoría la Carrera Panamericana en 1952 y 1953 (las victorias en esta carrera fueron el origen de la denominación Carrera utilizado para los 356 y 911).</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=18" title="Editar sección: Porsche 911 2.0">editar</a>]</span> <span class="mw-headline" id="Porsche_911_2.0"><i>Porsche 911 2.0</i></span></h4>
+<p>El 911 debutó en los rally en el <a href="http://es.wikipedia.org/wiki/Rally_de_Monte_Carlo" title="Rally de Monte Carlo" class="mw-redirect">Rally de Monte Carlo</a> de <a href="http://es.wikipedia.org/wiki/1965" title="1965">1965</a>, obteniendo una quinta plaza. Al año siguiente cambió la reglamentación de las homologaciones; Porsche consiguió homologar el mismo modelo para todos los grupos (aunque para el grupo 1 lo hiciese con el 912). La primera victoria en los rally de máxima categoría llegó en el <a href="http://es.wikipedia.org/wiki/Rally_de_Alemania" title="Rally de Alemania">Rally de Alemania</a> de <a href="http://es.wikipedia.org/wiki/1966" title="1966">1966</a>. Hasta <a href="http://es.wikipedia.org/wiki/1969" title="1969">1969</a> sumó 19 victorias, incluidos dos Rally de Monte Carlo. En <a href="http://es.wikipedia.org/wiki/1968" title="1968">1968</a> <a href="http://es.wikipedia.org/wiki/Pauli_Toivonen" title="Pauli Toivonen">Pauli Toivonen</a> se proclamó campeón de Europa y Porsche quedó tercera en el <a href="http://es.wikipedia.org/wiki/Campeonato_Mundial_de_Resistencia" title="Campeonato Mundial de Resistencia">Campeonato Mundial de Resistencia</a>. Al año siguiente fueron segundos.</p>
+<p>La potencia y el peso del 911 dependía del grupo en el que estuviese homologado. Para el grupo 5 ofrecía 210&#160;CV y 830&#160;kg de peso.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=19" title="Editar sección: Porsche 911S 2.2 y 2.5">editar</a>]</span> <span class="mw-headline" id="Porsche_911S_2.2_y_2.5"><i>Porsche 911S 2.2 y 2.5</i></span></h4>
+<p>Con la experiencia adquirida en los 4 años anteriores, se presentaba para la temporada <a href="http://es.wikipedia.org/wiki/1970" title="1970">1970</a> el nuevo 911S 2.2 y esta vez si se consiguió el título por marcas. Además, esa temporada <a href="http://es.wikipedia.org/w/index.php?title=Bj%C3%B6rn_Waldegard&amp;action=edit&amp;redlink=1" class="new" title="Björn Waldegard (aún no redactado)">Björn Waldegard</a> consiguió 3 victorias: Monte-Carlo, Suecia y Austria. Esta fue la última temporada en la que el 911 tuvo un equipo oficial, pasando desde entonces a equipos privados. El 2.2 desarrollaba 230&#160;CV y el 2.5 aumentaba hasta 275&#160;CV.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=20" title="Editar sección: Porsche SC y 911 RS">editar</a>]</span> <span class="mw-headline" id="Porsche_SC_y_911_RS"><i>Porsche SC y 911 RS</i></span></h4>
+<p>En 1973 se crea el <a href="http://es.wikipedia.org/wiki/Campeonato_Mundial_de_Rally" title="Campeonato Mundial de Rally">Campeonato Mundial de Rally</a> de la <a href="http://es.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_Internationale_de_l%27Automobile" title="Fédération Internationale de l'Automobile" class="mw-redirect">FIA</a>, que supuso la prohibición del grupo 5. La respuesta de Porsche fue el 911 Carrera RS 2.7 para el grupo 3. Este modelo se diferenciaba de los anteriores por su "cola de pato" debido a la forma de su alerón trasero. La versión RSR se homologó para el grupo 4. Más tarde el motor se amplió hasta los 3 litros, alcanzando los 300&#160;CV de potencia. Como la fábrica ya no tenía equipo oficial y el <a href="http://es.wikipedia.org/wiki/Lancia" title="Lancia">Lancia Stratos</a> dominaba con mano de hierro, los resultados fueron escasos en el mundial. Sólo pudo vencer el Rally de Monte-Carlo de 1978 con Jean-Pierre Nicolas. Sin embargo, en manos de pilotos privados, consiguió numerosos títulos nacionales durante la década de <a href="http://es.wikipedia.org/wiki/A%C3%B1os_1970" title="Años 1970">los 70</a>.</p>
+<p>En 1978 Porsche anuncia su sustituto, el 911SC. Este modelo supuso la vuelta de un equipo oficial Porsche, con patrocinio de Martini, para el <a href="http://es.wikipedia.org/wiki/Rally_Safari" title="Rally Safari">Rally Safari</a> de <a href="http://es.wikipedia.org/wiki/1978" title="1978">1978</a>. En este debut la actuación fue muy buena y sólo los problemas con la suspensión privaron a Björn Waldegard de la victoria. Al final, Porsche se tuvo que conformar con el segundo y cuarto puesto, firmando una de sus mejores actuaciones en <a href="http://es.wikipedia.org/wiki/%C3%81frica" title="África">África</a>. A pesar de que pronto los Porsche volvieron a manos privadas, sobre todo a las del equipo francés Porsche Almeras, el 911SC si fue capaz de ganar rally y de obtener podios con cierta regularidad. También en su palmarés está el campeonato de Europa con el español Antonio Zanini en 1980; y los campeonatos nacionales francés y español con Bernard Béguin y Zanini.</p>
+<p>El 911SC consiguió la última victoria de Porsche dentro del mundial de rally, fue en <a href="http://es.wikipedia.org/wiki/C%C3%B3rcega" title="Córcega">Córcega</a>, en <a href="http://es.wikipedia.org/wiki/1980" title="1980">1980</a>.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=21" title="Editar sección: Porsche 911SC RS">editar</a>]</span> <span class="mw-headline" id="Porsche_911SC_RS"><i>Porsche 911SC RS</i></span></h4>
+<p>Este automóvil fue preparado junto a Prodrive, el equipo que actualmente se encarga de los <a href="http://es.wikipedia.org/wiki/Subaru" title="Subaru">Subaru</a> oficiales, para participar en el grupo B en 1984. El 911SC RS no era lo suficientemente potente y con tracción trasera estaba desfasado frente a los tracción a las cuatro ruedas, como el Audi Quattro o el Peugeot 205 T16. Así, éste fue un segunda fila dentro del mundial de rally. Sin embargo, fuera del mundial, en el desierto, inició un período de tres años en los que las victorias de Porsche fueron algo habitual. En 1984 también debuta Porsche en el <a href="http://es.wikipedia.org/wiki/Par%C3%ADs-Dakar" title="París-Dakar" class="mw-redirect">París-Dakar</a> con una versión de 4 ruedas motrices del 911 y ganó a la primera con <a href="http://es.wikipedia.org/wiki/Ren%C3%A9_Metge" title="René Metge">René Metge</a> y Dominique Lemoyne.</p>
+<p>De todas formas Porsche no se preocupó demasiado del desarrollo del último 911 de rally porque estaban más preocupados en el desarrollo del 959.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=22" title="Editar sección: Porsche 959">editar</a>]</span> <span class="mw-headline" id="Porsche_959"><i>Porsche 959</i></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:177px;"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_959_34_rear.jpg" class="image"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Porsche_959_34_rear.jpg/175px-Porsche_959_34_rear.jpg" width="175" height="88" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Porsche_959_34_rear.jpg/263px-Porsche_959_34_rear.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Porsche_959_34_rear.jpg/350px-Porsche_959_34_rear.jpg 2x" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="http://es.wikipedia.org/wiki/Archivo:Porsche_959_34_rear.jpg" class="internal" title="Aumentar"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Porsche 959, propiedad de <a href="http://es.wikipedia.org/wiki/Ralph_Lauren" title="Ralph Lauren">Ralph Lauren</a>.</div>
+</div>
+</div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="http://es.wikipedia.org/wiki/Porsche_959" title="Porsche 959">Porsche 959</a></i>.</div>
+<p>El 959 fue el primer Porsche diseñado específicamente pensando en el grupo B y en los rally en general. Con tracción total y un potentísimo motor biturbo capaz de dar 600&#160;CV, era una auténtica bestia. Presentado al público en 1984, si hubiese debutado ese mismo año habría sido el automóvil de grupo B definitivo, pero no fue así. Porsche tenía que construir 200 unidades para poder homologarlo en el grupo B. Debido a los retrasos en la producción no se consiguió completar el coche número 200 hasta <a href="http://es.wikipedia.org/wiki/1987" title="1987">1987</a>, cuando ya estaba prohibido el grupo B. Ante la imposibilidad de competir en el mundial, la marca lo hizo participar en los raids donde estaban permitidos los prototipos. El resultado fue excelente: en 1985 ganó el <a href="http://es.wikipedia.org/wiki/Rally_de_los_Faraones" title="Rally de los Faraones">Rally de los Faraones</a> con Saeed Al Hajri, que se impuso en todas las etapas y le sacó más de 3 horas al segundo clasificado. En <a href="http://es.wikipedia.org/wiki/1986" title="1986">1986</a> el 959 se adjudicó el París-Dakar con la pareja Metge-Lemoyne.</p>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=23" title="Editar sección: Porsche en los circuitos">editar</a>]</span> <span class="mw-headline" id="Porsche_en_los_circuitos">Porsche en los circuitos</span></h3>
+<p>El palmarés de la marca en circuitos es superior al obtenido en el mundo de los rally y raids. Los principales campeonatos en circuitos obtenidos por la marca son:</p>
+<dl>
+<dd>
+<ul>
+<li>16 victorias en las <a href="http://es.wikipedia.org/wiki/24_Horas_de_Le_Mans" title="24 Horas de Le Mans">24 Horas de Le Mans</a></li>
+<li>2 títulos como motorista en <a href="http://es.wikipedia.org/wiki/F%C3%B3rmula_1" title="Fórmula 1">Fórmula 1</a> con el equipo <a href="http://es.wikipedia.org/wiki/McLaren" title="McLaren">McLaren</a></li>
+<li>26 victorias en F1</li>
+<li>14 títulos del <a href="http://es.wikipedia.org/wiki/Campeonato_Mundial_de_Resistencia" title="Campeonato Mundial de Resistencia">Campeonato Mundial de Resistencia</a></li>
+<li>18 títulos del <a href="http://es.wikipedia.org/wiki/Campeonato_IMSA_GT" title="Campeonato IMSA GT">Campeonato IMSA GT</a></li>
+<li>22 victorias en las <a href="http://es.wikipedia.org/wiki/24_Horas_de_Daytona" title="24 Horas de Daytona">24 Horas de Daytona</a></li>
+<li>8 títulos mundiales de larga distancia</li>
+<li>6 campeonatos del DRM</li>
+</ul>
+</dd>
+</dl>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=24" title="Editar sección: Porsche 935">editar</a>]</span> <span class="mw-headline" id="Porsche_935"><i>Porsche 935</i></span></h4>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="http://es.wikipedia.org/wiki/Porsche_935" title="Porsche 935">Porsche 935</a></i>.</div>
+<p>El nuevo grupo 5 definió el Campeonato Mundial de Resistencia en 1976. Los nuevos coches tenían que proceder de vehículos de serie, tanto a nivel mecánico como estético. Además, para poder participar en el gr.5 el automóvil tenía que haber sido homologado antes en uno de los grupos inferiores. Porsche consideró que en el 930/911 Turbo tenía un buen punto de partida. Homologó primero la versión para el grupo 4 denominado 934. Tras esto se puso manos a la obra con el 935.</p>
+<p>El 935 no era, ni por asomo, un turismo y del 911 Turbo quedaba la línea del techo y la base de la mecánica. Con 2857cc. y turbo (para entrar en la categoría de 4.0 litros), empezó desarrollando 600&#160;CV en 1976 para terminar ofreciendo hasta 850&#160;CV. Para Le Mans se desarrolló el 936, ya que en esta carrera existía un grupo 6. La familia 934-935-936 es el Porsche más exitoso en cuanto a triunfos obtenidos.</p>
+<p>En concreto el 935 machacó a toda oposición existente, sumando entre 1976 y 1981 41 victorias en el Campeonato Mundial de Resistencia y 63 en el <a href="http://es.wikipedia.org/wiki/Campeonato_IMSA_GT" title="Campeonato IMSA GT">Campeonato IMSA GT</a> estadounidense. A esto hay que sumar la victoria en las <a href="http://es.wikipedia.org/wiki/24_Horas_de_Le_Mans" title="24 Horas de Le Mans">24 Horas de Le Mans</a> en 1979, donde los 935 quedaron 1º, 2º y 3º y un 934 quedo 4º. Acumuló 6 victorias consecutivas en las 24 Horas de Daytona, 5 títulos consecutivos en el Campeonato Mundial de Resistencia y otros 5 en el IMSA, aparte de muchos campeonatos nacionales por todo el mundo.</p>
+<p>No hay ningún otro coche con un palmarés parecido. Fue tal la superioridad que Porsche retiró su equipo oficial en 1978, aburrido por la falta de oposición, dejando así multitud de victorias al alcance de los Porsche de los equipos privados.</p>
+<h4><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=25" title="Editar sección: Porsche 917">editar</a>]</span> <span class="mw-headline" id="Porsche_917"><i>Porsche 917</i></span></h4>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="http://es.wikipedia.org/wiki/Porsche_917" title="Porsche 917">Porsche 917</a></i>.</div>
+<p>El 917 nace a partir de un cambio en la reglamentación del Campeonato del Mundo de Resistencia promovido por la CSI (Comission Sportive Internationale) en 1968. Con el nuevo reglamento apareció una nueva categoría de coches denominada Grupo 4, para la cual había que producir al menos 25 unidades del modelo. Alcanzar esta producción no era un problema para Porsche que desarrollo el 917 como sustituto de los <a href="http://es.wikipedia.org/wiki/Porsche_907" title="Porsche 907">907</a> y 908.</p>
+<p>En julio de 1968 el equipo de Ferdinand Piëch se hace cargo del proyecto. Para el desarrollo del motor se partió del motor de ocho cilindros del 908 que fue transformado a fondo para obtener un doce cilindros de 4,5 litros, que al empezar a rodar en el banco de pruebas desarrolló 542&#160;CV que rápidamente irían siendo superados una y otra vez.</p>
+<p>El 917 debutó en competición en 1969, en los <a href="http://es.wikipedia.org/w/index.php?title=1000_km&amp;action=edit&amp;redlink=1" class="new" title="1000 km (aún no redactado)">1000 km</a> de Spa]], sin mucho éxito. Pronto se ganó la fama de rápido y peligroso y le faltaba desarrollo aerodinámico. En los entrenamientos de Le Mans de 1969, marcó un nuevo récord de velocidad en pista con 394 km/h en la recta de Mulsanne. Ya en carrera uno de los pilotos del 917, John Woolfe, se mató en la primera vuelta; los otros dos coches también quedarían fuera de combate.</p>
+<p>La primera victoria del 917 llegaría en los 1000 km de <a href="http://es.wikipedia.org/wiki/Austria" title="Austria">Austria</a>. Para solucionar los problemas de estabilidad apareció el 917K de cola corta. Durante 1970 y 1971 el dominio de Porsche fue aplastante, de las 24 carreras del mundial en las que participaron los 917 entre 1969 y 1971, se alzaron con la victoria en 15 y el 908 ganó en otras cuatro, consiguiendo para Porsche el Campeonato de Resistencia en 1970 y 1971.</p>
+<p>Un nuevo reglamento para el campeonato de 1972 puso fin al 917 en el Campeonato Mundial de Marcas. Esto le obligó a emigrar a la Can-Am norteamericana. Los 917 de la Can-Am equipados con sobrealimentación llegaron a alcanzar 1100&#160;CV en los últimos 917/30. En la Can-Am conseguió 11 victorias y los títulos de 1972 y 1973.</p>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=26" title="Editar sección: Línea de producción">editar</a>]</span> <span class="mw-headline" id="L.C3.ADnea_de_producci.C3.B3n">Línea de producción</span></h2>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=27" title="Editar sección: Línea de tiempo">editar</a>]</span> <span class="mw-headline" id="L.C3.ADnea_de_tiempo">Línea de tiempo</span></h3>
+<ul>
+<li><a href="http://es.wikipedia.org/wiki/1963" title="1963">1963</a> - <a href="http://es.wikipedia.org/w/index.php?title=Porsche_901&amp;action=edit&amp;redlink=1" class="new" title="Porsche 901 (aún no redactado)">901</a> Se presenta en el Salón de Frankfur el nuevo modelo 901.</li>
+<li><a href="http://es.wikipedia.org/wiki/1964" title="1964">1964</a> - <a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">911</a> Se cambia denominación de 901 a 911 ante litigio con Peugeot.</li>
+<li><a href="http://es.wikipedia.org/wiki/1969" title="1969">1969</a> - <a href="http://es.wikipedia.org/wiki/Porsche_914" title="Porsche 914">914</a> El modelo 914 sustituye al 912.</li>
+<li><a href="http://es.wikipedia.org/wiki/1969" title="1969">1969</a> - <a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">911</a> Se renueva el 911.</li>
+<li><a href="http://es.wikipedia.org/wiki/1973" title="1973">1973</a> - <a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">911 Carrera RS</a> Aparece el 911 Carrera RS, versión deportiva pensada para la homologación para la competición.</li>
+<li><a href="http://es.wikipedia.org/wiki/1975" title="1975">1975</a> - Se retira el 914. Unidades vendidas: 120.000</li>
+</ul>
+<h3><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=28" title="Editar sección: Modelos actuales">editar</a>]</span> <span class="mw-headline" id="Modelos_actuales">Modelos actuales</span></h3>
+<p>Se indica el año de puesta a la venta del modelo y de la versión actual (nuevo modelo o restyling) del mismo.</p>
+<ul>
+<li><a href="http://es.wikipedia.org/wiki/1996" title="1996">1996</a> | <a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> - <a href="http://es.wikipedia.org/wiki/Porsche_Boxster" title="Porsche Boxster">Boxster</a></li>
+<li><a href="http://es.wikipedia.org/wiki/2005" title="2005">2005</a> | <a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> - <a href="http://es.wikipedia.org/wiki/Porsche_Cayman" title="Porsche Cayman">Cayman</a></li>
+<li><a href="http://es.wikipedia.org/wiki/1964" title="1964">1964</a> | <a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> - <a href="http://es.wikipedia.org/wiki/Porsche_911" title="Porsche 911">911</a></li>
+<li><a href="http://es.wikipedia.org/wiki/2002" title="2002">2002</a> | <a href="http://es.wikipedia.org/wiki/2008" title="2008">2008</a> - <a href="http://es.wikipedia.org/wiki/Porsche_Cayenne" title="Porsche Cayenne">Cayenne</a></li>
+<li><a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> | <a href="http://es.wikipedia.org/wiki/2009" title="2009">2009</a> - <a href="http://es.wikipedia.org/wiki/Porsche_Panamera" title="Porsche Panamera">Panamera</a></li>
+</ul>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=29" title="Editar sección: Véase también">editar</a>]</span> <span class="mw-headline" id="V.C3.A9ase_tambi.C3.A9n">Véase también</span></h2>
+<ul>
+<li><a href="http://es.wikipedia.org/wiki/Museo_Porsche_(Stuttgart)" title="Museo Porsche (Stuttgart)" class="mw-redirect">Museo Porsche (Stuttgart)</a></li>
+</ul>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=30" title="Editar sección: Referencias">editar</a>]</span> <span class="mw-headline" id="Referencias">Referencias</span></h2>
+<div class="listaref" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="Porsche#cite_ref-1">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.elpais.com/articulo/reportajes/Porsche/juega/casino/elpepusocdmg/20101128elpdmgrep_6/Tes">Porsche juega en el casino</a>» <span style="color:#555;">(en español)</span>.  España:  El País. Consultado el 3 de diciembre de 2010.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="Porsche#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.informador.com.mx/economia/2009/128960/6/vw-se-queda-con-porsche-y-ahora-va-por-toyota.htm">VW se queda con Porche y ahora va por Toyota</a>. El Informador (México). Consultado el 6 de marzo de 2010.</span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit&amp;section=31" title="Editar sección: Enlaces externos">editar</a>]</span> <span class="mw-headline" id="Enlaces_externos">Enlaces externos</span></h2>
+<ul>
+<li><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" /> <a href="http://es.wikipedia.org/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga contenido multimedia sobre <b><a href="http://commons.wikimedia.org/wiki/" class="extiw" title="commons:">Porsche</a></b><span class="interProject"><a href="http://commons.wikimedia.org/wiki/" class="extiw" title="commons:">Commons</a></span>.</li>
+</ul>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.auto10.com/actualidad/porsche-asi-nacio-su-logo/3669">Porsche: Así nació su logo</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.porsche.com/">Página oficial de Porsche</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.porscheonline.es">Primera enciclopedia en castellano sobre Porsche</a>[[Categoría:| ]]</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor visited node count: 2964/1000000
+Preprocessor generated node count: 21411/1500000
+Post‐expand include size: 18696/2048000 bytes
+Template argument size: 5505/2048000 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:203456-0!*!0!!es!4!* and timestamp 20130411172040 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Obtenido de «<a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;oldid=66164594">http://es.wikipedia.org/w/index.php?title=Porsche&amp;oldid=66164594</a>»				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="http://es.wikipedia.org/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Empresas_fundadas_en_1931" title="Categoría:Empresas fundadas en 1931">Empresas fundadas en 1931</a></li><li><a href="http://es.wikipedia.org/wiki/Categor%C3%ADa:Fabricantes_de_autom%C3%B3viles_de_Alemania" title="Categoría:Fabricantes de automóviles de Alemania">Fabricantes de automóviles de Alemania</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Menú de navegación</h2>
+			<!-- header -->
+			<div id="mw-head">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Herramientas personales</h3>
+	<ul>
+<li id="pt-createaccount"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Entrar&amp;returnto=Porsche&amp;type=signup">Crear una cuenta</a></li><li id="pt-login"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Entrar&amp;returnto=Porsche" title="Te recomendamos iniciar sesión, sin embargo no es obligatorio [o]" accesskey="o">Ingresar</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Espacios de nombres</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="Porsche"  title="Ver el artículo [c]" accesskey="c">Artículo</a></span></li>
+					<li  id="ca-talk"><span><a href="http://es.wikipedia.org/wiki/Discusi%C3%B3n:Porsche"  title="Discusión acerca del artículo [t]" accesskey="t">Discusión</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variantes</span><a href="Porsche#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Vistas</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="Porsche" >Leer</a></span></li>
+					<li id="ca-edit"><span><a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=edit"  title="Puedes editar esta página. Utiliza el botón de previsualización antes de guardar [e]" accesskey="e">Editar</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=history"  title="Versiones anteriores de esta página y sus autores [h]" accesskey="h">Ver historial</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Acciones</span><a href="Porsche#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Buscar</label></h3>
+	<form action="http://es.wikipedia.org/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Buscar en este wiki [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Busca páginas con este texto." id="searchButton"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/vector/images/search-ltr.png?303-4" alt="Buscar" width="12" height="13" /></button>								<input type='hidden' name="title" value="Especial:Buscar"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/8/8c/Wikipedia-logo-v2-es.png);" href="http://es.wikipedia.org/wiki/Wikipedia:Portada"  title="Visitar la página principal"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navegación</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="http://es.wikipedia.org/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li>
+			<li id="n-portal"><a href="http://es.wikipedia.org/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li>
+			<li id="n-currentevents"><a href="http://es.wikipedia.org/wiki/Portal:Actualidad" title="Información de contexto sobre acontecimientos actuales">Actualidad</a></li>
+			<li id="n-recentchanges"><a href="http://es.wikipedia.org/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li>
+			<li id="n-newpages"><a href="http://es.wikipedia.org/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li>
+			<li id="n-randompage"><a href="http://es.wikipedia.org/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li>
+			<li id="n-help"><a href="http://es.wikipedia.org/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li>
+			<li id="n-sitesupport"><a href="http://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li>
+			<li id="n-bug_in_article"><a href="http://es.wikipedia.org/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- coll-print_export -->
+<div class="portal" role="navigation" id='p-coll-print_export'>
+	<h3>Imprimir/exportar</h3>
+	<div class="body">
+		<ul>
+			<li id="coll-create_a_book"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Porsche">Crear un libro</a></li>
+			<li id="coll-download-as-rl"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Libro&amp;bookcmd=render_article&amp;arttitle=Porsche&amp;oldid=66164594&amp;writer=rl">Descargar como PDF</a></li>
+			<li id="t-print"><a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Herramientas</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="http://es.wikipedia.org/wiki/Especial:LoQueEnlazaAqu%C3%AD/Porsche" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li>
+			<li id="t-recentchangeslinked"><a href="http://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Porsche" title="Cambios recientes en las páginas que enlazan con ésta [k]" accesskey="k">Cambios en enlazadas</a></li>
+			<li id="t-upload"><a href="http://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir imágenes o archivos multimedia [u]" accesskey="u">Subir un archivo</a></li>
+			<li id="t-specialpages"><a href="http://es.wikipedia.org/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li>
+			<li id="t-permalink"><a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;oldid=66164594" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li>
+			<li id="t-info"><a href="http://es.wikipedia.org/w/index.php?title=Porsche&amp;action=info">Información de la página</a></li>
+<li id="t-cite"><a href="http://es.wikipedia.org/w/index.php?title=Especial:Citar&amp;page=Porsche&amp;id=66164594" title="Información de como citar esta página">Citar este artículo</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" role="navigation" id='p-lang'>
+	<h3>En otros idiomas</h3>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="http://af.wikipedia.org/wiki/Porsche" title="Porsche" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="http://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%B1%D8%B4" title="بورش" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="http://az.wikipedia.org/wiki/Por%C5%9Fe" title="Porşe" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-be"><a href="http://be.wikipedia.org/wiki/Porsche_AG" title="Porsche AG" lang="be" hreflang="be">Беларуская</a></li>
+			<li class="interwiki-be-x-old"><a href="http://be-x-old.wikipedia.org/wiki/Porsche" title="Porsche" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li>
+			<li class="interwiki-bg"><a href="http://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%88%D0%B5" title="Порше" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bs"><a href="http://bs.wikipedia.org/wiki/Porsche" title="Porsche" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="http://ca.wikipedia.org/wiki/Porsche" title="Porsche" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="http://cs.wikipedia.org/wiki/Porsche" title="Porsche" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-da"><a href="http://da.wikipedia.org/wiki/Porsche" title="Porsche" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="http://de.wikipedia.org/wiki/Porsche" title="Porsche" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-diq"><a href="http://diq.wikipedia.org/wiki/Porsche" title="Porsche" lang="diq" hreflang="diq">Zazaki</a></li>
+			<li class="interwiki-en"><a href="http://en.wikipedia.org/wiki/Porsche" title="Porsche" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="http://eo.wikipedia.org/wiki/Porsche" title="Porsche" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="http://eu.wikipedia.org/wiki/Porsche" title="Porsche" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="http://fa.wikipedia.org/wiki/%D9%BE%D9%88%D8%B1%D8%B4%D9%87" title="پورشه" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="http://fi.wikipedia.org/wiki/Porsche" title="Porsche" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-fr"><a href="http://fr.wikipedia.org/wiki/Porsche" title="Porsche" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-gl"><a href="http://gl.wikipedia.org/wiki/Porsche" title="Porsche" lang="gl" hreflang="gl">Galego</a></li>
+			<li class="interwiki-he"><a href="http://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%A9%D7%94" title="פורשה" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hi"><a href="http://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A5%87" title="पोर्शे" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="http://hr.wikipedia.org/wiki/Porsche" title="Porsche" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-hu"><a href="http://hu.wikipedia.org/wiki/Porsche" title="Porsche" lang="hu" hreflang="hu">Magyar</a></li>
+			<li class="interwiki-id"><a href="http://id.wikipedia.org/wiki/Porsche" title="Porsche" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="http://is.wikipedia.org/wiki/Porsche" title="Porsche" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="http://it.wikipedia.org/wiki/Porsche" title="Porsche" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-ja"><a href="http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AB%E3%82%B7%E3%82%A7" title="ポルシェ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ka"><a href="http://ka.wikipedia.org/wiki/Porsche" title="Porsche" lang="ka" hreflang="ka">ქართული</a></li>
+			<li class="interwiki-ko"><a href="http://ko.wikipedia.org/wiki/%ED%8F%AC%EB%A5%B4%EC%89%90" title="포르쉐" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-ku"><a href="http://ku.wikipedia.org/wiki/Porsche" title="Porsche" lang="ku" hreflang="ku">Kurdî</a></li>
+			<li class="interwiki-lt"><a href="http://lt.wikipedia.org/wiki/Porsche" title="Porsche" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-lv"><a href="http://lv.wikipedia.org/wiki/Porsche" title="Porsche" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-mr"><a href="http://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%82" title="पोर्शं" lang="mr" hreflang="mr">मराठी</a></li>
+			<li class="interwiki-nah"><a href="http://nah.wikipedia.org/wiki/Porsche" title="Porsche" lang="nah" hreflang="nah">Nāhuatl</a></li>
+			<li class="interwiki-nl"><a href="http://nl.wikipedia.org/wiki/Porsche" title="Porsche" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-nn"><a href="http://nn.wikipedia.org/wiki/Porsche" title="Porsche" lang="nn" hreflang="nn">Norsk nynorsk</a></li>
+			<li class="interwiki-no"><a href="http://no.wikipedia.org/wiki/Porsche" title="Porsche" lang="no" hreflang="no">Norsk bokmål</a></li>
+			<li class="interwiki-pl"><a href="http://pl.wikipedia.org/wiki/Porsche" title="Porsche" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pms"><a href="http://pms.wikipedia.org/wiki/Porsche" title="Porsche" lang="pms" hreflang="pms">Piemontèis</a></li>
+			<li class="interwiki-pnb"><a href="http://pnb.wikipedia.org/wiki/%D9%BE%D9%88%D8%B1%D8%B4%DB%92" title="پورشے" lang="pnb" hreflang="pnb">پنجابی</a></li>
+			<li class="interwiki-pt"><a href="http://pt.wikipedia.org/wiki/Porsche" title="Porsche" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="http://ro.wikipedia.org/wiki/Porsche" title="Porsche" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-ru"><a href="http://ru.wikipedia.org/wiki/Porsche" title="Porsche" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="http://simple.wikipedia.org/wiki/Porsche" title="Porsche" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="http://sk.wikipedia.org/wiki/Porsche" title="Porsche" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="http://sl.wikipedia.org/wiki/Porsche" title="Porsche" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sq"><a href="http://sq.wikipedia.org/wiki/Porsche" title="Porsche" lang="sq" hreflang="sq">Shqip</a></li>
+			<li class="interwiki-sr"><a href="http://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%88%D0%B5_(%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0)" title="Порше (фабрика)" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sv"><a href="http://sv.wikipedia.org/wiki/Porsche" title="Porsche" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-ta"><a href="http://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%B0%E0%AF%8D%E0%AE%B7%E0%AF%8D" title="போர்ஷ்" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-th"><a href="http://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8A%E0%B9%88" title="ปอร์เช่" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tr"><a href="http://tr.wikipedia.org/wiki/Porsche" title="Porsche" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="http://uk.wikipedia.org/wiki/Porsche" title="Porsche" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="http://ur.wikipedia.org/wiki/%D9%BE%D9%88%D8%B1%D8%B4%DB%92" title="پورشے" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-vi"><a href="http://vi.wikipedia.org/wiki/Porsche" title="Porsche" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="http://zh.wikipedia.org/wiki/%E4%BF%9D%E6%97%B6%E6%8D%B7" title="保时捷" lang="zh" hreflang="zh">中文</a></li>
+			<li class="interwiki-zh-yue"><a href="http://zh-yue.wikipedia.org/wiki/%E4%BF%9D%E6%99%82%E6%8D%B7" title="保時捷" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="wbc-editpage"><a href="http://www.wikidata.org/wiki/Q40993" title="Editar enlaces de interlengua">Editar los enlaces</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Esta página fue modificada por última vez el 11 abr 2013, a las 17:20.</li>
+											<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="http://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+podrían ser aplicables cláusulas adicionales.
+Léanse los <a href="http://wikimediafoundation.org/wiki/T%C3%A9rminos_de_Uso">términos de uso</a> para más información.<br />
+Wikipedia&reg; es una marca registrada de la <a href="http://www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.<br /></li><li class="noprint"><a class="internal" href="http://es.wikipedia.org/wiki/Wikipedia:Contacto">Contacto</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Pol%C3%ADtica_de_protecci%C3%B3n_de_datos_(es)" title="wikimedia:Política de protección de datos (es)">Política de privacidad</a></li>
+											<li id="footer-places-about"><a href="http://es.wikipedia.org/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://es.wikipedia.org/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+											<li id="footer-places-mobileview"><a href="http://es.m.wikipedia.org/wiki/Porsche" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="http://bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/static-1.22wmf1/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","ext.gadget.a-commons-directo","ext.gadget.refToolbar","ext.gadget.imagenesinfobox","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.articleFeedback.startup","ext.navigationTiming","mw.PopUpMediaTransform","skins.vector.js"],null,true);
+}</script>
+<script src="http://bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1047 in 0.156 secs. -->
+	</body>
+</html>
